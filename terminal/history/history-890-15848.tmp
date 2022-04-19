@@ -1,0 +1,294 @@
+exit
+cd Code
+git clone https://github.com/ahanafi/laradmin.git
+cd laradmin
+composer update
+exit
+cd Desktop
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+reboot
+git status
+ls -a
+git pull 
+cd admin
+ls 
+ls -l
+ls
+ls -a
+clear
+git add .
+ls -a
+cd .git
+cd ..
+clear
+git add .
+git commit -m "Update 23 Maret 2021"
+git push origin main
+git push origin master
+clear
+exit
+sudo service mysql start
+mysql -u root -p
+exit
+php -v
+clear
+mysql -u root -p
+clear
+sudo su
+cd Desktop
+clear
+git clonehttps://github.com/ahanafi/sistem-penilaian-guru.git
+git clone https://github.com/ahanafi/sistem-penilaian-guru.git
+cd sistem-penilaian-guru
+ls
+cd admin
+ls
+cler
+clear
+exit
+cd Desktop
+ls
+cd sistem-penilaian-guru
+ls
+rm -rf .
+ls
+rm -rf *
+ls
+ls -l
+clear
+git add .
+git commit -m "Reset all files"
+git push origin main
+git push origin master
+clear
+cd /var/www/html/skp-system
+ls
+ls -l
+touch .gitignore
+ls
+nautilus .
+clear
+ls
+git init .
+git add .
+git commit -m "Reset all files"
+git remote add origin https://github.com/ahanafi/sistem-penilaian-guru.git
+git push origin master
+ls
+ls -l
+clear
+cd ..
+cp skp-system skp-system-backup
+cp skp-system skp-system-backup -r
+ls
+cd skp-system
+git pull
+ls
+clear
+git add .
+git commit -m "Refresh all files"
+git push origin master
+git push origin master --force
+mysql -u root -p
+exit
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+exit
+clear
+php artisan make:migration add_instansi_besaran_donasi_tanggal_donasi_columns --table=donatur
+clear
+php artisan migrate
+clear
+add .
+clear
+git add .
+git commit -m "Change navigation menu, program page content, and etc"
+git push origin master
+clear
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+clear
+git add .
+git commit -m "Fix registrasi donatur"
+git push origin master
+clear
+ssh root@156.67.220.8
+cd Desktop
+clear
+cd GRAY
+LS
+cls
+clear
+ls
+cat vps-gray
+cat vps-gray.txt
+ssh root@156.67.220.8
+php artisan serve
+clear
+exit
+exit
+clear
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+clear
+matikan
+cd Desktop
+cd ls
+ls
+cd laradmin
+mysql -u root -p
+exit
+cd Desktop
+git clone https://github.com/ahanafi/laradmin.git
+clear
+cd laradmin
+composer update
+clear
+ls -l
+ls -a
+cp .env.example .env
+vi .env
+clear
+php artisan serve
+clear
+php artisan key:generate
+php artisan serve
+php artisan migrate
+php artisan serve
+matikan
+sudo nautilus /usr/share/themes
+clera
+clear
+exit
+php artisan serve
+cd Dekstop
+ls
+clear
+cd Desktop
+ls
+CD LARADMIN
+cd laradmin
+php artisan serve --port=9300
+cd Code
+ls
+cd ../Desktop
+ls
+cd AdminLTE-2.4.18
+ls
+php -S localhost:8900
+clear
+cd ..
+ls
+clear
+laravel new
+clear
+composer create-project --prefer-dist laravel/laravel laravel-adminlte
+cd laravel-adminlte
+clear
+composer require jeroennoten/laravel-adminlte
+php artisan adminlte:install
+clear
+php artisan serve --port=5000
+subl .env
+clear
+php artisan migrate
+clear
+composer require laravel/ui
+php artisan ui vue --auth
+npm install && npm run dev
+npm --version
+node -v
+sudo apt update
+clear
+apt list --upgradable
+clear
+sudo apt upgrade node
+clear
+nvm install --lts
+clear
+sudo apt upgrade nodejs
+clear
+npm --v
+node -v
+clear
+npm run dev
+clear
+php artisan adminlte:install --only=auth_views
+clear
+php artisan serve
+clear
+cd ..
+clear
+kls
+cls
+clear
+ls 
+rm -rf laradmin laravel-adminlte
+clear
+ls
+rm -rf skkni-ggan
+rm -rf skkni-gagan
+clear
+ls 
+rm -rf startbootstrap-sb-admin-2-gh-pages
+clear'
+'
+clear
+exit
+php artisan route:list
+clear
+git add .
+git commit -m "Apply AdminLTE templates"
+git push origin master
+git add .
+git commit -m "Fix article menu templates"
+git push origin master
+clear
+git add .
+git commit -m "Fix kategori and tags view"
+git push origin master
+exit
+clear
+exit
+exit
+cd /var/www/html
+cd codeigniter-smart-attendance
+ls
+codeigniter-attendance-system
+cd codeigniter-attendance-system
+clear
+ls
+php -S localhost:3000
+clear
+cd ~/Desktop/
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+sshd root@156.67.220.8
+ssh root@156.67.220.8
+exit
+cd COde
+cd Code
+ls
+cd smart-attendances-system
+cd smart-attendance-system
+clear
+adonis serve
+clear
+adonis serve --dev
+clear
+adonis --help
+a

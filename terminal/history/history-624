@@ -1,0 +1,1000 @@
+npm ci
+clear
+npm run dev
+clear
+cp .env.example .nev
+mv .nev .env
+subl .
+cd ..
+composer create-project laravel/laravel laravel-inertia
+ls
+rm -rf laravel-inertia
+composer create-project laravel/laravel laravel-inertia
+cat .env
+cd laravel-inertia
+cat .env
+cd ../pingcrm
+clear
+php artisan key:generate
+clear
+php artisan db:seed
+clear
+pgp artisan migrate
+php artisan migrate
+php artisan db:seed
+clear
+php artisan serve
+clear
+exit
+npm run watch
+clear
+npm run dev
+npm run watch
+clear
+composer require inertiajs/inertia-laravel
+clear
+php artisan inertia:middleware
+clear
+php artisan make:controller PagesController
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install
+clear
+npm install vue
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm install vue-template-compiler --save-dev --production=false
+npm install resolve-url-loader --save-dev --production=false
+clear
+npm run dev
+npm run watch
+clear
+php artisan serve
+clear
+php artisan make:controller UserController
+exit
+php artisan migrate
+php artisan make:seed UsersTableSeeder
+php artisan db:seed
+clear
+php artisan make:controller UserController -r
+php artisan serve
+clear
+matikan
+cd Code
+clear
+laravel new
+clear
+composer create-project laravel/laravel laravel-inertia-crud
+clear
+composer require inertiajs/inertia-laravel
+code .
+code laravel-inertia-crud
+exot
+exit
+php artisan migrate
+php artisan inertia:middleware
+clear
+<html>
+clerar
+clear
+composer require inertiajs/inertia-laravel
+clear
+php artisan inertia:middleware
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install
+clear
+npm run dev
+clear
+npm install bootstrap@next
+clear
+npm run watch
+clear
+npm run watch
+npm uninstall bootstrap@next
+clear
+php artisan serve
+exit
+exit
+php artisan serve
+clear
+git init
+git add .
+git commit -m "Initial commit"
+ckear
+clear
+git branch -M main
+git remote add origin https://github.com/ahanafi/laravel-inertia-crud.git
+git push -u origin main
+clear
+npm run watch
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install vue
+clear
+php artisan make:controller PagesController
+npm run watch
+clear
+npm run watch
+clear
+npm run watch
+clear
+npm run dev
+clear
+exit
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+exit
+npm run watch
+clear
+exit
+php artisan serve
+exit
+php artisan route:list
+exit
+cd Code
+ls
+clear
+composer create-project laravel/laravel laravel-jetstream-test
+cd laravel-jetstream-test
+clear
+composer require laravel/jetstream
+php artisan jetstream:install inertia
+npm install && npm run dev
+subl .
+php artisan migrate
+clear
+npm run dev
+clear
+php artisan serve --port=1000
+php artisan serve --port=2000
+exut
+exit
+php artisan serve --port=8970
+git add .
+git commit -m "Applying inertiajs response"
+git push origin main
+clear
+composer require laravel/ui
+php artisan ui vue --auth
+npm install && npm run dev
+php artisan migrate
+clear
+composer require tightenco/ziggy
+clear
+php artisan route:list
+exit
+npm run wathc
+npm run watch
+clear
+npm run watch
+php artisan serve
+php artisan route:list
+npm run watch
+git add .
+git commit -m "Add filtering key in report"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Remove hutang-piutang menu"
+git push origin main
+clear
+git add .
+git commit -m "Add sisa saldo report excel"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Fix update employee's profile and export pdf data"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add rekening info + saldo in dashboard admin"
+git push origin main
+clear
+exit
+clear
+git add .
+git commit -m "Fix error while access document form"
+git push origin master
+git add .
+git commit -m "Fix error while access document form edit"
+git push origin master
+clear
+exit
+php artisan make:controller Pegawai/MataKuliahController -r
+php artisan route:list
+clear
+exit
+php artisan route:list
+clear
+exit
+php artisan route:list
+exit
+clear
+git add .
+git commit -m "Fix error updating tentang kami"
+git push origin master
+clear
+exit
+php artisan make:migration add_foto_to_kantor_cabang --table=kantor_cabang
+php artisan migrate
+exit
+git add .
+git commit -m "Added foto to kantor cabang and fix typo"
+git push origin master
+c;ear
+clear
+git add .
+git commit -m "Add program list"
+git push origin master
+clear
+exit
+cd Downloads
+ls
+clear
+ls | grep .sh
+./dbvis_linux_12_0_5.sh
+sudo ./dbvis_linux_12_0_5.sh
+./dbvis_linux_12_0_5.sh
+sudo ./dbvis_linux_12_0_5.s
+sudo +x dbvis_linux_12_0_5.sh
+sudo chmod +x dbvis_linux_12_0_5.sh
+./dbvis_linux_12_0_5.sh
+apt list | grep db
+clear
+cd ~?
+cd ~
+ls
+cd DbVisualizer
+ls
+./uninstall
+ls
+cd ..
+ls
+exit
+git add .
+git commit -m "Add tanggal mulai in SPK and applying select2 + datepicker style"
+git push origin master
+clear
+git add .
+git commit -m "Add perincian bon in detail SPK"
+git push origin master
+exit
+git add .
+git commit -m "Add border-bottom in box-header"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Show nomor nota and bank name in pembayaran hutang
+"
+git push origin master
+git add .
+git commit -m "Add biaya produksi at laporan"
+git push origin master
+exit
+git add .
+git commit -m "Add laporan PI - excel"
+git push origin master
+git add .
+git commit -m "Fix filter status at report PI"
+git push origin master
+git add .
+git commit -m "Add filter by nomor PI at SPK Report"
+git push origin master
+exit
+git add .
+git commit -m "Add kategori - sub kategori at data hutang"
+git push origin master
+git add .
+git commit -m "Fix some typo and others"
+git push origin master
+git add .
+git commit -m "Apply load data pembayaran hutang with ajax datatables"
+git push origin master
+npm i nanoid
+exit
+npm i joi
+exit
+cd Code
+mkdir bookshelf-api
+cd bookshelf-api
+npm init
+npm i nodemon --save-dev
+npm i eslint --save-dev
+npx eslint --init
+code .
+clear
+apt install insomnia
+npm run lint
+clear
+npm i @hapi/hapi
+npm run start
+clear
+npm run start
+cd Downloads
+ls
+clear
+cd Compressed
+ls
+cd Postman-linux-*
+cd Postman-linux*
+cd Postman-linux-x64-8.3.0
+ls
+clear
+ls
+cd Postman
+ls
+./Postman
+npm i --save mysql knex
+sudo npm install -g knex
+clear
+knex
+clear
+knex migrate:make Datastructure
+exit
+npm uninstall knex mysql
+exit
+npm run start
+git add .
+git commit -m "Add tanggal mulai in detail SPK and fix searching PI Data"
+git push origin master
+php artisan serve
+exit
+npm run watch
+clear
+npm update
+clear
+composer uninstall inertiajs/inertia-laravel
+composer remove inertiajs/inertia-laravel
+composer remove laravel/ui
+clear
+git add .
+git commit -m "Remove inertiajs from project"
+clear
+git push origin main
+clear
+cd Downloads/Compressed
+ls | grep Postman
+cd Postman-linux-x64-8.3.0
+ls
+cd Postman
+ls
+./Postman
+clear
+cd ~/COde
+cd ~/Code
+ls
+clear
+ls -l
+composer create-project --prefer-dist laravel/laravel laravel-fresh
+clear
+exit
+exit
+git add .
+clear
+git commit -m "Reset file from templates"
+git push origin master
+git push origin main
+clear
+composer upgrade laravel/framework
+clear
+exit
+composer update laravel/framework
+composer update laravel/laravel
+clear
+composer install
+composer update laravel
+composer update laravel/framework
+clear
+exit
+git add .
+git commit -m "Fix program -- description only"
+git push origin master
+c;ear
+clear
+exit
+git add .
+git commit -m "Fix show all programs page"
+git push origin master
+CLEAR
+clear
+git add .
+git commit -m "Add Mata kuliah di dashboard pegawai"
+git push origin master
+exit
+cd Code/
+ls
+mkdir notes-app
+Code notes-app
+code notes-app
+npm install nanoid
+exit
+npm init --y
+npm i nodemon --save-dev
+npm i eslint --save-dev
+clear
+npx eslint --init
+clear
+npm i @hapi/hapi
+npm start
+clkear
+clear
+npm start
+clear
+npm run start-dev
+npm run
+npm run dev
+npm start
+clear
+npm start
+clear
+npm start
+cd Downloads
+ls
+cd Compressed
+clear
+ls
+cd Postman-linux-x64-8.3.0
+ls
+cd Postman
+ls
+./Postman
+exit
+git add .
+git commit -m "Add .gitignore"
+git push oriign main
+git push origin main
+clear
+git add .
+git commit -m "Remove node_modules"
+git push origin main
+clear
+git add .
+git commit -m "Update .gitignore"
+git push origin main
+git add .
+git commit -m "Add readme"
+git push origin main
+git commit -m "Updated readme"
+git add .
+git commit -m "Updated readme"
+git push origin main
+git init
+git add .
+git commit -m "Done!"
+git branch -M main
+git remote add origin https://github.com/ahanafi/dicoding-backend-bookshelf-api.git
+git push -u origin main
+clear
+touch .gitignore
+clear
+code .
+exit
+sudo su
+screencopy
+npm run start-dev
+clera
+clear
+npm install
+npm run start-dev
+git init
+git add .
+git commit -m "Initial commit"
+cler
+clear
+rm .git
+rm -r .gi
+rm -r .git
+rm -rf .git
+clear
+exit
+mysql -u root -p
+clear
+mysql -u root -p
+exit
+php artisan migrate
+clear
+php artisan migrate:refresh
+clear
+php artisan make:migration create_faculty_table
+php artisan make:migration create_faculties_table
+clear
+php artisan make:migration create_study_programs_table
+php artisan make:migration create_lecturers_table
+php artisan make:migration create_students_table
+php artisan migrate:refresh
+php artisan make:migration create_science_fields_table
+php artisan make:migration create_thesis_requirements_table
+clear
+php artisan migrate
+clear
+php artisan make:migration create_submission_of_thesis_requirements_table
+php artisan make:migration create_submission_details_thesis_requirements_table
+php artisan make:mgiration create_lecturer_competencies_table
+clear
+php artisan make:migration create_lecturer_competencies_table
+php artisan make:migration create_assessment_components_table
+clear
+php artisan make:migration create_thesis_submission_table
+clear
+php artisan make:migration create_thesis_table
+clear
+php artisan migrate
+clear
+php artisan migrate:refresh
+php artisan migrate:reset
+php artisan migrate:refresh
+php artisan migrate:rollback
+clear
+php artisan migrate:refresh
+clear
+php artisan migrate:reset
+php artisan migrate:rollback
+clear
+c;ear
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+php artisan make:migration create_submission_of_exams_table
+php artisan make:migration create_submission_of_assessments_table
+clear
+php artisan make:migraion create_assessment_schedules_table
+php artisan make:migration create_assessment_schedules_table
+clear
+php artisan make:migration create_assessment_scores_table
+clear
+php artisan make:migration create_guidance_table
+clear
+php artisan migrate:rollback
+ckear
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback
+clear
+php artisan migrate
+clear
+exit
+clear
+git add .
+git commit -m "Add table migrations"
+git push origin master
+clear
+git push origin main
+clear
+composer require laravel/ui
+clear
+exit
+nautilus .
+exit
+clear
+php artisan ui --auth
+php artisan ui bootstrap --auth
+npm install 
+clear
+npm run dev
+clear
+exit
+php artisan serve --port 1234
+clear
+exit
+composer require goldspecdigital/laravel-eloquent-uuid
+clear
+nano ~/.composer/auth.json
+composer require goldspecdigital/laravel-eloquent-uuid
+clear
+composer self-update
+clear
+locate auth.json
+composer self-update
+clear
+composer require goldspecdigital/laravel-eloquent-uuid
+clear
+exit
+locate laravel
+clear
+locate laravel | grep pdf
+exit
+clear
+php artisan migrate:refresh --seed
+clear
+php artisan migrate:refresh --seed
+CLEAR
+git add .
+git commit -m "Fix UserSeeder and database seeder"
+git push origin main
+clear
+php artisan migrate:refresh --seed
+clear
+git add .
+git commit -m "Split templating, Change login by username"
+git push origin main
+clear
+php artisan make:controller BAAK/FacultyController -r
+php artisan make:controller BAAK/StudyProgramController -r
+php artisan make:controller BAAK/LecturerController -r
+php artisan make:controller BAAK/StudentController -r
+php artisan make:controller BAAK/ScienceFieldController -r
+clear
+clear
+php artisan db:seed
+clear
+php artisan make:model Faculty
+php artisan make:model StudyProgram
+php artisan make:model Lecturer
+php artisan make:model Student
+php artisan make:model ScienceField
+php artisan make:model ThesisRequirement
+php artisan make:model AssessmentComponent
+php artisan make:model AssessmentSchedule
+php artisan make:model Guidance
+php artisan make:model LecturerCompetency
+php artisan make:model Thesis
+php artisan make:model ThesisSubmission
+php artisan make:model SubmissionThesisRequirement
+php artisan make:model SubmissionDetailsThesisRequirement
+php artisan make:model SubmissionAssessment
+php artisan make:model AssessmentScore
+clear
+php artisan make:seeder FacultySeeder
+clear
+php artisan db:seed
+clear
+git add .
+git commit -m "Add models and applying uuid column as PK"
+git push origin main
+clear
+php artisans erve
+php artisan serve
+screencopy
+sudo su
+exit
+eixt
+exit
+git add .
+git commit -m "Add CRUD Faculty"
+git push origin main
+clear
+php artisan make:controller BAAK/UserController -r
+exit
+php artisan make:component Input
+clear
+exit
+php artisan make:migration add_faculty_code_to_study_programs --table=study_programs
+php artisan migrate
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate:rollback clear
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+clear
+composer dump-autoload
+clear
+git add .
+git commit -m "Add CRUD User, Study Program and add custom helper"
+git push origin main
+clear
+exit
+screencopy
+exit
+php artisan make:component InputHorizontal
+php artisan make:component InputRadio
+clear
+php artisan make:component SelectOption
+git add .
+git commit -m "Add CRUD Lecturer and userBadge method
+"
+git push origin main
+clear
+php artisan make:component Textarea
+php artisan make:migration add_semester_to_students --table=students
+php artisan migrate
+clear
+git add .
+git commit -m "Add CRUD Student, update input-horizontal component, fix input phone in lecturer form"
+git push origin main
+clear
+git add .
+git commit -m "Add CRUD Science Field"
+git push origin main
+sudo su
+exit
+git add .
+git commit -m "Fix update 'degree' in lecturer"
+git push origin main
+clear
+php artisan make:controller BAAK/ThesisRequirementController -r
+php artisan make:controller BAAK/AssessmentScheduleController -r
+php artisan make:controller BAAK/AssessmentComponentController -r
+clear
+exit
+php artisan serve
+exit
+clear
+git add .
+git commit -m "Add CRUD thesis requirement and assessment components"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Fix add new student with semester"
+git commit -m "Fix add new student with semester and fix templating"
+git push origin main
+clear
+exit
+php artisan serv
+php artisan make:controller Student/ThesisRequirementController
+php artisan make:controller Student/ThesisSubmissionController
+php artisan make:controller Student/ThesisController
+php artisan make:controller Student/GuidanceController
+php artisan make:controller Student/AssessmentController
+clear
+php artisan make:controller Student/AssessmentResultController
+git add .
+git commit -m "Add controller for student role"
+git push origin main
+clear
+exit
+php artisan make:middleware
+clear
+php artisan make:middleware CheckRoleUser
+git add .
+git commit -m "Add middleware to check role user, 403-404 pages"
+git push origin main
+clear
+git add .
+git commit -m "Change namesapce BAAK to AcademicStaff, add custom view method by role user"
+git push origin main
+clear
+exit
+cd Code/grayweb
+php artisan serve
+clear
+connect_vps_gray
+echo $HOME;
+cd $HOME;
+ls
+subl .bashrc
+cd Desktop
+ls
+cd GRAY
+ls
+clear
+cat vps-gray.txt
+connect_ssh_gray
+cat vps-gray.txt
+connect_ssh_gray
+exit
+clear
+screencopy
+exit
+php artisan make:component Button
+exi
+git add .
+git commit -m "Add upload document of thesis requirements"
+git push origin main
+clear
+exit
+npm start-dev
+node start-dev
+clear
+npm install
+npm start-dev
+npm run start-dev
+php artisan storage:link
+clear
+exit
+git add .
+git commit -m "Fix show submission details of thesis requirements"
+git push origin main
+clear
+exit
+php artisan route:list
+git add .
+git commit -m "Add delete document of submission thesis requirement"
+git push origin main
+exit
+cd Code
+git clone https://github.com/ivanvermeyen/laravel-google-drive-demo.git
+cd laravel-google-drive-demo
+composer install
+clear 
+php artisan serve
+ls
+subl .
+php artisan serve
+clear
+php artisan key:generate
+php artisan serve
+cd ..
+rm -rf laravel-google-drive-demo
+clear
+ls
+composer create-project --prefer-dist laravel/laravel ibm-test
+Code ibm-test
+code ibm-test
+exit
+composer require tavux/laravel-ibm-cos
+screencopy
+clear
+sudo su
+exit
+sudo su
+exit
+npm init
+clear
+npm i
+clear
+exit
+npm run start-dev
+npm run start-dev
+exit
+npm o
+npm i
+clear
+npm run start-dev
+php artisan make:service
+ckear
+clear
+exit
+php artisan help
+php artisan help list
+clear
+php artisan make: --help
+clear
+composer require cloudinary-labs/cloudinary-laravel
+clear
+php artisan serve
+clear
+exit
+clear
+composer remove cloudinary-labs/cloudinary-laravel
+php artisan serve
+exit
+clear
+php artisan serve
+eixt
+exit
+git add .
+git commit -m "Refactor route names"
+git push origin main
+clear
+git add .
+git commit -m "Add component button-link"
+git push origin main
+clear
+php artisan storage:link
+clear
+git add .
+git commit -m "Add show picture"
+git push origin main
+git add .
+git commit -m "Add detail document of submissison thesis requirements"
+git push origin main
+clear
+php artisan make:controller AcademicStaff/SubmissionThesisRequirement
+php artisan make:controller AcademicStaff/SubmissionThesisRequirementController
+clear
+git add .
+git commit -m "Add submission of details thesis requirement at academic staff pages"
+git push origin main
+clear
+git add .
+git commit -m "Add status uploaded document of thesis requirements"
+git push origin main
+clear
+php artisan make:controller Student/ThesisSubmissionController --model=ThesisSubmission
+exit
+screencopy
+exit
+clear
+sudo su
+screencopy
+clear
+sudo su
+ls
+ls -a
+cd .config
+ls
+rm -rf sublime-text-3
+ls
+cd ~/.cache/sublime-text
+cd ~/.cache
+rm -rf sublime-text
+clear
+sudo su
+exit
+php artisan make:component alert
+clear
+php artisan view:clear
+php artisan cache:clear
+cd Code
+ls
+cd grayweb
+clear
+php artisan serve
+clear
+git add .
+git commit -m "Add thesis submissions to Leader of Study Program"
+git push origin main
+clear
+php artisan make:seed StudyProgramSeeder
+php artisan migrate:rollback
+php artisan migrate:reset
+clear
+php artisan migrate
+clear
+php artisan migrate:reset
+php artisan migrate --seed
+clear
+git add .
+git commit -m "Refactor migration table's code and add study programs seeder"
+git push origin main
+clear
+php artisan migrate:refresh --seed
+clear
+php artisan migrate:refresh --seed
+clear
+exit
+git add .
+git commit -m "Fix calling study programs seeder and thesis_submission's table"
+git push origin main
+clear
+php artisan storage:clear
+php artisan view:clear
+php artisan cache:clear
+clear
+exit
+git add .
+git commit -m "Fix routing, student update data, etc"
+git push origin main
+clear
+php artisan storage:link
+clear
+git add .
+git commit -m "Add response submission of thesis requirments by academic staff"
+git push origin main
+clear
+php artisan make:mail NotifyMail
+screencopy
+matikan
+exit
+git add .
+git commit -m "Fix update avatar at user and add lecturer proccess"
+git push origin main
+clear
+git add .
+git commit -m "Fix update lecturer and show leader name at study programs"
+git push origin main
+clear
+php artisan make:controller Leader/ThesisSubmission --model=ThesisSubmission
+exit

@@ -1,0 +1,1000 @@
+./push.sh "Fix edit berita acara and add detail berita acara"
+clear
+exit
+set_proxy
+clear
+matikan
+set_proxy
+matikan
+set_proxy
+clear
+exit
+./push.sh "Add cetak pdf BAP"
+unset_proxy
+clear
+sudo su
+stop_apache
+open_xampp
+exit
+open_mendeley
+matikan
+open_mendeley
+clear
+ls
+./push.sh "Add export to Excel and PDF"
+clear
+unset_proxy
+clear
+sudo su
+exit
+stop_apache
+open_xampp
+stop_apache
+open_xampp
+exit
+sudo su
+matikan
+clear
+stop_apache
+open_xampp
+reboot
+./push.sh "Add input jadwal validation, report filter data, fix form jadwal"
+./push.sh "Refactor showPageHeader function and change page header"
+composer require nesbot/carbon
+clear
+exit
+sudo su
+exit
+./push "Added UCIC Logo"
+./push.sh "Added UCIC Logo"
+./push.sh "Refactor method namaDosen, fix form BAP, detail and export PDF BAP"
+./push.sh "Fix view result export to Excel"
+exit
+stop apache2
+stop_apache
+open_xampp
+nautilus ~
+exit
+reboot
+ls
+./deploy.sh "Add some bug fixes and some features"
+cd Desktop
+ls
+clear
+mkdir INIFOLDER
+ls
+clear
+ls -l
+chmod 700 INIFOLDER
+ls -l
+rm -rf INIFOLDER
+ls -l
+exit
+clear
+ls
+clear
+set_proxy 
+clear
+unset_proxy 
+clear
+sudo su
+matikan
+stop_apache
+open_xampp
+matikan
+stop_apache
+set_proxy
+exit
+sudo su
+unset_proxy
+clear
+sudo su
+open_xampp
+set_proxy
+unset_proxy
+sudo su
+matikan
+sudo su
+exit
+cd ~/Downloads
+ls
+cd Programs
+clear
+ls
+cd ../Compressed
+nautilus .
+matikan
+stop_apache
+open_xampp
+set_proxy
+clear
+exit
+set_proxy
+exit
+unset_proxy
+exit
+git http.proxy ""
+git config http.proxy ""
+git config https.proxy ""
+clear
+exit
+sudo su 
+clear
+git add .
+git commit -m "Add profile page, update profile, and update picture"
+git push origin main
+unset_proxy
+exit
+ls
+./deploy.sh "Add kunjungan id in form kunjungan tamu"
+clear
+./deploy.sh "Change password"
+./deploy.sh "Fix form update donasi"
+clear
+exit
+./deploy.sh "Add detail donasi non-tunai"
+set_proxy
+clear
+exit
+unset_proxy
+set_proxy
+exit
+unset_proxy
+clear
+exit
+ifconfig
+exit
+subl /var/www/html/go-bengkel
+exit
+./deploy.sh "Show verifikator name with use sub query in donasi"
+git config http.proxy ""
+git config https.proxy ""
+git push origin main
+./deploy.sh "Add verifikator dashboard and office location in cetak kwitansi"
+exit
+connect_ssh_gray
+./deploy.sh "Change db connection"
+screencopy
+set_proxy
+clear
+LS
+ls
+./push.sh "Fix berita acara"
+./push.sh "Add change password user"
+./push.sh "Fix filtering report in level Kaprodi"
+screencopy
+unset_proxy
+set_proxy
+clear
+exit
+unset_proxy
+sudo su
+unset_proxy
+exit
+droidcam
+adb device
+adb devices
+droidcam
+adb devices
+droidcam
+adb devices
+clear
+cd /tmp/
+wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.7.1.zip
+unzip droidcam_latest.zip -d droidcam
+cd droidcam && sudo ./install-client
+droidcam
+ls
+./install-video
+./install-client
+sudo ./install-client
+sudo ./install-sound
+sudo ./install-video
+droidcam
+clear
+cd ~
+ls -al ~/.android
+exit
+lsmod | grep v4l2loopback_dc
+sudo apt install libcanberra-gtk-module
+apt install adb
+exit
+droidcam
+clear
+adb devices
+exit
+screencopy
+adb kill-server
+screencopy
+adb kill-server
+adb devices
+adb kill-server
+adb devices
+exit
+ls
+php -S localhost:1200
+git config http.proxy ""
+git config https.proxy ""
+clear
+ls
+./push.sh "Add chart in dashboard"
+git push origin main
+exit
+droidcam
+exit
+screencopy
+ls
+sudo dpkg -i pencil_3.1.0.ga_amd64.deb
+matikan
+screencopy
+set_proxy
+exit
+git init
+git add .
+clear
+git commit -m "Init first"
+clear
+git branch -M main
+git remote add origin https://github.com/ahanafi/sipakar-hardware.git
+git push -u origin master
+git push -u origin main
+git add .
+git commit -m "Remove unused files"
+git push origin main
+git add .
+git commit -m "Update section text"
+git push origin main
+clear
+git add .
+git commit -m "Add database files"
+git push origin main
+./push.sh "Update readme"
+set_proxy
+./push.sh "Fix some typo and added sample data"
+cd ../../Downloads/Programs
+ls
+sudo dpkg -i zoom_amd64.deb
+cler
+clear
+exit
+unset_proxy
+clear
+sudo apt update
+sudo apt upgrade
+clear
+sudo apt dist-upgrade
+sudo apt autoremove
+clear
+sudo apt update
+reboot
+set_proxy
+clear
+exit
+set_proxy
+clear
+set_proxy
+unset_proxy
+set_proxy
+unset_proxy
+set_proxy
+exit'
+/
+exit
+cd ../
+ls
+cd 
+cd Desktop
+cd 'SKKNI 2021'
+ls
+cd TUGAS
+ls
+cd tugas-skkni
+ls
+sclear
+clear
+ls
+php -S localhost:8000
+exit
+set_proxy
+exit
+php -S localhost:6500
+exit
+php -S localhost:9200
+eixt
+exit
+clear
+set_proxy
+cd ../Downloads
+cd ../../Downloads
+clear
+ld
+ls | grep php
+php -S localhost:2000
+exit
+set_proxy
+clear
+reboot
+set_proxy
+clear
+set_proxy
+exit
+set_proxy
+clear
+exit
+php -S localhost:7000
+subl .
+php -S localhost:7000
+clear
+exit
+stop_apache
+open_xampp
+start_apache
+clear
+systemctl apache start
+systemctl apache2 start
+systemctl start apache
+systemctl start apache2
+systemctl mysql start
+systemctl start mysql
+exit
+stop_apache
+open_xampp
+exit
+cd Downloads
+ls
+clear
+cd Programs
+ls
+clear
+sudo dpkg -i Insomnia.Core-2020.5.2.deb
+ls
+cd ..
+sudo dpkg -i Insomnia.Core-2020.5.2.deb
+exit
+php -S localhost:6500
+ls
+clear
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+php -S localhost:6500
+ls
+cd implementasi
+php -S localhost:6500
+cd ../..
+php -S localhost:6500
+exit
+git config global http.proxy 192.168.43.156:44355
+git global config http.proxy 192.168.43.156:44355
+git config --global http.proxy 192.168.43.156:44355
+git config --global https.proxy 192.168.43.156:44355
+screencopy
+set_proxy
+unset_proxy
+ping 8.8.8.8
+clear
+cat .bash_profile
+cat .bashrc
+which php.ini
+where php.ini
+cd /etc/
+ls
+cd php
+la
+ls
+celar
+ls
+clear
+ls
+cd php 5.6
+ks
+clear
+cd 5.6
+ls
+cd apache2
+ls
+subl php.ini
+exit
+screencopy
+exit
+ssh root@103.39.50.106
+matikan
+sudo su
+pip install jupyter
+exit
+clear
+ssh root@103.39.50.106
+cd Desktop
+cd 'SKKNI 2021;
+'
+cd 'SKKNI 2021'
+ls
+cd TUGAS
+ls
+cd tugas-skkni
+ls
+php -S localhost:8900
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+php -S localhost:3000
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+clear
+php -S localhost:8900
+screencopy
+clear
+ssh root@103.39.50.106
+celar
+clear
+ssh poltekparprima@103.39.50.106
+exit
+stop_apache
+open_xampp
+ssh root@103.39.50.106
+sudo su
+exit
+screencopy
+sudo su
+exit
+connect_ssh_gray
+cd /Desktop
+ls
+cd Desktop
+ls
+cd GRAY
+ls
+cat vps-gray.xml
+cat vps-gray.txt]
+cat vps-gray.txt
+clear
+connect_ssh_gray
+git add .
+git commit -m "Add dynamic base url -- http or https"
+git push origin main
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+youtube-dl
+exit
+cd Downloads
+ls
+cd Programs
+ls
+clear
+ls
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~disco0_all.deb
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~disco0_all.deb --install
+sudo apt install
+sudo apt --fix-broken install
+pip install youtube-dlg
+sudo pip install youtube-dlg
+exit
+sudo pip3 install youtube-dlg
+exit
+cd Downloads/Programs
+ls -l
+sudo dpkg -i python3-tartube_2.3.85-STRICT.deb
+sudo apt --fix-broken install
+clear
+exit
+clear
+ping 8.8.8.8
+cd Downloads/Programs
+ls
+sudo dpkg -i 4kvideodownloader_4.14.2-1_amd64.deb
+sudo dpkg 
+apt list
+apt list | grep download
+apt remove --purge 4kvideodownloader/now
+apt remove --purge 4kvideodownloader*
+apt list | grep download
+apt remove --purge 4kvideodownloader
+sudo apt remove --purge 4kvideodownloader
+clear
+apt list | grep youtube
+matikan
+ls
+clear
+git add .
+git commit -m "Change base url to dynamic"
+git push origin main
+git --global config http.proxy ""
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push origin main
+exit
+killall xdman
+apt list | grep xdm
+apt list | grep x
+apt lis | grep dbeaver
+apt lis | grep db
+apt list | grep dbeaver
+sudo apt remove --pu
+sudo apt remove --purge dbeaver-ce
+apt list | grep magic
+sudo apt remove --purge imagemagick
+apt list | grep tartube
+sudo apt remove --purge python3-tartube
+apt list | grep pencil
+sudo apt remove --purge pencil
+clear
+ping 8.8.8.8
+stop_apache
+open_xampp
+exit
+sudo apt install obs-studio
+clear
+pip install jupyter
+clear
+jupyter notebook --allow-root
+sudo apt install jupyter-core
+clear
+jupyter notebook --allow-root
+jupyter notebook
+clear
+pip3 install jupyter
+clear
+jupyter
+jupyter notebook
+pip3 install --upgrade nbconvert
+clear
+jupyter-notebook
+sudo apt install jupyter-notebook
+clear
+jupyter-notebook
+exit
+reboot
+exit
+set_proxy
+matikan
+screencopy
+unset_proxy
+python --version
+ssh root@103.39.50.106
+exit
+ls
+cd php
+ls
+cd man
+ls
+cd man1
+ls
+cd ../..
+cd ..
+php -r "print_r(get_loaded_extensions());"
+php -v
+clear
+exit
+ssh root@103.39.50.106
+exit
+stop_apache
+open_xampp
+matikan
+screencopy
+cd Desktop
+git clone https://github.com/ahanafi/curl-consume-bri-api.git
+cd curl-consume-bri-api
+ls
+subl .
+php -S localhost:2400
+exit
+./home/ahanafi/.local/share/mendeleydesktop %f
+./home/ahanafi/.local/share/mendeleydesktop
+cd /home/ahanafi/.local/share/mendeleydesktop
+ls
+./mendeleydesktop
+cd flutter-projects
+ls
+rm -rf calculator_app
+clear
+cd flutter-projects
+rm -rf calculator_app
+cd ..
+cd flutter-projects
+rm -rf calculator_app
+ls
+clear
+exit
+set_proxy
+screencopy
+exit
+screencopy
+unset_proxy
+exit
+screencopy
+adb kill-server
+adb start-server
+screencopy
+adb devices
+set_proxy
+exit
+unset_proxy
+exit
+screencopy
+set_proxy
+screencopy
+unset_proxy
+exit
+pkill java
+exit
+screencopy
+clear
+set_proxy
+clear
+exit
+unset_proxy
+exit
+clear
+flutter channel dev
+flutter upgrade
+cls
+flutter upgrade --force
+flutter pub get
+unset_proxy
+clear
+git config
+clear
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+exit
+flutter channel dev
+flutter doctor
+flutter doctor --android-licenses
+sudo flutter doctor --android-licenses
+clear
+flutter doctor
+pub outdated --no-dev-dependencies --up-to-date --no-dependency-overrides
+flutter pub outdated --no-dev-dependencies --up-to-date --no-dependency-overrides
+flutter pub outdated --no-dev_dependencies --up-to-date --no-dependency-overrides
+exit
+set_proxy
+kill java
+pkill java
+clear
+flutter --version
+exit
+screencopy
+exit
+dart --version
+git add .
+clear
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git push -u origin main
+git add README.md
+touch README.md
+clear
+ls -l
+ks
+ls
+rm README.md
+ls -l
+ls -la
+rm -rf .git
+clear
+cd my_calculator_app
+git init
+git add .
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git commit -m "Change project directory
+"
+git push origin main
+git add .
+git commit -m "Change directory project"
+git push origin main
+clear
+ls -l
+ls -al
+git init
+git commit -m "Initial commit"
+rm -rf .git
+clear
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git branch -M main
+git push origin main
+clear
+git add .
+git commit -m "Updated readme"
+git push origin main
+set_proxy
+celar
+clear
+sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+sudo apt-get update
+clear
+unset_proxy
+clear
+exit
+ls
+cd my_calculator_app
+clear
+git add .
+git commit -m "Fix responsive views and add border each button"
+git push origin main
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push origin main
+clear
+git add .
+git commit -m "Added preview img and updated README"
+git push origin main
+git add .
+git commit -m "Change preview image url in readme"
+git push origin main
+set_proxy
+clear
+pub get
+flutter pub get
+clear
+flutter
+unset_proxy
+clear
+exit
+cd Desktop
+git clone https://github.com/afzalali15/wall_street_news.git
+git config --global https.proxy ""
+git config --global http.proxy ""
+clear
+git clone https://github.com/afzalali15/wall_street_news.git
+cd wall_street_news
+flutter pub get
+flutter run
+Code .
+code .
+exit
+unset_proxy
+celar
+clear
+exit
+git config --global https.proxy ""
+git config --global http.proxy ""
+git add .
+git commit -m "Refactor widget and fix responsive screen"
+git push origin main
+exit
+git add .
+git commit -m "Remove background in text expression"
+git push origin main
+matikan
+set_proxy
+clear
+exit
+git add .
+git commit -m "Remove debug banner"
+git push origin main
+git add .
+git commit -m "Fix height buttons container"
+git push origin main
+git add .
+git commit -m "Fix immutable property"
+git push origin main
+exit
+sudo su
+cd flutter-projects
+cd my_news_app
+clear
+flutter pub get
+clear
+echo JAVA_HOME;
+cd JAVA_HOME;
+cd $JAVA_HOME;
+echo $JAVA_HOME;
+ls
+sudo nautilus .
+which php.ini
+where php.ini
+find php.ini
+exit
+cd ../../flutter-projects
+cd my_news_app
+flutter pub get
+cd ..
+rm -rf my_news_app
+ls
+exit
+unset_proxy
+clear
+sudo su
+exit
+cd ~/
+clear
+screencopy
+exit
+git config --global http.proxy ""
+git config --global https.proxy ""
+exit
+stop_apache
+open_xampp
+sudo su
+exit
+cd Programs
+cd Downloads/Programs
+clear
+ls
+sudo dpkg -i code_1.53.2-1613044664_amd64.deb
+reboot
+cd ..
+clear
+git clone https://github.com/kaparray/NewsDaily.git
+cd NewsDaily
+ls
+cd news_app
+code .
+cd ../..
+git clone https://github.com/CoderJava/Flutter-News-App.git
+code Flutter-News-App
+cd Desktop
+git clone https://github.com/Salby/novum.git
+code .
+code novum
+cd ..
+git clone https://github.com/zubeirtech/idyll.git
+code idyll
+cd Desktop
+git clone https://github.com/theindianappguy/FlutterNewsApp.git
+cd FlutterNewsApp
+flutter pub get
+flutter run
+code .
+exit
+cd Desktop
+git clone https://github.com/jameelsocorro/profile_app_ui.git
+cd profile_app_ui
+flutter pub get
+flutter run
+exit
+ping 8.8.8.8
+screencopy
+exit
+set_proxy
+unset_proxy
+clear
+exit
+screencopy
+exit
+ls
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ahanafi/flutter-ucic-profile.git
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push -u origin main
+git add .
+git commit -m "Add preview and update README"
+git push origin main
+set_proxy
+clear
+exit
+unset_proxy
+clear
+exit
+sudo apt install imagemagick -quality 100
+sudo apt install imagemagick
+screencopy
+set_proxy
+screencopy
+youtube-dl
+clear
+cd Desktop
+youtube-dl -citk --max-quality FORMAT http://www.youtube.com/playlist?list=PLhthwmHOg66-tBrCWsldo6QoQSK2UOjIT
+clear
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+unset_proxy
+ssh root@103.39.50.106
+sudo su
+cd Downloads
+ls | grep .deb
+sudo dpkg -i master-pdf-editor-5.7.20-qt5.x86_64.deb
+exit
+set_proxy
+matikan
+unset_proxy
+clear
+exit
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Add status donasi and form verifikasi"
+git push origin main
+git add .
+git commit -m "Separate donasi and status donasi"
+git push origin main
+exit
+cd Desktop
+ls
+cd GRAY
+clear
+ls
+cd vps-gray.txt
+cat vps-gray.txt
+connect_ssh_gray
+composer require https://github.com/nim4n136/format-tanggal-indonesia.git
+composer require nim4n/date-format-indonesia
+exit
+git add .
+git commit -m "Add schedule accuration"
+git push origin main
+exit
+cd Desktop
+ls
+clear
+git clone https://github.com/kikiyuniar/upload-to-google-drive-php.git
+cd upload-to-google-drive-php
+ls
+mv upload.php index.php
+php -S localhost:2000
+cd ..
+cd upload-to-google-drive-php
+composer require masbug/flysystem-google-drive-ext
+php -S localhost:2000
+subl .
+php -S localhost:2000
+clear
+cd /var/www/html
+mkdir gdrive-api
+cd gdrive-api
+composer require google/apiclient:^2.0
+subl .
+php quickstart.php
+exit
+stop_apache
+open_xampp
+matina
+matikan
+cd Desktop
+git clone https://github.com/hasankadelp/Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API.git
+cd Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API
+ks
+ls
+clear
+ls
+subl .
+cd ..
+mv Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API DriveSubmIt
+ls
+nautilus .
+cd /var/www/html
+subl DriveSubmIt
+exit
+php google-drive.php
+clear
+php quickstart.php
+clear
+php google-drive.php
+clear
+php google-drive.php
+clear
+composer require google/apiclient:^2.0
+clear
+php quickstart.php
+composer update
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+composer require google/apiclient:^2.0
+composer update
+clear
+exit

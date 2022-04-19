@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM (SELECT * FROM `nota_penjualan` JOIN `pelanggan` USING (`id_pelanggan`) JOIN `sales` USING (`id_sales`)) SqueryAux

@@ -1,0 +1,5 @@
+com.kevinlinxp.sublimeSnippetsSupport
+com.laravel_idea.plugin
+com.niclas-van-eyk.laravel-make-integration
+com.taff.plugin.orchide
+com.vladsch.idea.multimarkdown

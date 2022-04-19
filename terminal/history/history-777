@@ -1,0 +1,1000 @@
+clear
+ls
+ls -a
+touch .gitignore
+exit
+cd Learning/go-basic/
+clear
+ls
+ls -a
+git status
+git add helloworld.go number.go string.go boolean.go variable.go
+ld
+clear
+ls
+clear
+git status
+go run helloworld.go 
+ls
+clear
+cd ..
+cp go-basic basic-go
+cp -rf go-basic basic-go 
+clear
+ls
+cd go-basic/
+ls
+ls -a
+rm -rf .git .idea
+clear
+cd Learning/go-basic/
+clear
+touch README.md
+clear
+exig
+exit
+clear
+sudo apt install putty
+clear
+puttygen -t rsa -b 2048 -o mykey.ppk
+puttygen -L mykey.ppk
+ls
+cp mykey.ppk ~/Desktop/
+sudo
+clear
+sudo apt install putty
+sudo apt remove --purge putty
+clear
+cd ~/.ssh
+ls
+clear
+ssh-keygen -t rsa
+ls
+cat niagahoster.pub 
+ssh u1688028@217.21.72.67
+ssh u1688028@217.21.72.67 -p 65001
+ssh u1688028@bagrenminssdmpolri.com -p 65001
+ssh u1688028@bagrenminssdmpolri.com
+ping bagrenminssdmpolri.com
+clear
+ssh bagrenminssdmpolri.com
+ssh bagrenminssdmpolri.com -p 65001
+ssh u1688028@bagrenminssdmpolri.com -p 65001
+cd Desktop/
+puttygen -t rsa -b 2048 -o yukcoding.ppk
+ls
+puttygen -L yukcoding.ppk 
+clear
+ssh-keygen -t rsa
+cd ~/.ssh
+ls
+ssh-copy-id u1688028@217.21.72.67
+ssh-copy-id u1688028@217.21.72.67:65002
+ssh u1688028@217.21.72.67 -p 65002
+clear
+ls
+ssh u1688028@217.21.72.67 -p 65002
+exit
+cd /var/www/html
+ls
+mkdir info
+cd info/
+vi index.php
+exit
+cd /var/www/html/letter-app/
+ls
+cd public/
+ls
+ll
+exit
+composer init
+clear
+composer int
+clear
+composer init
+composer dump-autoload
+composer install
+clear
+./vendor/bin/phpunit --version
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git init
+git status
+touch .gitignore
+celar
+clear
+git status
+git add .
+git commit -m "Basic unit testing with phpunit"
+git branch -M main
+git remote add origin git remote add origin git@github.com:ahanafi/php-unit-testing.git
+git remote add origin git@github.com:ahanafi/php-unit-testing.git
+git push -u origin main
+clear
+celar
+clear
+git status
+git add readme.md 
+git commit -m "Add readme"
+git push origin main 
+clear
+./vendor/bin/phpunit 
+clear
+git add .
+git status
+git commit -m "refactor with setUp method by TestCase"
+git push origin main 
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+celar
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git status
+git add .
+git commit -m "Add Collection class testing"
+git push origin main
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git add .
+git commit -m "Addition and Division Tests"
+git push origin main
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+sudo apt install php-xdebug
+clear
+php -m | grep xdebug
+clear
+systemctl restart apache2
+systemctl restart php
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+./vendor/bin/phpunit --coverage-text
+./vendor/bin/phpunit --coverage-html
+./vendor/bin/phpunit --coverage-html app
+clear
+git status
+git add .
+git commit -m "Add Calculator test"
+git push origin main
+./vendor/bin/phpunit 
+clear
+php artisan make:test Http/Controllers/Auth/LoginControllerTest
+./vendor/bin/phpunit 
+./vendor/bin/phpunit --test-dox
+./vendor/bin/phpunit --testdox
+sudo apt install php-sqlite3
+sudo apt install php7.4-sqlite3
+sudo apt install php-common
+sudo apt-get install php-sqlite3
+sudo apt-get install php7.4-sqlite3
+sudo apt install php7.4-common
+sudo apt autoremove
+clear
+php -m | grep sqlite
+php -m
+clear
+sudo pecl install sqlite
+sudp pecl install phpize
+sudo pecl install phpize
+sudo apt install phpize
+sudo pecl channel-update pear.php.net
+sudo pecl install sqlite
+clear
+sudo apt install sqlite3
+sqlite3 --version
+sudo apt install php-sqlite
+sudo apt install php7.4-sqlite
+sudo apt install php7.4-sqlite3
+sudo apt upgrade php
+sudo apt-get install php7.4 php7.4-common php7.4-cli
+sudo apt install php7.4-sqlite
+sudo apt install php7.4-sqlite3
+sudo apt install php7.4-sqlite3 --force
+clear
+sudo su
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+go run type-declarations.go 
+clear
+go run math-operations.go 
+go run comparation-operator.go 
+go run boolean
+go run boolean-operation.go 
+ls
+cd ..
+sudo chmod 777 webcamjs-php --recursive
+sudo chmod 555 webcamjs-php --recursive
+clear
+tree
+cd uploads/
+rm -rf *
+sudo rm -rf *
+clear
+cd ..
+clear
+ls
+tree
+php artisan view:clear
+php artisan config:clear
+php artisan cache:clear
+sudo php artisan cache:clear
+clear
+cd ~
+ls
+sudo subl .bashrc
+source .bashrc 
+exit
+cd Code/
+clear
+mkdir php-unit-course
+cd php-
+cd php-unit-
+cd php-unit-course/
+clear
+composer init
+clear
+composer require --dev phpunit/phpunit
+clear
+ls
+clear
+./vendor/bin/phpunit --version
+clear
+source ~/.bashrc
+clear
+phpunit
+clear
+exit
+phpunit 
+clear
+phpunit 
+clear
+update-alternatives --config php
+sudo update-alternatives --config php
+clear
+php -v
+clear
+phpunit
+sudo update-alternatives --config php
+clear
+php -v
+clear
+phpunit
+clear
+git status
+git add .
+git commit -m "Add mocking object testing"
+clear
+git branch
+git log --oneline
+clear
+phpunit
+phpunit tests/OrderTest.php 
+git add .
+git commit -m "Mock non-existing object with getMockBuilder"
+clear
+composer require mockery/mockery --dev
+clear
+git branch
+git branch integrate-mockery
+git branch
+git switch integrate-mockery 
+clear
+git status
+git commit -m "reset project"
+clear
+git status
+git add .
+git commit -m "Integrage with mockery extend testcase"
+git switch master 
+clear
+git switch integrate-mockery 
+clear
+git status
+git add .
+git commit -m "Add Order class with phpunit testing"
+clear
+phpunit tests/OrderTest.php 
+git add .
+git commit -m "Add testOrderIsProcessedUsingMockery"
+clear
+git branch
+git branch phpunit-vs-mockery
+git switch phpunit-vs-mockery 
+clear
+phpunit
+clear
+phpunit
+celar
+git add .
+git commit -m "return different value"
+clear
+git status
+clear
+git branch
+git switch master 
+clear
+git branch -M main
+git branch
+git remote add origin git@github.com:ahanafi/phpunit-testing-course.git
+git push -u origin
+git push -u origin main
+clear
+git branch
+git switch integrate-mockery 
+git push -u origin integrate-mockery 
+clear
+git branch
+git switch phpunit-vs-mockery 
+git push -u origin phpunit-vs-mockery 
+clear
+git branch
+clear
+git branch
+git switch integrate-mockery 
+celar
+clear
+phpunit tests/OrderTest.php 
+clear
+phpunit tests/OrderTest.php 
+celar
+clear
+git add .
+git commit -m "Add mockery spies"
+clear
+git switch main 
+clear
+git status
+git switch integrate-mockery 
+git status
+git push
+composer require --dev phpunit/phpunit
+celar
+clear
+;s
+clear
+ls
+cd ..
+ls
+rm vendor composer.json composer.lock -rf
+clear
+cd tdd-with-phpunit/
+clear
+composer require --dev phpunit/phpunit
+clear
+ls
+clear
+exit
+composer dump-autoload
+clear
+phpunit
+clear
+git init
+clear
+git branch
+git status
+clear
+git status
+clear
+touch tests/ArticleTest.php
+clear
+composer dump-autoload
+clear
+phpunit
+clear
+phpunit
+clear
+phpunit
+git add .
+git commit -m "Inital project with simple test"
+clear
+phpunit
+clear
+phpunit
+clear
+phpunit
+clear
+phpunit
+clear
+phpunit
+cclear
+clear
+phpunit
+clear
+phpunit
+clear
+git status
+git add .
+git commit -m "Applying data provider"
+clear
+git status
+git branch
+celar
+clear
+git log --oneline
+clear
+phpunit
+clear
+git add .
+git status
+git restore tests/ArticleTest.php
+clear
+git status
+git branch
+clear
+phpunit
+clear
+phpunit
+clear
+git add .
+git commit -m "Add subject test each data provider"
+clear
+git branch
+clear
+git branch
+git branch testing-non-public-method
+git switch testing-non-public-method 
+phpunit 
+clear
+git status
+git add .
+git commit -m "Init testing non-public methods"
+clear
+phpunit 
+clear
+git add .
+git commit -m "testing with protected method"
+git branch
+git branch testing-private-method
+git switch testing-private-method 
+phpunit 
+clear
+git status
+git add .
+git commit -m "testing private method with reflection class"
+phpunit 
+clear
+git add .
+git commit -m "testing private method with args"
+phpunit 
+clear
+git add .
+git status
+git commit -m "testing private of object properties"
+phpunit tests/AbstractPersonTest.php
+clear
+phpunit tests/AbstractPersonTest.php
+git add .
+git commit -m "Add testing abstract class"
+celar
+git switch main 
+clear
+phpunit
+clear
+phpunit
+phpunit tests/MailerTest.php 
+git add .
+git commit -m "testing static methods"
+clear
+git status
+git push
+clear
+git branc
+git branch
+git switch integrate-mockery 
+git push
+clear
+git log --oneline
+git branch
+git switch phpunit-vs-mockery 
+git log --oneline
+git switch testing-non-public-method 
+clear
+git status
+git push origin testing-non-public-method 
+clear
+git branch
+git switch testing-private-method 
+git push origin testing-private-method 
+clear
+git branc
+git branch
+git switch main 
+celar
+clear
+touch readme.md
+git add .
+git commit -m "added readme.md"
+git push origin main
+phpunit
+phpunit --filter=login_authenticates_and_redirects_user
+clear
+pa --help
+pa make:test Feature
+clear
+phpunit --filter=index_page_returns_a_view
+phpunit --filter=index_page_accessed_by_non_staff_user
+php artisan test
+clear
+php artisan test
+clear
+phpunit
+sudo su
+exit
+phpunit 
+pa view:eclar
+pa view:clear
+pa cache:clear
+sudo pa cache:clear
+sudo php artisan cache:clear[B
+clear
+phpunit 
+phpunit --filter=index_page_returns_a_view
+clear
+phpunit
+clear
+phpunit --filter=index_page_accessed_by_non_staff_user
+clear
+pa make:test Feature/Http/Controllers/ProfileController.php
+pa make:test Http/Controllers/ProfileController.php
+pa make:test Http/Controllers/ProfileControllerTest
+clear
+git status
+clear
+phpunit
+phpunit --filter=user_can_update_avatar
+clear
+phpunit --filter=user_can_update_avatar
+phpunit --filter=user_can_upload_and_update_avatar
+phpunit --filter=user_cannot_change_password_with_invalid_old_password
+clear
+pa test
+clear
+pa make:test Http/Controllers/SettingControllerTest
+clear
+phpunit --coverage-html coverage --coverage=filter=app
+phpunit --coverage-html coverage --coverage-filte app
+CLEA
+clear
+php -v
+php -m | grep xdebug
+clear
+sudo apt install php7.4-xdebug
+clear
+php -m | grep xdebug
+clear
+systemctl restart apache2
+clear
+phpunit --coverage-html coverage --coverage-filte app
+which php.ini
+phpunit --coverage-html coverage --coverage-filte app
+exit
+phpunit --coverage-html coverage --coverage-filte app
+phpunit --coverage-html coverage --coverage-filter app
+phpunit --coverage-html coverage --coverage-filter app tests
+exit
+sudo /etc/php
+cd /etc/php
+ls
+cd 7.4/
+ls
+cd apache2/
+ls
+sudo subl php.ini
+systemctl restart apache2
+php -v
+clear
+cd ~/
+ls
+sudo dubl .bashrc 
+sudo subl .bashrc 
+source .bashrc
+clear
+exit
+phpunit --coverage-html coverage --coverage-filter app tests
+phpunit --coverage-html coverage --coverage-filter app tests --filter=company_profile_setting_fail_update_with_empty_submitted_data
+phpunit --coverage-html coverage --coverage-filter app tests
+clear
+pa make:test Helpers/EmployeeLevelTest
+pa make:test Helpers/UtilsTest
+cd Downloads/
+python3 digest.py 
+pa serve
+clear
+cd ..
+rm -f laravue-absensi/
+rm -fr laravue-absensi/
+git clone git@github.com:daengwebid/aplikasi-laundry-laravel-5-8-vue-js-spa.git
+clear
+cd aplikasi-laundry-laravel-5-8-vue-js-spa/
+composer install
+composer update
+mysql -u root -p
+clear
+cp .env
+cp .env.example .env
+clear
+vi .env
+clear
+pa key:generate
+clear
+npm install
+php artisan migrate
+clear
+php artisan db:seed
+clear
+pa serve
+clear
+mysql -uroot -ppassword
+clear
+exit
+php artisan permission:create-role writer
+php artisan permission:create-permission "edit articles"
+php artisan permission:create-role writer web
+php artisan permission:create-permission "edit articles" web
+php artisan permission:create-role admin
+clear
+cd ,,
+cd ..
+clear
+composer create-project --prefer-dist laravel/laravel inertia-movie
+exit
+php artisan permission:create-permission "read outlets"
+php artisan permission:create-permission "create outlets"
+php artisan permission:create-permission "edit outlets"
+php artisan permission:create-permission "delete outlets"
+php artisan permission:create-permission "read couriers"
+php artisan permission:create-permission "create couriers"
+php artisan permission:create-permission "edit couriers"
+php artisan permission:create-permission "delete couriers"
+php artisan permission:create-permission "read products"
+php artisan permission:create-permission "create products"
+php artisan permission:create-permission "edit products"
+php artisan permission:create-permission "delete products"
+php artisan permission:create-role superadmin
+php artisan permission:create-role admin
+php artisan permission:create-role finance
+php artisan permission:create-role courier
+clear
+cd ..
+git clone git@github.com:daengwebid/point-of-sales.git 
+cd point-of-sales/
+cp .env.example .env
+vi .env
+composer install
+clear
+composer update
+clear
+pa db:seed
+clear
+pa migrate
+pa db:seed
+clear
+pa key:generate
+pa serve
+exit
+cd Code/
+git clone git@github.com:madmouse17/laravue-absensi.git
+mysql -u root -p
+clear
+cd laravue-absensi/
+cp .env.example .env
+clear
+composer install
+vi .env
+clear
+composer dump-autoload
+clear
+php artisan migrate
+clear
+pa key:generate
+pa storage:link
+pa optimize
+clear
+pa db:seed
+clear
+pa schedule:work
+exit
+mysql -uroot -ppassword
+clear
+exit
+git init
+clear
+git branch
+clear
+git status
+exit
+pa serve
+clear
+npm run dev
+npm run --help
+clear
+npm run watch
+clear
+exit
+composer require laravel/jetstream
+pa jetstream:install inertia
+npm php artisan vendor:publish --tag=laravel-assets --ansi --force
+php artisan vendor:publish --tag=laravel-assets --ansi --force
+npm install && npm run dev
+pa migrate
+clear
+composer require spatie/laravel-permission
+php artisan vendor:publish --provider="Spatie\Permission\PermissionServiceProvider"
+clear
+pa optimize:clear
+pa migrate
+php artisan permission:create-role user
+php artisan permission:create-role admin
+clear
+git status
+git add .
+git commit -m "Add vue pages"
+clear
+php artisan serve
+git add .
+git commit -m "Initial project with Laravel jetstream, Inertia, laravel permission"
+clear
+git status
+git log --oneline
+clear
+git status
+git add .
+git commit -m "Add admin layout"
+clear
+pa make:model Cast -m
+pa make:model Genre -m
+pa make:model Movie -m
+pa make:model Tag -m
+pa make:model TrailerUrl -m
+pa make:model TvShow -m
+pa make:model Season -m
+pa make:model Episode -m
+clear
+pa make:migration create_genre_movie_table
+pa make:migration create_cast_movie_table
+pa migrate
+pa migrate:refresh
+clear
+pa migrate
+clear
+ph
+pa
+pa permission:create-role admin
+pa permission:create-role user
+clear
+git status
+git add .
+git commit -m "Add models and migrations"
+clear
+pa make:controller Admin/MovieController
+pa make:controller Admin/TagController
+pa make:controller Admin/CastController
+pa make:controller Admin/GenreController
+pa make:controller Admin/EpisodeController
+pa make:controller Admin/TvShowController
+pa make:controller Admin/SeasonController
+clear
+git status
+clear
+git add .
+git status
+git commit -m "Add Admin routes and Controllers"
+clea
+clear
+git log --oneline
+git log
+clear
+npm run watch
+exit
+pa serve
+clear
+exut
+euxt
+exit
+exit
+pa artisan serve
+pa serve
+npm run watch
+git init
+touch readme.md
+clear
+git status
+git add readme.md 
+git commit -m "Initial project"
+clear
+git log
+cd Code/
+ls
+git clone https://github.com/wesbos/JavaScript30.git
+cd JavaScript30/
+git init
+clear
+git status
+git log
+clear
+ls -a
+rm .git
+rm .git --force
+rm -rf .git
+clear
+git init
+clear
+git status
+clear
+subl .
+nautilus .
+CLEAR
+clear
+exit
+reboot
+git status
+clear
+php -v
+clear
+sudo su
+ssh ubee@10.0.2.15
+sudo su
+exit
+clear
+cd Downloads/Programs/
+ls
+cd ..
+clear
+ls
+clear
+ls | grep balena
+cd Compressed/
+ls
+unzip balena-etcher-electron-1.7.3-linux-x64.zip 
+ls
+./balenaEtcher-1.7.3-x64.AppImage 
+sudo su
+clear
+sudo apt install boot-repari
+sudo apt install boot-repair
+reboot
+sudo nautilus
+clear
+grub-update
+update-grub
+sudo update-grub
+reboot
+clear
+sudo su
+sudo apt remove gnome-boxes
+clear
+sudo apt remove --purge virtualbox
+clear
+exit
+ps -def | grep conky
+which conky
+conky
+clear
+ls -a
+cd .config/
+ls
+clear
+which .conkyrc
+clear
+cd ..
+ls
+ls -a | grep .
+ls -a | grep .c
+ls -a | grep .con
+sudo subl .conkyrc
+clear
+exit
+which conky
+cd /usr/bin
+ll
+ll | grep conky
+clear
+ll | grep con
+clear
+cd ~
+sudo apt install conky-manager
+clear
+clear
+git statu
+git status
+git restore application/controllers/Leave.php
+git restore sonar-project.properties
+git restore .scannerwork/
+git restore .scannerwork/.
+git restore .scannerwork/*
+ckear
+ks
+ckear
+clear
+ls
+git staatus
+git status
+rm -rf .scannerwork/
+ckear
+clear
+git status
+clear
+git branch
+clear
+git status
+git add .
+git status
+clear
+git commit -m "feat: add database sql file"
+clear
+git push origin development 
+clear
+exit
+clear
+git brnach
+clear
+git branch
+git checkout main 
+git pull
+clear
+ls
+clear
+git branch
+git checkout development 
+clear
+git fetch --all
+git merge
+clear
+git status
+git add .
+git commit -m "feat: add database sql file"
+clear
+git push origin development 
+clear
+git branch
+clear
+cd ..
+clear
+ls
+clear
+git status
+clear
+git status
+git add .
+git commit -m "Add sql file"
+git push origin main
+git push origin master
+clear
+git remote set-url origin git@github.com:ahanafi/company-profile.git
+git push origin main
+git remote -v
+git push origin
+clear
+ll
+clear
+chmod -R 777 assets

@@ -1,0 +1,1 @@
+SELECT * FROM assessment_schedules where submission_assessment_id = '8e5886b3-8b7d-425c-84c1-9ecafb7562d7';

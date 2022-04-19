@@ -1,0 +1,1000 @@
+cd ..
+sudo dpkg -i Insomnia.Core-2020.5.2.deb
+exit
+php -S localhost:6500
+ls
+clear
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+php -S localhost:6500
+ls
+cd implementasi
+php -S localhost:6500
+cd ../..
+php -S localhost:6500
+exit
+git config global http.proxy 192.168.43.156:44355
+git global config http.proxy 192.168.43.156:44355
+git config --global http.proxy 192.168.43.156:44355
+git config --global https.proxy 192.168.43.156:44355
+screencopy
+set_proxy
+unset_proxy
+ping 8.8.8.8
+clear
+cat .bash_profile
+cat .bashrc
+which php.ini
+where php.ini
+cd /etc/
+ls
+cd php
+la
+ls
+celar
+ls
+clear
+ls
+cd php 5.6
+ks
+clear
+cd 5.6
+ls
+cd apache2
+ls
+subl php.ini
+exit
+screencopy
+exit
+ssh root@103.39.50.106
+matikan
+sudo su
+pip install jupyter
+exit
+clear
+ssh root@103.39.50.106
+cd Desktop
+cd 'SKKNI 2021;
+'
+cd 'SKKNI 2021'
+ls
+cd TUGAS
+ls
+cd tugas-skkni
+ls
+php -S localhost:8900
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+php -S localhost:3000
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+clear
+php -S localhost:8900
+screencopy
+clear
+ssh root@103.39.50.106
+celar
+clear
+ssh poltekparprima@103.39.50.106
+exit
+stop_apache
+open_xampp
+ssh root@103.39.50.106
+sudo su
+exit
+screencopy
+sudo su
+exit
+connect_ssh_gray
+cd /Desktop
+ls
+cd Desktop
+ls
+cd GRAY
+ls
+cat vps-gray.xml
+cat vps-gray.txt]
+cat vps-gray.txt
+clear
+connect_ssh_gray
+git add .
+git commit -m "Add dynamic base url -- http or https"
+git push origin main
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+youtube-dl
+exit
+cd Downloads
+ls
+cd Programs
+ls
+clear
+ls
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~disco0_all.deb
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~disco0_all.deb --install
+sudo apt install
+sudo apt --fix-broken install
+pip install youtube-dlg
+sudo pip install youtube-dlg
+exit
+sudo pip3 install youtube-dlg
+exit
+cd Downloads/Programs
+ls -l
+sudo dpkg -i python3-tartube_2.3.85-STRICT.deb
+sudo apt --fix-broken install
+clear
+exit
+clear
+ping 8.8.8.8
+cd Downloads/Programs
+ls
+sudo dpkg -i 4kvideodownloader_4.14.2-1_amd64.deb
+sudo dpkg 
+apt list
+apt list | grep download
+apt remove --purge 4kvideodownloader/now
+apt remove --purge 4kvideodownloader*
+apt list | grep download
+apt remove --purge 4kvideodownloader
+sudo apt remove --purge 4kvideodownloader
+clear
+apt list | grep youtube
+matikan
+ls
+clear
+git add .
+git commit -m "Change base url to dynamic"
+git push origin main
+git --global config http.proxy ""
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push origin main
+exit
+killall xdman
+apt list | grep xdm
+apt list | grep x
+apt lis | grep dbeaver
+apt lis | grep db
+apt list | grep dbeaver
+sudo apt remove --pu
+sudo apt remove --purge dbeaver-ce
+apt list | grep magic
+sudo apt remove --purge imagemagick
+apt list | grep tartube
+sudo apt remove --purge python3-tartube
+apt list | grep pencil
+sudo apt remove --purge pencil
+clear
+ping 8.8.8.8
+stop_apache
+open_xampp
+exit
+sudo apt install obs-studio
+clear
+pip install jupyter
+clear
+jupyter notebook --allow-root
+sudo apt install jupyter-core
+clear
+jupyter notebook --allow-root
+jupyter notebook
+clear
+pip3 install jupyter
+clear
+jupyter
+jupyter notebook
+pip3 install --upgrade nbconvert
+clear
+jupyter-notebook
+sudo apt install jupyter-notebook
+clear
+jupyter-notebook
+exit
+reboot
+exit
+set_proxy
+matikan
+screencopy
+unset_proxy
+python --version
+ssh root@103.39.50.106
+exit
+ls
+cd php
+ls
+cd man
+ls
+cd man1
+ls
+cd ../..
+cd ..
+php -r "print_r(get_loaded_extensions());"
+php -v
+clear
+exit
+ssh root@103.39.50.106
+exit
+stop_apache
+open_xampp
+matikan
+screencopy
+cd Desktop
+git clone https://github.com/ahanafi/curl-consume-bri-api.git
+cd curl-consume-bri-api
+ls
+subl .
+php -S localhost:2400
+exit
+./home/ahanafi/.local/share/mendeleydesktop %f
+./home/ahanafi/.local/share/mendeleydesktop
+cd /home/ahanafi/.local/share/mendeleydesktop
+ls
+./mendeleydesktop
+cd flutter-projects
+ls
+rm -rf calculator_app
+clear
+cd flutter-projects
+rm -rf calculator_app
+cd ..
+cd flutter-projects
+rm -rf calculator_app
+ls
+clear
+exit
+set_proxy
+screencopy
+exit
+screencopy
+unset_proxy
+exit
+screencopy
+adb kill-server
+adb start-server
+screencopy
+adb devices
+set_proxy
+exit
+unset_proxy
+exit
+screencopy
+set_proxy
+screencopy
+unset_proxy
+exit
+pkill java
+exit
+screencopy
+clear
+set_proxy
+clear
+exit
+unset_proxy
+exit
+clear
+flutter channel dev
+flutter upgrade
+cls
+flutter upgrade --force
+flutter pub get
+unset_proxy
+clear
+git config
+clear
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+exit
+flutter channel dev
+flutter doctor
+flutter doctor --android-licenses
+sudo flutter doctor --android-licenses
+clear
+flutter doctor
+pub outdated --no-dev-dependencies --up-to-date --no-dependency-overrides
+flutter pub outdated --no-dev-dependencies --up-to-date --no-dependency-overrides
+flutter pub outdated --no-dev_dependencies --up-to-date --no-dependency-overrides
+exit
+set_proxy
+kill java
+pkill java
+clear
+flutter --version
+exit
+screencopy
+exit
+dart --version
+git add .
+clear
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git push -u origin main
+git add README.md
+touch README.md
+clear
+ls -l
+ks
+ls
+rm README.md
+ls -l
+ls -la
+rm -rf .git
+clear
+cd my_calculator_app
+git init
+git add .
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git commit -m "Change project directory
+"
+git push origin main
+git add .
+git commit -m "Change directory project"
+git push origin main
+clear
+ls -l
+ls -al
+git init
+git commit -m "Initial commit"
+rm -rf .git
+clear
+git init
+git add .
+git commit -m "Initial commit"
+git remote add origin https://github.com/ahanafi/flutter-calculator-app.git
+git branch -M main
+git push origin main
+clear
+git add .
+git commit -m "Updated readme"
+git push origin main
+set_proxy
+celar
+clear
+sudo add-apt-repository ppa:kdenlive/kdenlive-stable
+sudo apt-get update
+clear
+unset_proxy
+clear
+exit
+ls
+cd my_calculator_app
+clear
+git add .
+git commit -m "Fix responsive views and add border each button"
+git push origin main
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push origin main
+clear
+git add .
+git commit -m "Added preview img and updated README"
+git push origin main
+git add .
+git commit -m "Change preview image url in readme"
+git push origin main
+set_proxy
+clear
+pub get
+flutter pub get
+clear
+flutter
+unset_proxy
+clear
+exit
+cd Desktop
+git clone https://github.com/afzalali15/wall_street_news.git
+git config --global https.proxy ""
+git config --global http.proxy ""
+clear
+git clone https://github.com/afzalali15/wall_street_news.git
+cd wall_street_news
+flutter pub get
+flutter run
+Code .
+code .
+exit
+unset_proxy
+celar
+clear
+exit
+git config --global https.proxy ""
+git config --global http.proxy ""
+git add .
+git commit -m "Refactor widget and fix responsive screen"
+git push origin main
+exit
+git add .
+git commit -m "Remove background in text expression"
+git push origin main
+matikan
+set_proxy
+clear
+exit
+git add .
+git commit -m "Remove debug banner"
+git push origin main
+git add .
+git commit -m "Fix height buttons container"
+git push origin main
+git add .
+git commit -m "Fix immutable property"
+git push origin main
+exit
+sudo su
+cd flutter-projects
+cd my_news_app
+clear
+flutter pub get
+clear
+echo JAVA_HOME;
+cd JAVA_HOME;
+cd $JAVA_HOME;
+echo $JAVA_HOME;
+ls
+sudo nautilus .
+which php.ini
+where php.ini
+find php.ini
+exit
+cd ../../flutter-projects
+cd my_news_app
+flutter pub get
+cd ..
+rm -rf my_news_app
+ls
+exit
+unset_proxy
+clear
+sudo su
+exit
+cd ~/
+clear
+screencopy
+exit
+git config --global http.proxy ""
+git config --global https.proxy ""
+exit
+stop_apache
+open_xampp
+sudo su
+exit
+cd Programs
+cd Downloads/Programs
+clear
+ls
+sudo dpkg -i code_1.53.2-1613044664_amd64.deb
+reboot
+cd ..
+clear
+git clone https://github.com/kaparray/NewsDaily.git
+cd NewsDaily
+ls
+cd news_app
+code .
+cd ../..
+git clone https://github.com/CoderJava/Flutter-News-App.git
+code Flutter-News-App
+cd Desktop
+git clone https://github.com/Salby/novum.git
+code .
+code novum
+cd ..
+git clone https://github.com/zubeirtech/idyll.git
+code idyll
+cd Desktop
+git clone https://github.com/theindianappguy/FlutterNewsApp.git
+cd FlutterNewsApp
+flutter pub get
+flutter run
+code .
+exit
+cd Desktop
+git clone https://github.com/jameelsocorro/profile_app_ui.git
+cd profile_app_ui
+flutter pub get
+flutter run
+exit
+ping 8.8.8.8
+screencopy
+exit
+set_proxy
+unset_proxy
+clear
+exit
+screencopy
+exit
+ls
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ahanafi/flutter-ucic-profile.git
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push -u origin main
+git add .
+git commit -m "Add preview and update README"
+git push origin main
+set_proxy
+clear
+exit
+unset_proxy
+clear
+exit
+sudo apt install imagemagick -quality 100
+sudo apt install imagemagick
+screencopy
+set_proxy
+screencopy
+youtube-dl
+clear
+cd Desktop
+youtube-dl -citk --max-quality FORMAT http://www.youtube.com/playlist?list=PLhthwmHOg66-tBrCWsldo6QoQSK2UOjIT
+clear
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+unset_proxy
+ssh root@103.39.50.106
+sudo su
+cd Downloads
+ls | grep .deb
+sudo dpkg -i master-pdf-editor-5.7.20-qt5.x86_64.deb
+exit
+set_proxy
+matikan
+unset_proxy
+clear
+exit
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Add status donasi and form verifikasi"
+git push origin main
+git add .
+git commit -m "Separate donasi and status donasi"
+git push origin main
+exit
+cd Desktop
+ls
+cd GRAY
+clear
+ls
+cd vps-gray.txt
+cat vps-gray.txt
+connect_ssh_gray
+composer require https://github.com/nim4n136/format-tanggal-indonesia.git
+composer require nim4n/date-format-indonesia
+exit
+git add .
+git commit -m "Add schedule accuration"
+git push origin main
+exit
+cd Desktop
+ls
+clear
+git clone https://github.com/kikiyuniar/upload-to-google-drive-php.git
+cd upload-to-google-drive-php
+ls
+mv upload.php index.php
+php -S localhost:2000
+cd ..
+cd upload-to-google-drive-php
+composer require masbug/flysystem-google-drive-ext
+php -S localhost:2000
+subl .
+php -S localhost:2000
+clear
+cd /var/www/html
+mkdir gdrive-api
+cd gdrive-api
+composer require google/apiclient:^2.0
+subl .
+php quickstart.php
+exit
+stop_apache
+open_xampp
+matina
+matikan
+cd Desktop
+git clone https://github.com/hasankadelp/Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API.git
+cd Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API
+ks
+ls
+clear
+ls
+subl .
+cd ..
+mv Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API DriveSubmIt
+ls
+nautilus .
+cd /var/www/html
+subl DriveSubmIt
+exit
+cd Desktop/drive-app
+ls
+nautilus .
+exit
+php google-drive.php
+clear
+php quickstart.php
+clear
+php google-drive.php
+clear
+php google-drive.php
+clear
+composer require google/apiclient:^2.0
+clear
+php quickstart.php
+composer update
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+composer require google/apiclient:^2.0
+composer update
+clear
+exit
+composer require google/apiclient:"^2.7"
+cd Desktop
+git clone https://github.com/fareed543/Uploading-files-to-Google-Drive-with-PHP.git
+subl Uploading-files-to-Google-Drive-with-PHP
+exit
+php -S localhost:8000
+exit
+php -S localhost:8000
+matikan
+cd /var/www/html
+ls
+clear
+ls
+git clone https://github.com/NSsala12/SSDassignment2.git
+cd SSDassignment2
+ls
+mv SSDassignment ../SSDassignment
+ls
+cd ..
+ls
+rm -rf SSDassignment2
+subl SSDassignment
+exit
+set
+clear
+set_proxy
+clear
+unset_proxy
+clear
+reboot
+clear
+sudo su
+exit
+composer require tavux/flysystem-ibm-cos
+composer require "cloudinary/cloudinary_php:^2"
+chmod -R 777 uploads
+exit
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+exit
+sudo su
+exit
+find mendeley
+cd Desktop
+l
+//home/ahanafi/.local/share/mendeleydesktop 
+./home/ahanafi/.local/share/mendeleydesktop 
+sudo ./home/ahanafi/.local/share/mendeleydesktop 
+sudo ./home/ahanafi/.local/share/mendeleydesktop
+cd /home/ahanafi/.local/share/mendeleydesktop 
+ls
+./mendeleydesktop
+exit
+clear
+sudo su
+exit
+reboot
+composer update
+clear
+exit
+git config --global
+clear
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Fix updating schedule accuration chart and upload image to cloudinary"
+git push origin main
+clear
+exit
+ssh root@103.39.50.106
+cd /var/www/html
+clear
+git clone https://github.com/ahanafi/finance-poltekparprima.git
+exit
+git add .
+git commit -m "Fix upload to clouds and fix error in cetak BAP"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Change connection db"
+touch .gitignore
+git add .
+git commit -m "Change DB Connection and add gitignore"
+git push origin main
+clear
+pip --version
+pip install django
+pip install django==2.2.12
+pip list
+exit
+ls
+cd Python-Projects
+clear
+django-admin
+Django-admin
+clear
+sudo apt install python3-django
+clear
+django-admin start-project basic-django
+django-admin startproject perpus
+exit
+python manage.py runserver
+cd Code
+ls
+clear
+exit
+ping 8.8.8.8
+exit
+cd Code
+ls
+clear
+git clone https://github.com/ahanafi/simpeg-server.git
+mv simpeg-server simpeg
+cd simpeg
+composer install
+composer update
+clear
+php artisan serve
+ls | grep .
+clear
+ls -l
+ls -a
+clear
+exit
+php artisan serve
+sudo su
+exit
+cd Desktp[
+cd Desktop
+clear
+virtualenv -p python3 testenv
+sudo apt install python3-virtualenv
+clear
+sudo apt autoremove
+clear
+sudo apt install python3-virtualenv
+clear
+virtualenv -p python3 testenv
+cd testenv
+source bin/activate
+git clone https://github.com/django-id/website.git
+cd website
+pip list
+pip install django
+clear
+ls
+pip install -r requirements.txt
+clear
+python manage.py makemigrations && python manage.py migrate
+clear
+ls
+python manage.py makemigrations
+cd ..
+code .
+code website
+clear
+ks
+ls
+mv website django_id
+cd django_id
+python manage.py makemigrations
+clear
+python --version
+pip list
+clear
+python manage.py makemigrations
+code .
+exit
+cd Code
+ls
+git clone https://github.com/ahanafi/smart-attendance-system.git
+cd /var/www/html
+ls
+subl codeigniter-attendance-system
+exit
+ls
+cd Desktop
+ls
+cd rsgj
+ls
+cd ..
+mv rsgj ../Code
+cd ../Code
+ls
+code rsgj
+exit
+php artisan serve
+curl http://localhost:8080/
+subl .
+clear
+php spark list
+php spark list --help
+clear
+php spark routes
+curl http://localhost:8080/users/1
+curl http://localhost:8080/users
+exit
+cd /var/www/html
+ls
+clear
+git clone https://github.com/ahanafi/rest-api-ci4.git
+cd rest-api-ci4
+ls
+clear
+composer update
+clear
+php spark serve
+clear
+php spark serve
+exit
+ngrok
+exit
+ngrok http 9000
+https://52e9825ba794.ngrok.io/exit
+exit
+ngrok 
+ngrok http -subdomain=baz 8080
+ngrok http 7000
+ngrok http localhost/finance-poltekparprima
+ngrok http http://localhost/finance-poltekparprima
+ngrok http https://localhost/finance-poltekparprima
+ngrok http https://localhost/finance-poltekparprima/
+clear
+php -S localhost:9000
+exit
+ls
+cp simpeg-server ~/Code/simpeg
+cp -rf simpeg-server ~/Code/simpeg
+cp -r simpeg-server ~/Code/simpeg
+cd ~/Code/simpeg
+ls -a
+cd simpeg-server
+l
+ls -a
+nautilus .
+exit
+cd Code
+ls
+cd simpeg
+ls
+ls -a
+clear
+php artisan serve
+cd ..
+rm -rf simpeg
+exit
+php artisan migrate --refresh
+php artisan migrate --help
+php artisan migrate
+mysql -u root -p
+exit
+cd Code/simpeg
+php artisan serve
+exit
+git add .
+git commit -m "Fix error while sending mail"
+git push origin main
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add preview image"
+git push origin main
+git push origin master
+exit
+php artisan make:migration change_pengabdian_tables
+php artisan make:migration --help
+php artisan make:migration --table=pengabdian
+php artisan make:migration change_pengabdian_tables --table=pengabdian
+clear
+composer require doctrine/dbal
+clear
+php artisan migrate
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate -v
+php artisan migrate:rollback --step=1
+php artisan migrate:rollback --step=2
+clear
+php artisan migrate
+c;ear
+clear
+php artisan migrate
+clear
+php artisan migrate
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+php artisan serve
+php artisan migrate
+clear
+php artisan make:model HasilPengabdian -m
+php artisan migrate
+exit
+git add .
+git commit -m "Add route pengabdian, controller pengabdian, hasil penelitian, etc"
+git push origin master
+clear
+php artisan make:controller Keuangan/PengabdianController
+clear
+git add .
+git commit -m "Add alur pengabdian: pegawai -> kaprodi -> lp3m"
+git push origin master
+clear
+exit
+clear
+ssh root@103.39.58.204
+ssh root@103.39.48.204
+matikan
+cd Desktop
+git clone https://github.com/ahanafi/simpeg-server.git
+ls
+rm -rf simpeg-server
+ls
+exit
+ssh root@103.39.48.204
+matikan
+php artisan storage:link
+clear
+exit
+git add .
+git commit -m "Add api testing from sikeu data"
+git push origin main
+ssh root@103.39.49.106
+ssh root@103.39.50.106
+exit
+sudo su
+php artisan route:list
+clear
+exit

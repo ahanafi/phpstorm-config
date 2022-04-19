@@ -1,0 +1,1000 @@
+git push
+cd Desktop
+mkdir instagram-test
+cd instagram-test
+subl .
+php -S localhost:8080
+php -S localhost:7000
+clear
+composer require raiym/instagram-php-scraper
+php -S localhost:7000
+eix
+cd ..
+rm -rf instagram-test
+exit
+git add .
+git commit -m "Fix instagram feed detail at kontak"
+git push
+clear
+composer require spatie/laravel-analytics
+php artisan --version
+composer update
+clear
+composer update
+clear
+git add .
+git commit -m "Upgrade laravel version 5.8 to 6.x, fix short link url"
+git push
+clear
+composer require spatie/laravel-analytics
+php artisan vendor:publish --provider="Spatie\Analytics\AnalyticsServiceProvider"
+clear
+exit
+pa serve
+exit
+pa serve --port=6800
+cd Desktop
+composer create-project laravel/laravel analytic-test
+cd analytic-test
+clear
+composer require spatie/laravel-analytics
+composer require spatie/laravel-analytics --with-all-dependencies
+php artisan vendor:publish --provider="Spatie\Analytics\AnalyticsServiceProvider"
+code .
+clear
+cd ..
+ls
+git clone git@github.com:Edgar2031/denta-admin.git
+cd denta-admin
+mysql -u root -p
+clear
+cp .env.example .env
+subl
+code .
+php artisan migrate --seed
+composer install
+php artisan migrate --seed
+php artisan migrate:refresh --seed
+pa serve
+pa key:generate
+pa serve
+cd ..
+rm -rf denta-admin
+cd storage
+ls
+cd ap
+cd pp
+cd app
+ls
+chmod -R 777 analytics
+exit
+exit
+composer require anhskohbo/no-captcha
+php artisan vendor:publish --provider="Anhskohbo\NoCaptcha\NoCaptchaServiceProvider"
+clear
+composer --help
+clear
+composer
+composer remove biscolab/laravel-recaptcha
+clear
+git add .
+git commit -m "Change recaptcha package"
+git push
+clear
+git add .
+git commit -m "Refactor routing (split by user role), add download proposal of thesis"
+git push
+ph migrate:rollback --step=4
+pa migrate:rollback --step=4
+pa migrate:rollback --step=1
+pa migrate
+clear
+git add .
+git commit -m "Fix submit response of thesis submission and fix thesis table's structure"
+git push
+clear
+git add .
+git commit -m "Refactor theses to thesis at model and controller, add detail thesis"
+git push
+git init
+touch .gitignore
+npm i
+clear
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:ahanafi/dicoding-movie-fe-expert-testing.git
+git push -u origin main
+touch readme.md
+clear
+git add .
+git commit -m "Add readme"
+git push
+git commit -m "Add first table of content"
+git add 
+git add .
+git commit -m "Add first table of content"
+git push
+npm run start-dev
+clear
+npm run test
+exit
+git add .
+git commit -m "Kutangkap Bugs Dengan Jaringan Pengaman"
+git push
+git add .
+git commit -m "Ketika Pikiranku Berubah"
+git push
+clear
+git add ,
+git commit -m "Fix failed testing -- add movie to favorite when it has no id"
+git add .
+git commit -m "Fix failed testing -- add movie to favorite when it has no id"
+git push
+clear
+git add .
+git commit -m "Jagalah kebersihan a.k.a Refactor"
+git push
+clear
+git add .
+git commit -m "Yang Mengikat Kita"
+git push
+git add .
+git commit -m "Berkolaborasi dengan Benar"
+git push
+git add .
+git commit -m "Membangun Fitur Menggunakan TDD"
+git push
+clear
+git add .
+git commit -m "Jangan Bertele-tele"
+git push
+cd Code/movie-catalogue-testing
+npm run test
+clear
+npm run test
+exit
+nrun start-dev
+clear
+nrun start-dev
+exit
+exit
+npx eslint ./src
+clear
+npx eslint ./src
+nrun start-dev
+exit
+nrun start-dev
+[A
+nrun start-dev
+clear
+npx eslint ./src
+npm run build
+nrun start-dev
+clear
+git add .
+git commit -m "Update kriteria yang belum terpenuhi"
+git push
+pa make:controller Lecturer/DataSetController
+clear
+pa pretty:route
+pa route:pretty
+clear
+pa make:model DataSet -m
+pa migrate
+clear
+npm run dev
+pa view:clear
+git add .
+git commit -m "Fix error str_slug -- convert to Str::slug"
+git push
+clear
+git add .
+git commit -m "Fix update kategori"
+git push
+clear
+git remote --help
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/grayweb.git
+git remote set-url origin git@github.com:ahanafi/grayweb.git
+git remote -v
+clear
+exit
+cd Code/grayweb
+php artisan down
+php artisan up
+cd ../../Desktop
+git clone git@github.com:suhasrkms/push-notification.git
+cd push-notification && composer install
+ckear
+clear
+mysql -u root -p
+cp .env .env.example
+cp .env.example .env
+vi .env
+code .
+pa migrate
+pa serv
+cd ,,
+cd ..
+rm -rf push-notification
+exit
+git add .
+git commit -m "Fix show category by type"
+git push
+clear
+git add .
+git commit -m "Add onesignal push notification"
+git push
+clear
+git add .
+git commit -m "Force redirect to https"
+git push
+clear
+composer require laravel-notification-channels/onesignal
+clear
+git add .
+git commit -m "Add push notif when posted new article test"
+git push
+pa serve
+clear
+git add .
+git commit -m "Add import data sets from uploaded file"
+git push
+clear
+exit
+heroku login
+heroku
+heroku apps
+heroku apps --help
+heroku apps:open ucic-smart-attendance
+heroku apps:open --help
+clear
+exit
+php artisan migrate --seed
+clear
+pa serve
+clear
+git push
+git add .
+git commit -m "Fix lecturer_competency table's"
+git push
+clear
+pa migrate --seed
+cd Desktop
+git clone git@github.com:nurisakbar/Garuda-CRUD-Generator.git
+rm -rf Garuda-CRUD-Generator
+exit
+git add .
+git commit -m "Added procfile"
+git push
+git push origin main
+cd Code/grayweb
+git push -u origin main
+git push -u origin master
+cd ../../Desktop
+mkdir ibm-test
+cd ibm-test
+composer require tavux/flysystem-ibm-cos
+subl .
+exit
+php -S localhost:3900
+git add .
+git commit -m "Refactor student/lecturer name in model"
+git push
+composer require matthewbdaly/laravel-azure-storage
+composer require matthewbdaly/laravel-azure-storage --with-all-dependency
+composer require matthewbdaly/laravel-azure-storage --with-all-dependencies
+cd Desktop
+git clone git@github.com:dryanwilliams/PHPAzStorageDemo.git
+cd PHPAzStorageDemo
+composer install
+subl .
+php -S localhost:3200
+cd ,,
+cd ..
+rm -rf PHPAzStorageDemo
+clear
+composer create-project --prefer-dist laravel/laravel laravel-azure-blob-test
+cd laravel-azure-blob-test
+clear
+code .
+composer require steffjenl/laravel-azure-blob-storage
+php -S localhost:3200
+pa serve
+composer uninstall steffjenl/laravel-azure-blob-storage
+composer remove steffjenl/laravel-azure-blob-storage
+composer require league/flysystem-azure-blob-storage
+composer require league/flysystem-azure-blob-storage --with-all-dependencies
+pa serve
+composer remove league/flysystem-azure-blob-storage --with-all-dependencies
+composer update
+pa serve
+cd Desktop
+git clone git@github.com:RCRalph/SelfAccounting.git
+composer require tavux/laravel-ibm-cos
+composer install
+exit
+exit
+composer require cloudinary-labs/cloudinary-laravel
+clear
+php artisan vendor:publish --provider="CloudinaryLabs\CloudinaryLaravel\CloudinaryServiceProvider" --tag="cloudinary-laravel-config"
+php artisan cloudinary:fetch
+pa serve
+compsoer i
+composer install
+clear
+pa serve
+clear
+pa key:generate
+clear
+pa serve
+pa key:generate
+pa serve
+cclear
+clear
+pa config:cache
+pa key:generate
+pa serve
+git add .
+git commit -m "Add text to empty favorite"
+git push
+git add .
+git commit -m "Add check internet connection before add review"
+git push
+npm install --save-dev webpack-pwa-manifest
+exit
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+npm run build
+git add .
+git commit -m "Add webpack-pwa-manifest, for automatic added manifest json file"
+git push
+clear
+git add .
+git commit -m "Add criteria per submission"
+git push
+npm install imagemin-webpack-plugin imagemin-mozjpeg --save-dev
+clear
+npm run build
+exit
+pa serve --port=1900
+composer require matthewbdaly/laravel-azure-storage
+adonis serve --dev
+clear
+adonis serve --dev
+clear
+git add .
+git commit -m "Fix chart view in dashboard using mysql"
+git push
+nrun start-dev
+nrun build
+nrun start-dev
+nrun build
+nrun start-dev
+nrun build
+nrun start-dev
+pa serve --port=9820
+composer require masbug/flysystem-google-drive-ext
+clear
+exit
+pa serve --port=9820
+clear
+git add .
+git commit -m "Set default azure blob storage as default cloud storage"
+git push
+clear
+git add .
+git commit -m "Fix apply thesis requirement"
+git push
+exit
+exit
+exit
+git add .
+git commit -m "Add detail dontur"
+git push
+clear
+git add .
+git commit -m "Fix show detail donatur"
+git push
+clear
+git add .
+git commit -m "Fix show jenis penyaluran donasi"
+git push
+exit
+git add .
+git commit -m "Add google analytics script"
+git push origin main
+git push
+pa serve
+exit
+sudo su
+matikan
+git add .
+git commit -m "Prevention of re-submit of thesis submission"
+git push
+git add .
+git commit -m "Add getLabel for showing label
+'s status"
+git push
+clear
+git add .
+git commit -m "Show thesis submission by status"
+git push
+clear
+pa pretty:route
+pa route:pretty
+clear
+git add .
+git commit -m "Fix show thesis submission by status, add download proposal by student"
+git push
+npm install dotenv-webpack --save-dev
+ckear
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Secure config with .env files"
+git push
+nrun start-dev
+clear
+npm remove dotenv-webpack --save-dev
+vlrst
+clear
+git add .
+git commit -m "Revert environtment config variable"
+git push
+git add .
+git commit -m "Fix remove webpack-env plugins"
+git push
+clear
+git add .
+git commit -m "Refactor menu (sidebar), added UCIC logo"
+git push
+clear
+git add .
+git commit -m "Fix error thesis page in student dashboard"
+git push
+exit
+exit
+pa make:component StudentWidgetTiles
+clear
+pa make:migration change_guide_to_supervisor --table=submission_of_assessments
+clear
+pa migrate
+ckear
+clear
+git add .
+git commit -m "Add dashboard content each user type"
+git push
+pa serve
+matikan
+EXIT
+exit
+clear
+sudo su
+xit
+exit
+onedriver
+onedriver -a
+sudo apt remove --purge onedriver
+exot
+exit
+CLEAR
+clear
+git add .
+git commit -m "Change asset to secure_asset"
+git push
+clear
+git add .
+git commit -m "Enable cors to fix CORS issue"
+git push
+clear
+pa config:clear
+pa view:clear
+clear
+git add .
+git commit -m "Fix asset not load in local dev"
+git push
+clear
+pa make:component LeaderStudentTiles
+pa make:component LeaderWidgetTiles
+clear
+git add .
+git commit -m "Add study program leader dashboard page"
+git push
+npm test
+clear
+npm test
+clear
+git add .
+git commit -m "Kutangkap Bugs dengan Jaringan Pengaman"
+git push
+clear
+git add .
+git commit -m "Ketika Pikiranku Berubah"
+git push
+clear
+git add .
+git commit -m "Fix testing has no id to add the favorite resto"
+git push
+clear
+nrun start-dev
+clear
+exit
+cd Code/my-resto-app
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+exut
+exit
+git add .
+git commit -m "Jagalah Kebersihan a.k.a Refactor"
+git push
+clear
+git add .
+git commit -m "Yang Mengikat Kita a.k.a Contract"
+git push
+clear
+git add .
+git commit -m "Aku Bergantung pada Bayangmu"
+git push
+npm install codeceptjs puppeteer --save-dev
+npx codeceptjs init
+clear
+npm i
+npx codeceptjs init
+npm run e2e
+clear
+npx codeceptjs init
+exit
+git add .
+git commit -m "Add codecept and puppeteer + Membekukan waktu"
+git push
+clear
+git add .
+git commit -m "Jangan Sampai Salah Nama"
+git push
+clear
+git add .
+git commit -m "Add unfavorite resto e2e testing"
+git push
+npm i sharp --dev
+rm dist
+rm -r dist
+clear
+nrun build
+nrun build-img
+exit
+npm i
+clear 
+npm run build
+npm run dev
+npm run start
+cd webp-images
+npm install imagemin-webp-webpack-plugin --save-dev
+rm -r dist
+clear
+npm run build
+clear
+cd dist
+ls -l
+cd images
+ls -l
+ls -la
+clear
+exit
+cd webp-images
+npm i
+npm run build
+npm run start
+exit
+cd lazy-loading-images
+npm run build
+npm i
+npm run start
+clear
+npm run build
+npm run start
+npm install webpack-bundle-analyzer --save-dev
+clear
+rm -r dist
+nrun build
+npm uninstall lodas
+npm uninstall lodash
+clear
+npm i lodash.filter
+nrun build
+clear
+exit
+npm i
+nrun build
+nrun start
+clear
+nrun build
+rm -r dist
+nrun build
+rm -r dist
+nrun build
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+npx codecept run --steps
+subl /home/ahanafi/.npm/_logs/2021-07-11T01_57_09_202Z-debug.log
+npm run test
+npx codecept run --steps
+clear
+npx codeceptjs run --steps
+nrun e2e
+clear
+cd dist
+ls
+cd unages
+cd images
+ls
+cd heros
+ls -l
+npm install lazysizes
+clear
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+clear
+rm -r dist
+clear
+nrun build
+nrun start-dev
+npm install webpack-bundle-analyzer --save-dev
+clear
+rm -r dist
+nrun build
+clear
+nrun build
+clear
+git add .
+git commit -m "Apply lazyloading, bundle analyzer, optimize hero image"
+git push
+clear
+git add .
+git commit -m "Delete .env files"
+git push
+npm run build
+cd Code/kang
+nrun start-dev
+exit
+elsint ./src
+eslint ./src
+eslint ./
+clear
+cd ..
+rm -rf Restopedia
+exit
+cd Desktop
+git clone git@github.com:narashliwldn/Restopedia.git
+cd Restopedia
+npm i
+npx ./eslint
+ls
+cat package.json
+clear
+cat package.json
+clear
+npx ./eslint
+npx 
+ls
+cd ..
+ls
+exit
+clear
+npm run build
+rm -r dist
+npm run build
+npm run start-dev
+clear
+npm run start-dev
+clear
+git add .
+git commit -m "Move bundle analyzer to development only"
+git push
+git add .
+git commit -m "Change http to https -- font awesome"
+git push
+clear
+npm install sharp --save-dev
+npm uninstall sharp
+clear
+nrun start-dev
+clear
+npm install sharp --save-dev
+clear
+rm -r dist
+clear
+nrun build
+nrun build-image
+npm uninstall sharp
+clear
+nrun build
+npm install sharp --save-dev
+clear
+rm -r dist
+nrun build
+clear
+node sharp.js
+clear
+npm i sharp-loader --save --dev
+rm -r dist
+nrun build
+clar
+clear
+npm uninstall sharp-loader
+clear
+nrun start-dev
+clear
+nrun build
+node sharp.js
+clear
+nrun start-dev
+clear
+git push
+clear
+git add .
+git commit -m "Applying sharp.js to resize image"
+git push
+clear
+nrun start-dev
+clear
+rm -r build
+rm -r dist
+clear
+nrun build
+clear
+rm -r dist
+clear
+node sharp.js && nrun build
+nrun build && node sharp.js
+clear
+nrun start-dev
+clear
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Optimize index.js, add app-bar and footer-bar components"
+git push
+node sharp.js
+nrun build
+clear
+rm -r dist
+node sharp.js
+clear
+node sharp.js
+rm -r dist
+clear
+node sharp.js && nrun build
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Responsive review form"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive hero element"
+git push
+rm -r dist
+node sharp.js
+nrun build
+eslint ./src
+npx eslint ./src
+clear
+nrun test
+clear
+nrun start-dev
+clear
+nrun e2e
+npm run e2e
+clear
+npm run e2e
+clear
+npm run e2e
+exit
+clear
+git add .
+git commit -m "Add review item template + add review e2e testing"
+git push
+npm run e2e
+clear
+npm run e2e
+exit
+cd Code/my-resto-app
+nrun start-dev
+CLEAR
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+exit
+npm install css-minimizer-webpack-plugin --save-dev
+npm install --save-dev optimize-css-assets-webpack-plugin
+npm install cssnano postcss --save-dev
+clear
+rm -r dist
+node sharp.js && nrun build
+exit
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive content"
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive css content v2"
+git push
+clear
+rm -r dist
+node sharp.js
+nrun build
+clear
+nrun start-dev
+clear
+rm -r dist
+clear
+node sharp.js && nrun build
+clear
+node sharp.js && nrun build
+nrun start-dev
+clear
+git add .
+git commit -m "Minify css"
+git push
+npm install --save sweetalert2
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Change default alert to sweetalert2"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Add loading"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Add not intenet connection page"
+git push
+clear
+git add .
+git commit -m "Fix minify css"
+git push
+clear
+git add .
+git commit -m "Fix logic no internet connection"
+git push
+clear
+npx eslint ./src
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix styling reviewer name, fix e2e testing with sweetalert, fix error unit testing"
+git push
+clear
+cd Code/my-resto-app
+clear
+npm start-dev
+nrun start-dev
+npm run e2e
+npx eslint ./src
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+ckear
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+exit
+cler
+clear
+git add .
+git commit -m "Fix error unit testing caused by templating"
+git push
+clear
+git add .
+git commit -m "Remove comments in testing file"
+git puhs
+git push
+cd Code/my-resto-app
+clear
+nrun start-dev
+clear
+nrun start-dev
+npm run test
+clear
+npm run test
+npm run e2e
+clear
+npx eslint ./src
+npm test
+npm run e2e
+clear
+git add .
+git commit -m "Add test-case.md"
+git push
+cd e2e/outputs
+ls
+rm *
+ls
+cd ..
+npm run e2e
+npx eslit ./src
+npm eslit ./src
+npm eslint ./src
+npx eslint ./src
+matikan
+cd Code/my-resto-app
+nrun start-dev
+pa serve
+clear
+git add .
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+git push
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+pa serve
+clear
+git add .
+git commit -m "Fix icon dashboard"
+git push
+clear
+git add .
+git commit -m "Fix show information text when image is not yet uploaded"
+git push
+clear
+git add .
+git commit -m "Try fix thumbnail image not show"
+git push
+pa serve

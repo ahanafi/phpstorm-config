@@ -1,0 +1,356 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/inputnotaspp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1950">
+              <caret line="560" column="48" selection-start-line="560" selection-start-column="48" selection-end-line="560" selection-end-column="48" />
+              <folding>
+                <element signature="e#354#1402#0#PHP" />
+                <element signature="e#1407#20016#0#PHP" />
+                <element signature="e#9820#16877#0#PHP" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/rpt.rekapmasuk.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="14144">
+              <caret line="544" selection-start-line="544" selection-end-line="544" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/kombisppnim.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="260">
+              <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+              <folding>
+                <element signature="n#_cek_nim#0;n#!!top" />
+                <element signature="n#_display#0;n#!!top" />
+                <element signature="n#do_delete#0;n#!!top" />
+                <element signature="n#do_edit#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/funct/dbfunctions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="674">
+              <caret line="104" column="58" selection-start-line="104" selection-start-column="58" selection-end-line="104" selection-end-column="58" />
+              <folding>
+                <element signature="e#6#76#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/includes/_cls.kombispp.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="182">
+              <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+              <folding>
+                <element signature="n#SelectCut_TaJenKdpstNoRekSemGel#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TA#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TA_Prodi#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TA_GroupBy_NoRek#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TAJenPro_GroupBy_NoRek#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TAJenProSem#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TAJenProNoRekSem#0;n#kombispp#0;n#!!top" />
+                <element signature="n#SelectBy_TA_NoRek#0;n#kombispp#0;n#!!top" />
+                <element signature="n#PKExists#0;n#kombispp#0;n#!!top" />
+                <element signature="n#chkarr_UraianNoRek#0;n#kombispp#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/views/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="624">
+              <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/sikeu/templates/inputnotaspp2.php">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>'B'</find>
+      <find>---</find>
+      <find>cbx_filter_norek</find>
+      <find>PARAMETER</find>
+      <find>btnSimpan_Click()</find>
+      <find>NoNotaBaru</find>
+      <find>NoNotaBar</find>
+      <find>fetcg</find>
+      <find>kombisppnim.php</find>
+      <find>--f--</find>
+    </findStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/baa</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/baa/index.php" />
+        <option value="$PROJECT_DIR$/sikeu/includes/_cls.kombispp.php" />
+        <option value="$PROJECT_DIR$/sikeu/includes/cls.coa.php" />
+        <option value="$PROJECT_DIR$/sikeu/views/header.php" />
+        <option value="$PROJECT_DIR$/sikeu/includes/cls.notaspp.php" />
+        <option value="$PROJECT_DIR$/sikeu/rpt.rekapmasuk.php" />
+        <option value="$PROJECT_DIR$/funct/dbfunctions.php" />
+        <option value="$PROJECT_DIR$/sikeu/includes/cls.kombi.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="28" width="1900" height="1052" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="siakad" type="b2602c69:ProjectViewProjectNode" />
+              <item name="siakad" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="10548000" />
+  </component>
+  <component name="ToolWindowManager">
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.17075774" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.43240222" />
+      <window_info anchor="bottom" id="Run" order="3" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Laravel Tinker" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/baa/activity.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2590">
+          <caret line="56" column="84" selection-start-line="56" selection-start-column="84" selection-end-line="56" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/baa/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="220" column="71" selection-start-line="220" selection-start-column="71" selection-end-line="220" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/includes/pmb/cls.prodipmb.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/includes/cls.coa.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="308" column="23" selection-start-line="308" selection-start-column="23" selection-end-line="308" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/rpt.rekapspp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-246">
+          <caret line="1273" column="68" selection-start-line="1273" selection-start-column="68" selection-end-line="1273" selection-end-column="68" />
+          <folding>
+            <element signature="n#_arr_for_norek#0;n#!!top" />
+            <element signature="n#_open_file_cache#0;n#!!top" />
+            <element signature="n#_write_file_cache#0;n#!!top" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#span#0;n#!!top" expanded="true" />
+            <element signature="e#22#28#1" expanded="true" />
+            <element signature="e#27#33#1" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/page.end.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#div#0;n#div#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/templates/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1734">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/templates/msgbox.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/page.start.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2410">
+          <folding>
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#img#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#div#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/includes/cls.kombi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1582">
+          <caret line="92" column="2" selection-start-line="92" selection-start-column="2" selection-end-line="92" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/includes/cls.notaspp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="121">
+          <caret line="294" column="9" lean-forward="true" selection-start-line="294" selection-start-column="9" selection-end-line="294" selection-end-column="9" />
+          <folding>
+            <element signature="n#get_LastSem#0;n#notaspp#0;n#!!top" />
+            <element signature="n#get_LastGel#0;n#notaspp#0;n#!!top" />
+            <element signature="n#FormatRow#0;n#notaspp#0;n#!!top" />
+            <element signature="n#NoNotaBaru#0;n#notaspp#0;n#!!top" />
+            <element signature="n#Update#0;n#notaspp#0;n#!!top" />
+            <element signature="n#GetCatatanByNimSem#0;n#notaspp#0;n#!!top" />
+            <element signature="n#UpdateKet#0;n#notaspp#0;n#!!top" />
+            <element signature="n#AutoHerRegistrasi#0;n#notaspp#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/inputnotaspp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1950">
+          <caret line="560" column="48" selection-start-line="560" selection-start-column="48" selection-end-line="560" selection-end-column="48" />
+          <folding>
+            <element signature="e#354#1402#0#PHP" />
+            <element signature="e#1407#20016#0#PHP" />
+            <element signature="e#9820#16877#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/rpt.rekapmasuk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14144">
+          <caret line="544" selection-start-line="544" selection-end-line="544" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/kombisppnim.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+          <folding>
+            <element signature="n#_cek_nim#0;n#!!top" />
+            <element signature="n#_display#0;n#!!top" />
+            <element signature="n#do_delete#0;n#!!top" />
+            <element signature="n#do_edit#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/includes/_cls.kombispp.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="16" selection-start-line="7" selection-start-column="16" selection-end-line="7" selection-end-column="16" />
+          <folding>
+            <element signature="n#SelectCut_TaJenKdpstNoRekSemGel#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TA#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TA_Prodi#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TA_GroupBy_NoRek#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TAJenPro_GroupBy_NoRek#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TAJenProSem#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TAJenProNoRekSem#0;n#kombispp#0;n#!!top" />
+            <element signature="n#SelectBy_TA_NoRek#0;n#kombispp#0;n#!!top" />
+            <element signature="n#PKExists#0;n#kombispp#0;n#!!top" />
+            <element signature="n#chkarr_UraianNoRek#0;n#kombispp#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/views/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="24" column="22" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/sikeu/templates/inputnotaspp2.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funct/dbfunctions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="674">
+          <caret line="104" column="58" selection-start-line="104" selection-start-column="58" selection-end-line="104" selection-end-column="58" />
+          <folding>
+            <element signature="e#6#76#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

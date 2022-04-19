@@ -1,0 +1,1 @@
+UPDATE lecturers SET quota = 8 WHERE quota > 8;

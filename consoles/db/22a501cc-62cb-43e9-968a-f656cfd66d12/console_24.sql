@@ -1,0 +1,1 @@
+SELECT `dosen`.*, `program_studi`.`kode_program_studi` AS `kode_prodi`, `program_studi`.`jenjang`, `program_studi`.`nama_program_studi` AS `prodi` FROM `dosen` JOIN `program_studi` USING (`id_program_studi`) ORDER BY `nama_lengkap` ASC

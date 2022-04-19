@@ -1,0 +1,1 @@
+SELECT * FROM rekening_koran WHERE id_bank = '1' AND (tanggal BETWEEN '2020-07-01' AND '2020-07-02')

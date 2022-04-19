@@ -1,0 +1,7 @@
+INSERT INTO `rekening_koran` (`id_rekening_koran`, `id_bank`, `tanggal`, `no_bukti`, `keterangan`, `jenis_biaya`, `nominal`, `saldo`, `oleh`, `kode_pembayaran`, `status`) VALUES
+(4, 1, '2020-07-01', '0', 'SALDO AWAL', 'SALDO', 50098817, 50098817, '0', '', 1),
+(5, 1, '2020-07-02', 'BCK2007/001', 'BAYAR KE PT PANTJA NOTA 218', 'KELUAR', 35471000, 35471000, 'PT PANTJA JAYA', 'TF-0001', 1),
+(6, 1, '2020-07-06', 'BCM2007/001', 'TRANFER BAYAR NOTA 4', 'MASUK', 7106000, 7106000, 'SINAR JAYAKARTA', 'PU-0001', 0),
+(7, 1, '2020-07-06', 'BCM2007/002', 'TRANFER BAYAR NOTA 2', 'MASUK', 5815000, 5815000, 'SINAR JAYAKARTA', 'PU-0002', 0),
+(8, 1, '2020-07-16', 'BCM2007/003', 'TRANFER BAYAR NOTA 9', 'MASUK', 275000, 275000, 'ADI', 'PU-0003', 0),
+(9, 2, '2020-11-20', 'BCMKDAS/020', 'PEMABYARAN NOTA', 'KELUAR', 8536000, 8536000, 'ANU', 'PU-0004', 1);

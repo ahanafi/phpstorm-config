@@ -1,0 +1,1000 @@
+git status
+clear
+git add .
+git commit -m "Fix invalid route name in API/Controllers"
+git push origin refactor-version 
+celar
+clear
+git checkout main 
+git pull
+clear
+git checkout refactor-version 
+celar
+clear
+git add .
+git commit -m "Fix disposition in incoming mail"
+git push origin refactor-version 
+pa serve --port=7500
+clear
+matikan
+git branch
+git switch main 
+clear
+git branch backup
+git switch backup
+git branch
+git push origin backup
+git switch refactor-version 
+clear
+git switch main
+git pull
+clear
+clear
+git add .
+git commit -m "Report for spreadhseet"
+git push
+clear
+git status
+git add .
+git commit -m "reset db connection"
+git status
+git push
+boot-repair
+sudo apt install boot-repair
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+sudo apt-get install -y boot-repair && boot-repair
+reboot
+cleaf
+clear
+git add .
+git commit -m "Add export presence report to spreadsheet"
+git push
+clear
+ls
+cp .env.example .env
+npm run dev
+clear
+pa key:generate
+pa migrate
+pa storage:link
+clear
+pa serve
+clear
+cd ..
+exit
+git init
+git add .
+git commit -m "Initial project"
+git status
+git reset --hard HEAD
+git status
+clear
+git reset HEAD~1
+git status
+clear
+git add .
+git commit -m "Initial project"
+git branch -M main
+git remote add origin git@github.com:ahanafi/blanjain.git
+git remote -v
+clear
+git init
+git add .
+git branch -M main
+git remote add origin git@github.com:ahanafi/blanjain.git
+git remote -v
+git remote --set-url origin git@github.com:ahanafi/blanjain.git
+git remote set-url --fetch git@github.com:ahanafi/blanjain.git
+git remote set-url --push git@github.com:ahanafi/blanjain.git
+git remote set-url --push origin git@github.com:ahanafi/blanjain.git
+git remote set-url --add origin git@github.com:ahanafi/blanjain.git
+git remote set-url --delete origin git@github.com:ahanafi/blanjain.git
+clear
+git remote -v
+git remote --help
+git remote remove git@github.com:nyancodeid/laravel-8-stisla-jetstream.git
+git remote --help
+clear
+cd .git
+ls
+cat config 
+vi config 
+clear
+cd ..
+git remote -v
+clear
+git status
+git push origin main
+cd .git
+ls
+cd info
+ls
+cd ..
+clear
+ls
+cd ..
+rm .git
+rm -rf .git
+exit
+cd Code/
+git clone git@github.com:nyancodeid/laravel-8-stisla-jetstream.git blanja-in
+cd blanja-in/
+composer install
+composer update
+npm install
+clear
+cd ..
+mv blanja-in blanjain
+clear
+mv blanjain belanjain
+exit
+git init
+git add .
+git commit -m "Initial project"
+git branch -M main
+git remote add origin git@github.com:ahanafi/belanjain.git
+git push -u origin main
+clear
+pa make:model Transaction -mcr
+pa make:model Customer -mcr
+pa make:model Order -mcr
+pa make:model OrderDetail -m
+pa make:model Item -mcr
+git remote -v
+clear
+pa make:model OrderItem -mc
+pa migrate
+git add .
+git status
+git commit -m "Add database migration and models"
+git push origin main
+pa make:seed UsersTableSeeder
+pa db:seed
+clear
+git add .
+git commit -m "Add users table seeder"
+git push origin main
+pa routes
+pa routes:list
+pa route:list
+clear
+composer require garygreen/pretty-routes
+composer require barryvdh/laravel-debugbar --dev
+clear
+exit
+pa storage:link
+cd Desktop
+git clone git@github.com:mertayasa/laravel-stisla-boiler-plate.git
+cd laravel-stisla-boiler-plate/
+composer install
+pa serve
+clear
+ls
+cp .env.example .env
+pa key:generate
+pa serve
+clear
+rm -rf .git
+cd ..
+rm -rf laravel-stisla-boiler-plate/
+clear
+exit
+screencopy
+pa migrate:refresh --step=1
+clear
+pa migrate
+celar
+clear
+pa migrate
+pa migrate --help
+pa migrate --verbose=3
+pa migrate --verbose
+clear
+git add .
+git commit -m "Fix update letter groups code not updated, change mails table structure"
+git push
+clear
+pa view:clear
+git add .
+git commit -m "Split 'number' column to 'manual_number, month, year, default_text'"
+git push origin main
+cd Code/belanjain/
+rm -rf *
+ls
+ls -a
+rm .env.example .env .styleci.yml 
+git add .
+git commit -m "Reset project"
+git push
+clear
+cd ../viho/
+pa serve --port=6500
+git pull origin
+clear
+pa migrate
+pa storage:link
+clear
+exit
+clear
+git branch
+git switch backup 
+git branch
+git add .
+git commit -m "Change width card for large device"
+git push
+git switch backup 
+clear
+git fetch --all
+git merge
+clear
+git switch main
+git status
+git add .
+git commit -m "Fix check remain leave"
+git push
+clear
+git add .
+git commit -m "Fix invalid link in permit letter"
+git push\
+git push
+clear
+git add .
+git commit -m "Fix edit leave permission"
+git push
+cd Code/viho/
+clear
+pa serve --port=6500
+pa view:clear
+pa cache:clear
+mysql -u root -ppassword
+exit
+composer install
+cd Code/
+ls
+cd belanjain/
+composer create-project laravel/laravel .
+ls
+ll
+rm -rf *
+ls
+clear
+la
+ls -a
+cd ..
+rm -rf belanjain
+git clone git@github.com:rehmatworks/stisla-laravel.git
+cd stisla-laravel/
+composer install
+clear
+cat composer.json 
+php -v
+clear
+rm composer.lock 
+vi composer.json 
+clear
+composer update
+vi composer.json 
+composer update
+clear
+php artisan --versio
+php artisan --version
+vi composer.json 
+composer update
+composer update --with-all-dependencies
+composer update --with-all-dependencies -W
+celar
+clear
+rm -rf composer.lock 
+composer update --with-all-dependencies
+composer upgrade --with-all-dependencies
+cd ..
+rm -rf stisla-laravel/
+git clone git@github.com:fajarafriansh/stisla-laravel.git
+cd stisla-laravel/
+clear
+composer install
+git branch
+git checkout laravel-7
+git pull
+git fetch --all
+git merge
+clear
+composer install
+pa --version
+clear
+vi composer.json 
+composer upgrade
+pa --version
+clear
+pa serve
+ls
+ls -a
+cp .env.example .env
+pa serve
+clear
+vi .env
+pa migrate
+cd database/seeds/
+ls
+cd ../..
+pa db:seed
+subl .
+pa serve
+celar
+cls
+clear
+cd ..
+rm -rf stisla-laravel/
+cd belanjain/
+pa --version
+clear
+cd ,,
+cd ..
+git clone git@github.com:mertayasa/laravel-stisla-boiler-plate.git
+cd laravel-stisla-boiler-plate/
+composer update
+clear
+cp .env.example .env
+pa key:generate
+clear
+vi .env
+celarf
+clear
+cd ..
+mv laravel-stisla-boiler-plate laravel-stisla
+clear
+subl laravel-stisla/
+pa migrate --seed
+cd laravel-stisla/
+pa migrate --seed
+pa serve
+pa migrate:refresh --seed
+pa serve
+ls
+cd Code/
+ls
+clear
+ls
+cd laravel-stisla/
+clear
+ls
+pa serve
+clear
+ls
+rm -rf .git
+git init
+git add .
+git commit -m "Initial commit"
+clear
+git branch -M main
+git remote add origin git@github.com:ahanafi/belanjain.git
+git push -u origin main
+clear
+ls
+ls -a
+clear
+cd ..
+ls
+rm belanjain
+rm -rf belanjain 
+mv laravel-stisla belanjain
+clear
+exit
+pa make:model Transaction -mcr
+pa make:model Customer -mcr
+pa make:model Order -mcr
+pa make:model Item -mcr
+pa make:model OrderItem -m
+clear
+pa migrate
+clear
+pa migrate --seed
+clear
+git add .
+git commit -m "feat: add models and database migrations"
+git push
+clear
+pa view:clear
+composer upgrade
+clear
+git add .
+git commit -m "feat: remove boilerplate code"
+git push origin main
+clear
+git add .
+git commit -m "feat: clean routes"
+git push origin main
+clear
+git add .
+git commit -m "feat: change login form width and background"
+git push
+git add .
+git commit -m "fix: redirect route after login"
+git push
+clear
+git add .
+git commit -m "fix: invalid route name and clean up dashboard page"
+git push
+clear
+git add .
+git commit -m "feat: add menu in sidebar, add route resource items, customers, transactions"
+git push
+clear
+git add .
+git status
+git restore --staged .
+git status
+git add database/migrations/2021_12_02_230656_create_items_table.php
+git commit -m "fix: add purchase and selling price in items" database/migrations/2021_12_02_230656_create_items_table.php
+git push
+clear
+pa make:component --help
+clear
+pa make:component Input
+git status
+git add database/migrations/2021_12_02_230656_create_items_table.php
+git commit --amend -m "feat: add purchase price, selling price, and image in items" database/migrations/2021_12_02_230656_create_items_table.php
+git push
+git pull
+git stash
+git pull
+git push
+git pull
+git status
+git add database/migrations/2021_12_02_230656_create_items_table.php
+git commit --amend database/migrations/2021_12_02_230656_create_items_table.php
+git push
+git merge
+clear
+git status
+git pull
+git merge
+git reset --hard HEAD
+clear
+git push
+git pull origin main
+git merge
+git add database/migrations/2021_12_02_230656_create_items_table.php
+git commit 
+git push
+clear
+git status
+git stash list
+git stash apply stash@{0}
+git reset --hard HEAD
+git stash apply stash@{0}
+git stash pop
+clear
+pa make:request StoreItemRequest
+pa make --help
+clear
+ls
+cd app
+mkdir Services
+cd Services/
+touch StoreImageService
+touch StoreImageService.php
+rm StoreImageService
+clear
+cd ../..
+clear
+pa migrate:refresh --step=2
+clear
+pa routes
+pa route:list
+clear
+git status
+git add app/Helpers/Helpers.php
+git commit -m "feat: add removeDecimal and flashMessage function"
+git status
+git staged list
+git stage list
+git stage
+clear
+git status
+git add .
+git commit -m "feat: add CRUD Items, component input, removeDecimal and flashMessage method"
+git push
+clear
+git status
+git add .
+git commit -m "fix: remove un-used method from Helpers"
+git push
+clear
+pa storage:link
+celar
+clear
+git status
+git add .
+git commit -m "feat: add upload file service, add image upload in item"
+git push
+clear
+pa make:controller API/MasterDataController
+composer remove
+clear
+composer remove yajra/laravel-datatables
+clear
+$ composer require yajra/laravel-datatables-oracle:"~9.0"
+composer require yajra/laravel-datatables-oracle:"~9.0"
+$ php artisan vendor:publish --provider="Yajra\DataTables\DataTablesServiceProvider"
+php artisan vendor:publish --provider="Yajra\DataTables\DataTablesServiceProvider"
+clear
+ps -def | grep phpstorm
+exit
+pa make:request StoreTransactionReqeust
+pa make:request StoreTransactionRequest
+pa migrate:refresh --step=6
+clear
+git add .
+git commit -m "feat: add CRUD transactions"
+git push
+composer require garygreen/pretty-routes
+clear
+composer remove garygreen/pretty-routes 
+composer require garygreen/pretty-routes --dev
+composer require barryvdh/laravel-debugbar --dev
+cd Code
+cp -r letter-app /var/www/html/
+cd /var/www/html/letter-app/
+chmod -R 777 storage
+exit
+clear
+git status
+clear
+pa view:clear
+pa cache:clear
+pa config:clear
+clear
+php artisan cache:clear
+ls
+chmod -R 775 bootstrap
+php artisan cache:clear
+chmod -R 777 bootstrap
+php artisan cache:clear
+cd bootstrap/
+ls
+clear
+ls
+cd cache/
+ls
+exit
+clear
+pa config:clear
+clear
+git status
+git add public/js/custom.js
+git commit -m "Fix dynamic routes" public/js/custom.js
+git push 
+git status
+clear
+git status
+git add index.php 
+git commit -m "Add index.php to redirect public directory" index.php
+git push
+git pull
+clcear
+clear
+cd /var/www/html/
+ls
+rm -r letter-app/
+rm -rf letter-app
+sudo rm -rf letter-app
+clear
+cd ~/Code/
+cd grayweb/
+pa serve
+exit
+clear
+pa make:seeder CustomerTableSeeder
+pa make:seeder ItemTableSeeder
+pa db:seed --class=CustomerTableSeeder
+pa db:seed --class=ItemTableSeeder
+exit
+exit
+clear
+pa make:request StoreOrderRequest
+pa view:clear
+pa cache:clear
+pa config:clear
+pa migrate:refresh --step=1
+git int
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin git@github.com:ahanafi/attendance-system-lite.git
+git push -u origin main
+cleaf
+clear
+composer install
+composer remove dompdf/dompdf
+clear
+git status
+clear
+git add .
+git commit -m "Adjust some feature and add auto deploy to hosting"
+git push
+git branch backup
+git switch backup
+git git push origin backup
+git push origin backup
+git branch
+git branch development
+clear
+git switch development 
+git push origin development 
+clear
+git branch
+git add .
+git commit -m "feat: change local db, add development.yml and remove old sql file"
+git push origin development 
+clear
+git add /
+git add .
+clear
+git commit -m "fix: change model file and class name to english version"
+git push
+git push origin development 
+clear
+git add .
+clear
+git commit -m "fix: refactor employee controller and all of employee pages"
+git push origin development 
+clear
+git add .
+git commit -m "fix: change language and invalid route in base template"
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactoring attendance controller and pages"
+git push
+git push origin development 
+clear
+ps -def | grep phpstorm
+exit
+git add .
+git commit -m "fix: refactor user controller and it pages"
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactor dashboard controller and it page"
+git push
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactor presence page"
+git push origin development 
+git add .
+git commit -m "fix: user session name and refactor settings"
+git push origin
+git push origin development 
+clear
+git branch
+git switch backup 
+clear
+git status
+clear
+git status
+git add .
+git commit -m "fix: remove un-use code and change database file"
+git push origin backup 
+cler
+clear
+git branch
+git add .
+git commit -m "change readme and add db-structure picture"
+git push origin backup 
+clear
+git add .
+git commit -m "fix: update readme"
+git push origin backup 
+clear
+git branch
+git switch development 
+clear
+git status
+git add .
+git branch
+clear
+git commit -m "fix: refactoring setting controller"
+git push origin development 
+clear
+git branch
+git status
+git add .
+git commit -m "fix: error while face models is empty"
+git push origin development 
+git branch backup 
+git switch backup 
+clear
+git switch development 
+git pull
+git pull origin development 
+clear
+git add .
+git commit -m "feat: add exit time"
+git push origin development 
+git branch
+clear
+composer install
+composer update
+clear
+cd /etc/
+ls
+clear
+cd apache2/
+ls
+cd ../../var/log/apache2/
+clear
+ls
+cat error.log
+cat error.log.1
+clear
+exit
+cd Code/viho/
+pa server
+pa serve
+exit
+git status
+clear
+git add .
+git commit -m "feat: add attendance reports"
+git push origin development 
+ckear
+clear
+git status
+git add .
+git commit -m "feat: add composer installation after push"
+git push origin development 
+git add .
+git commit -m "fix: typo in development.yml file"
+git push origin development 
+clear
+git add .
+git commit -m "fix: error while recognize testing"
+git push
+git push origin development 
+clera
+clear
+git status
+git branch
+git add .
+git commit -m "feat: add CRUD order in each transactions"
+git push origin main
+clear
+git add .
+git commit -m "feat: add main.yml for auto deployment"
+git push origin main
+clear
+git branch
+git add .
+git commit -m "feat: add waiting for 5 minutes to enter exit time after present"
+git push origin development 
+cd .git
+clear
+git status
+git branch
+clear
+git status
+git add .
+git commit -m "fix: error in users page and change password"
+git push origin development 
+clear
+git add .
+git commit -m "fix: change confirm logout language to english"
+git push origin development 
+clear
+git add .
+git commit -m "feat: change base color template"
+git push origin development 
+git status
+git branch
+git status
+git add .
+git commit -m "fix: empty employee in options at report page"
+git push origin development 
+git status
+git add application/helpers/my_helper.php
+git commit -m "fix: refactor helper setArrayMessage to be setMessage" application/helpers/my_helper.php
+git push origin development 
+git status
+git push origin development 
+clear
+git status
+git add .
+git commit -m "fix: refactor Pegawai controller to employees"
+git push origin development 
+clear
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactor user controller"
+git push origin development 
+git status
+git push origin development 
+git pull origin development 
+git push origin development 
+clear
+git merge
+git status
+git add .
+git commit 
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactor company profile controller"
+git push origin development 
+clear
+git add .
+git commit -m "fix: refactor setting controller"
+git push origin development 
+clear
+git add .
+git commit -m "fix: change confirm alert language to english"
+git push origin development 
+clear
+git add .
+git commit -m "fix: sidebar active menu"
+git push origin development 
+git pull origin development 
+git push origin development 
+clear
+git push origin development 
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+cd uploads/employees/
+sudo rm -rf *
+clear
+exit
+clear
+cd uploads/
+ls
+rm 0d2ee530db264bdb97bd9f2ae02aba40.png  22c68acb131eacda4640a52b15850464.jpeg 726f11c3591452e6198ce1e901a46487.png  952520619edd9946938f1a5e867e2365.jpg 
+clear
+le
+clear
+ls
+clear
+git 
+clear
+git status
+clear
+cd ..
+clear
+ls
+git status
+git add .
+git commit -m "feat: add photo to employee"
+git push origin development 
+clear
+git branch
+git switch master 
+git pull
+clear
+git branch
+git pull origin master
+clear
+exit
+sudo su
+git - 
+git -v
+clear
+git --version
+clear
+cd Code
+ls
+clear
+mkdir git-basic
+cd git-basic/
+clear
+Code .
+code .
+git config user.name
+git config user.email
+git config --global user.email ahanafi.id@gmail.com
+git config user.email
+clear
+git config --global core.editor "code --wait"
+git config --global diff.tool "default-difftool"
+git config --global difftool.default-difftool.cmd "code --wait --diff \$LOCAL \$REMOTE"
+clear
+git config --list --show-origin
+clear
+cd Code/git-basic/
+clear
+cd ../../
+mkdir Learning
+cd Learning/
+clear
+mkdir git-basic
+clear
+cd git-basic/
+git init
+clear
+ls
+clear
+ls -l
+cd .git
+ls
+clear
+ll
+clear
+cd ..
+clear
+code .
+touch file1.txt
+git file1.txt
+git add file1.txt
+git status
+git commit -m "Add first file"
+clear
+touch file2.txt
+touch file3.txt
+cd Code/letter-app/
+clear
+git log --oneline
+cclear
+clear
+git log
+git switch id-version 
+git fetch --all
+git pull origin
+git pull origin id-version 
+cleaf
+clear
+git status
+git add application/config/database.php 
+git commit -m "Change db name"
+git push origin id-version 
+clear
+git switch development 
+clear
+git status
+clear
+git status
+git add .
+git commit -m "fix: attendance chart per month in active year"
+git push origin development 
+clear
+git push origin development 
+cd uploads/
+ls
+cd employees/
+ls
+sudo rm d3e344a2331977415080bbcea9444d55.png 
+clear
+exit
+git push origin development 
+ngrok http 80
+celar
+clear
+git status
+clear
+git branch --show-current
+git checkout master 
+git pull origin master 
+clear
+git switch development 
+celar
+clear
+cd uploads/
+ls
+mkdir leave
+chmod -R 777 leave/
+cd ..
+clear
+git status
+git add .github/workflows/build.yml sonar-project.properties
+git commit -m "Add sonarqube integration"
+clear
+git status
+git restore  application/config/autoload.php application/config/routes.php application/controllers/Leave.php application/models/Leave_model.php application/views/leave/application-form.php application/views/templates/sidebar.php
+clear
+git status
+git branch
+clear
+git push origin development 
+clear
+pwd
+echo $PATH
+exit

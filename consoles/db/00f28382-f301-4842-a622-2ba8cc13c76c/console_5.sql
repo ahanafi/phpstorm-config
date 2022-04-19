@@ -1,0 +1,1 @@
+SELECT DISTINCT study_program_name FROM data_sets;

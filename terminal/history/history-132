@@ -1,0 +1,1000 @@
+git - 
+git -v
+clear
+git --version
+clear
+cd Code
+ls
+clear
+mkdir git-basic
+cd git-basic/
+clear
+Code .
+code .
+git config user.name
+git config user.email
+git config --global user.email ahanafi.id@gmail.com
+git config user.email
+clear
+git config --global core.editor "code --wait"
+git config --global diff.tool "default-difftool"
+git config --global difftool.default-difftool.cmd "code --wait --diff \$LOCAL \$REMOTE"
+clear
+git config --list --show-origin
+clear
+cd Code/git-basic/
+clear
+cd ../../
+mkdir Learning
+cd Learning/
+clear
+mkdir git-basic
+clear
+cd git-basic/
+git init
+clear
+ls
+clear
+ls -l
+cd .git
+ls
+clear
+ll
+clear
+cd ..
+clear
+code .
+touch file1.txt
+git file1.txt
+git add file1.txt
+git status
+git commit -m "Add first file"
+clear
+touch file2.txt
+touch file3.txt
+cd Code/letter-app/
+clear
+git log --oneline
+cclear
+clear
+git log
+git switch id-version 
+git fetch --all
+git pull origin
+git pull origin id-version 
+cleaf
+clear
+git status
+git add application/config/database.php 
+git commit -m "Change db name"
+git push origin id-version 
+clear
+git switch development 
+clear
+git status
+clear
+git status
+git add .
+git commit -m "fix: attendance chart per month in active year"
+git push origin development 
+clear
+git push origin development 
+cd uploads/
+ls
+cd employees/
+ls
+sudo rm d3e344a2331977415080bbcea9444d55.png 
+clear
+exit
+cd Code/
+cd smart-attendance-system/
+adonis serve
+exit
+git push origin development 
+cd uploads/
+ls
+mkdir attendances
+ls
+chmod -R 777 attendances/
+clear
+ls
+cd attendances/
+sudo rm -rf *
+clear
+cd Code
+composer create-porject --prefer-dist laravel/laravel larave-tdd
+composer create-project --prefer-dist laravel/laravel larave-tdd
+clear
+ls
+mv larave-tdd laravel-tdd
+clear
+Code laravel-tdd
+clear
+cd laravel-tdd
+clear
+pa test
+code .
+pa make:test RedirectionAboutPage
+pa make:test RedirectionAboutPageTest
+pa test
+clear
+pa test
+clear
+pa test
+clear
+pa test
+clear
+pa migrate
+pa tinker
+clear
+pa artisan make:test RegistrationTest
+pa make:test RegistrationTest
+pa test
+clear
+pa make:controller Auth/RegisterController
+pa test
+clear
+pa test
+clear
+pa test
+clear
+pa test
+clear
+sqlit
+sqlite
+sudo apt install sqlite
+ls
+sudo rm EMP-0001-20211225.png 
+clear
+exit
+neofetch
+ls
+cd logs/
+ls
+tail -f sonar.20211230.log 
+cd ..
+rm sonarqube/ -f
+rm -rf sonarqube
+sudo rm -rf sonarqube
+clear
+exit
+cd Downloads/Compressed/
+ls
+unzip sonarqube-9.2.4.50792.zip 
+clear
+ls
+cd sonarqube-9.2.4.50792
+ls
+cd ..
+mv sonarqube-9.2.4.50792 sonarqube
+clear
+ll
+ls
+clear
+sudo mv sonarqube /opt/
+clear
+cd /opt/sonarqube/
+ls
+cd conf/
+ls
+vi sonar.properties 
+postgres
+celar
+clear
+cd ~/Downloads/Programs/
+ls
+sudo dpkg -i mysql-connector-java_8.0.27-1ubuntu20.04_all.deb 
+clear
+cd /opt/sonarqube/conf/
+ls
+vi sonar.properties 
+celar
+clear
+cd ..
+ls
+cd bin/linux-x86-64/
+ls
+./sonar.sh status
+./sonar.sh start
+./sonar.sh stop
+exit
+clear
+python ./macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
+ls
+clear
+lsbk
+clear
+lsblk
+sudo gdisk /dev/sdb1
+clear
+sudo mkfs.vfat -F 32 -n "OPENCORE" /dev/sdb1
+sudo mkfs.vfat -F 32 -n "OPENCORE" /dev/sdb
+sudo mkfs.vfat -F 32 -n "OPENCORE" /dev/sdb1
+sudo su
+git init
+git add EFI
+ls
+clear
+git status
+git touch readme.med
+touch readme.md
+subl readme.md 
+git add readme.md 
+git commit -m "Initial commit"
+clear
+git branch -M main
+git remote add origin git@github.com:ahanafi/Hackintosh-BigSur-Acer-SF314-54G.git
+git push -u origin main
+cd Desktop/
+git clone git@github.com:corpnewt/ProperTree.git
+cd ProperTree/
+./ProperTree.command 
+python --version
+cd Desktop/
+git clone
+git clone git@github.com:youudan/Hackintosh-Acer-Swift-3-YouuDan.git
+cd /usr/bin
+ls
+python
+pwd
+/usr/bin/python2 --version
+cd ~/Desktop/ProperTree/
+celar
+clear
+ls
+/usr/bin/python2 ProperTree.command
+cat ProperTree.bat 
+./ProperTree.command 
+/usr/bin/python3 ProperTree.command
+cd Desktop/
+git clone git@github.com:geniusvale/Swift3-SF314-54G-51ZK-Hackintosh.git
+cd Swift3-SF314-54G-51ZK-Hackintosh/
+nautilus .
+reboot
+cd Desktop/ProperTree/
+ls
+python ProperTree.command
+cd Desktop/
+git clone https://github.com/ahanafi/Hackintosh-BigSur-Acer-SF314-54G.git
+cd Hackintosh-
+cd Hackintosh-BigSur-Acer-SF314-54G/
+clear
+nautilus .
+reboot
+cd Desktop/
+cd ProperTree/
+python ProperTree.command
+reboot
+python ProperTree.command
+python ./macrecovery.py -b Mac-42FD25EABCABB274 -m 00000000000000000 download
+nautilus .
+cd ~/Desktop/ProperTree/
+python ProperTree.command
+cd ~/Desktop/ProperTree/
+python ProperTree.command
+reboot
+python ProperTree.command
+reboot
+cd Desktop/ProperTree/
+python ProperTree.command
+cd Desktop/ProperTree/
+python ProperTree.command
+cd Desktop/ProperTree/
+python ProperTree.command
+reboot
+sudo apt install grub-customizer
+sudo apt remove --purge grub-customizer
+clear
+virtual-box
+sudo apt remove --purge virtualbox
+clear
+matikan
+sudo fdisk -l
+clear
+cd /mnt
+ls
+cd boot-sav/
+ls
+celar
+clear
+cd ..
+ls
+mkdir efi
+sudo mkdir efi 
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+sudo ~/Desktop
+sudo nautilus /home/ahanafi/Desktop
+reboot
+ls
+clear
+cd Desktop/
+ls
+cd Hackintosh-BigSur-Acer-SF314-54G/
+clear
+git status
+git pull origin
+nautilus .
+sudo nautilus .
+reboot
+source .bashrc 
+clear
+propertree
+source .bashrc 
+propertree
+source .bashrc 
+propertree
+source .bashrc 
+clear
+propertree
+cd Desktop/
+ls
+cd Hackintosh-Acer-Swift-3-YouuDan/
+clear
+ls
+cd EFI/
+ls
+cd OC/
+ls
+mv config.plist acuan.plist
+propertree 
+exit
+propertree 
+exit
+cat /proc/asound/card0/codec#0 | less
+sudo nautilus .
+reboot
+systemctl reboot -i
+sudo su
+sudo fdisk -l
+clear
+ls
+sudo fdisk -l
+clear
+cd /mnt
+ls
+cd efi/
+ls
+celar
+clear
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus .
+reboot
+clear
+grep -i "model name" /proc/cpuinfo
+lspci | grep -i --color "vga\|3d\|2d"
+dmidecode -t baseboard
+sudo dmidecode -t baseboard
+dmesg | grep -i input
+aplay -l
+clear
+dmesg | grep -i input
+dmesg | grep -i keyboard
+exit
+cd Desktop/
+clear
+ls
+mkdir HACKINTOSH
+cd HACKINTOSH/
+celar
+clear
+git clone git@github.com:bahybintang/Acer-Swift-3-SF314-54G-51WS-Hackintosh.git 01-bintang
+git clone git@github.com:husnawan21/Acer-Swift-3-SF314-54G.git 02-husnawan
+git clone git@github.com:youudan/Hackintosh-Acer-Swift-3-YouuDan.git 03-youdan
+git clone git@github.com:geniusvale/Swift3-SF314-54G-51ZK-Hackintosh.git 04-vale
+ls
+clear
+ls
+clear
+sudo fdisk -l
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+reboot
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+reboot
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+reboot
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+reboot
+sudo propertree 
+sudo ProperTree
+echo $PATH
+clear
+ls
+cd Desktop/
+;s
+ls
+cd ProperTree/
+ls
+clear
+sudo ./ProperTree.command 
+sudo python3 ./ProperTree.command 
+reboot
+sudo mount /dev/nvme0n1p1 /mnt/efi
+sudo nautilus /mnt/efi
+cd ../
+sudo mv sonarqube /opt/
+cd /opt/sonarqube/
+ls
+cd conf/
+ls
+clear
+sudo apt install postgresql postgresql-contrib
+sudo apt autoremove
+clear
+java --version
+sudo apt install postgresql postgresql-contrib -y
+sudo systemctl start postgresql
+systemctl status postgresql
+clear
+sudo passwd postgres
+su - postgres
+sudo groupadd sonar
+sudo useradd -d /opt/sonarqube -g sonar sonar
+sudo chown sonar:sonar /opt/sonarqube -R
+clear
+ls
+vi sonar.properties 
+sudo vi sonar.properties 
+clear
+cd ../bin/linux-x86-64/
+vi sonar.sh 
+sudo vi sonar.sh 
+sudo vi /etc/systemd/system/sonar.service
+sudo vi /etc/sysctl.conf
+systemctl status sonar
+systemctl start sonar
+systemctl status sonar
+clear
+ls
+cd ../..
+ls
+cd logs/
+ls
+tail -f sonar.20220108.log 
+systemctl stop sonar
+clear
+sudo vi /etc/sysctl.conf
+tail -f sonar.20220108.log 
+cat sonar.20220108.log 
+sudo vi /etc/sysctl.conf
+sudo sysctl -w vm.max_map_count=262144
+sudo sysctl -w fs.file-max=65536
+sudo ulimit -n 65536
+sudo vi /etc/security/limits.conf
+reboot
+systemctl status sonar
+clear
+cd ~
+cd Downloads/
+cd Compressed/
+clear
+ls
+unzip sonar-scanner-cli-4.6.2.2472-linux.zip 
+clear
+ls
+mv sonar-scanner-4.6.2.2472-linux sonar-scanner
+mv sonar-scanner ~/
+cd ~
+ls
+cd sonar-scanner/
+ls
+cd bin/
+ls
+pwd
+export PATH="$PATH:/home/ahanafi/sonar-scanner/bin"
+echo PATH
+echo $PATH
+clear
+exit
+cd ..
+clear
+git status
+git add .github/workflows/build.yml sonar-project.properties
+git commit -m "Add sonarqube integration"
+clear
+git status
+git restore  application/config/autoload.php application/config/routes.php application/controllers/Leave.php application/models/Leave_model.php application/views/leave/application-form.php application/views/templates/sidebar.php
+clear
+git status
+git branch
+clear
+git push origin development 
+clear
+pwd
+echo $PATH
+exit
+echo $PATH
+clear
+pwd
+./home/ahanafi/sonar-scanner/bin/sonnar-scanner
+exit
+echo $PATH
+cd ~/sonar-scanner/
+cd bin
+ls
+pwd
+cd ../../..
+cd ahanafi/
+clear
+sudo subl .bashrc 
+source .bashrc
+clear
+echo $PATH
+clear
+exit
+nvm
+exit
+sudo apt upgrde node
+sudo apt upgrade node
+sudo apt upgrade nodejs
+exit
+NODE -V
+node -v
+clear
+npm cache celan -f
+npm install -g n
+sudo n stable
+node -v
+clear
+exit
+echo $PATH
+clear
+sonar-scanner
+celar
+clear
+node -v
+sonar-scanner
+sonar.projectKey=Attendance-System
+sonar.sources=/var/www/html/attendance-system
+sonar.host.url=http://localhost:9000
+sonar.login=c9438244fceccddbeea08ec037ed9ff8e666c2eb
+sonar.sourceEncoding=UTF-8
+sonar.exclusions=system/**, application/third_party/**, application/logs/**, vendor/**, application/config/**c
+celar
+pwd
+clear
+sonar-scanner
+cd /opt/sonarqube/bin/linux-x86-64/
+clear
+ls
+./sonar.sh stop
+sudo ./sonar.sh stop
+clear
+systemctls status sonar
+systemctl status sonar
+systemctl start sonar
+tail -f /opt/sonarqube/logs/sonar.20220108.log 
+tail -f /opt/sonarqube/logs/sonar.20220108.log | grep WARN
+systemctl stop sonar
+cat /opt/sonarqube/logs/sonar.20220108.log | grep WARN
+clear
+cd /opt/sonarqube/bin/linux-x86-64/
+ls
+sudo ./sonar.sh 
+sudo ./sonar.sh start
+sudo ./sonar.sh status
+tail -f ../../logs/sonar.20220108.log 
+sudo ./sonar.sh status
+sudo ./sonar.sh console
+clear
+sudo ./sonar.sh stop
+clear
+java --version
+sudo apt-cache search jdk
+sudo update-alternatives --config javac
+sudo apt install openjdk-11-jdk
+sudo update-alternatives --config javac
+clear
+java --version
+javac --version
+sudo update-alternatives --config java
+clear
+java --version
+clear
+sudo ./sonar.sh start
+sudo ./sonar.sh console
+sudo ./sonar.sh status
+sudo ./sonar.sh console
+systemctl status postgres
+systemctl status postgresql
+clear
+cd ,,
+cd ..
+ls
+cd logs/
+ls
+cat sonar.20220108.log 
+clear
+sudo sysctl -w vm.max_map_count=262144
+sudo sysctl -w fs.file-max=65536
+clear
+sudo apt list | installed
+sudo apt list --installed
+sudo apt list --installed | grep postgres
+clear
+cd ../conf/
+ls
+sudo subl sonar.properties 
+sudo ./../bin/linux-x86-64/sonar.sh start
+cd ..
+tail -f logs/sonar.20220108.log 
+clear]
+clear
+sudo fdisk -l
+sudo mount /dev/nvme0n1p1
+sudo nautilus .
+reboot
+cd Desktop/
+sudo python3 ./ProperTree/ProperTree.command
+cd ProperTree/
+ls
+sudo python3 ./ProperTree.command
+sudo nautilus .
+reboot
+sudo nautilus .
+reboot
+exit
+cls
+clear
+ls
+clear
+pa make:controller ImportController
+cd ../
+ls
+cd viho/
+ls
+pa serve --port=9300
+cd Code/thesis-management-system/
+pa serve --port=1200
+cd ~/Downloads/
+ls
+clear
+cd Programs/
+ls
+sudo dpkg -i steam_latest.deb 
+clear
+sudo apt remove --purge stem
+sudo apt remove --purge steam
+apt list --help
+apt list | grep steam
+clear
+apt list installed
+apt list --installed
+clear
+sudo apt remove --purge steam*
+sudo rm -rf /usr/lib/steam/
+clear
+exit
+sudo apt remove --purge chrome
+sudo apt remove --purge google-chrome
+sudo apt remove --purge googlechrome
+which chrome
+chroem
+chrome
+google-chrome
+sudo apt remove --purge google-chrome
+which google-chrome
+apt remove google-chrome
+cd /usr/bin/
+ls | grep chrome
+ll | grep chrome
+sudo dpkg -r google-chrome-stable.
+sudo dpkg -r google-chrome-stable
+clear
+sudo apt autoremove
+clear
+sudo apt install google-chrome
+reboot
+sudo apt install chrome
+sudo apt install google-chrome-stable
+clear
+sudo apt cache clean
+exit
+exit
+exit
+pa make:import PositionsImport --model=Position
+clear
+git staus
+git status
+git add resources/views/import/positions.blade.php resources/views/master-data/positions/index.blade.php routes/administrator.phpapp/Http/Controllers/ImportController.php app/Imports/ 
+git status
+git add resources/views/import/positions.blade.php resources/views/master-data/positions/index.blade.php routes/administrator.php app/Http/Controllers/ImportController.php app/Imports/ 
+clear
+git status
+git restore --staged sonar-project.properties
+clear
+git status
+git commit -m "Add import positions"
+clear
+ls
+clear
+git status
+git add app/Http/Controllers/ImportController.php
+git status
+git commit --amend  -m "Add import positions"
+clear
+git status
+git log
+clear
+git log --oneline
+clear
+clcear
+clear
+pa make:import EmployeesImport --model=Employee
+clear
+git add .
+ls
+clear
+git status
+git restore --staged .scannerwork/*
+git status
+git restore --staged .scannerwork/.sonar_lock
+clear
+git restore --staged .gitignore
+git commit -m "Add import personel"
+clear
+git status
+git branch
+git push origin refactor-version 
+git pull origin refactor-version 
+git push origin refactor-version 
+git push origin main 
+clear
+pactl list short sinks
+exit
+pa serve
+reboot
+pa make:migration change_agenda_number_field_type_on_mails --table=mails
+clear
+pa migrate
+git push origin main
+cd ~
+sudo nautilus .
+clear
+cd Learning/
+l;s
+clear
+ls
+mkdir go-basic
+clear
+which go\
+clear
+cd ..
+ls
+subl .bashrc
+source .bashrc
+clear
+go version
+clear
+exit
+sudo curl -L https://yt-dl.org/downloads/latest/youtube-dl -o /usr/local/bin/youtube-dl
+sudo chmod a+rx /usr/local/bin/youtube-dl
+sudo -H pip install --upgrade youtube-dl
+clear
+wget http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu/pool/main/y/youtube-dlg/youtube-dlg_0.4-1~webupd8~zesty4_all.deb
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~zesty4_all.deb 
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~zesty4_all.deb --fix-problem
+wget http://ppa.launchpad.net/nilarimogard/webupd8/ubuntu/pool/main/y/youtube-dlg/youtube-dlg_0.4-1~webupd8~zesty4_all.deb
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~zesty4_all.deb --fix-problem
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~zesty4_all.deb --fix-broken
+sudo dpkg -i youtube-dlg_0.4-1~webupd8~zesty4_all.deb
+lcear
+clear
+sudo apt --fix-broken install
+clear
+cd Desktop/
+git clone https://github.com/jely2002/youtube-dl-gui.git
+cd youtube-dl-gui/
+ls
+clea
+clear
+npm install
+npx electron-builder
+ls
+cd build/
+ls
+clear
+nautilus .
+exit
+clear
+ls
+go build helloworld.go 
+sudo su
+go version
+clear
+exit
+cd Learning/
+ls
+cd go-basic/
+clear
+ls
+ls -a
+touch .gitignore
+exit
+cd Learning/go-basic/
+clear
+ls
+ls -a
+git status
+git add helloworld.go number.go string.go boolean.go variable.go
+ld
+clear
+ls
+clear
+git status
+go run helloworld.go 
+ls
+clear
+cd ..
+cp go-basic basic-go
+cp -rf go-basic basic-go 
+clear
+ls
+cd go-basic/
+ls
+ls -a
+rm -rf .git .idea
+clear
+cd Learning/go-basic/
+clear
+touch README.md
+clear
+exig
+exit
+clear
+sudo apt install putty
+clear
+puttygen -t rsa -b 2048 -o mykey.ppk
+puttygen -L mykey.ppk
+ls
+cp mykey.ppk ~/Desktop/
+sudo
+clear
+sudo apt install putty
+sudo apt remove --purge putty
+clear
+cd ~/.ssh
+ls
+clear
+ssh-keygen -t rsa
+ls
+cat niagahoster.pub 
+ssh u1688028@217.21.72.67
+ssh u1688028@217.21.72.67 -p 65001
+ssh u1688028@bagrenminssdmpolri.com -p 65001
+ssh u1688028@bagrenminssdmpolri.com
+ping bagrenminssdmpolri.com
+clear
+ssh bagrenminssdmpolri.com
+ssh bagrenminssdmpolri.com -p 65001
+ssh u1688028@bagrenminssdmpolri.com -p 65001
+cd Desktop/
+puttygen -t rsa -b 2048 -o yukcoding.ppk
+ls
+puttygen -L yukcoding.ppk 
+clear
+ssh-keygen -t rsa
+cd ~/.ssh
+ls
+ssh-copy-id u1688028@217.21.72.67
+ssh-copy-id u1688028@217.21.72.67:65002
+ssh u1688028@217.21.72.67 -p 65002
+clear
+ls
+ssh u1688028@217.21.72.67 -p 65002
+exit
+cd /var/www/html
+ls
+mkdir info
+cd info/
+vi index.php
+exit
+cd /var/www/html/letter-app/
+ls
+cd public/
+ls
+ll
+exit
+composer init
+clear
+composer int
+clear
+composer init
+composer dump-autoload
+composer install
+clear
+./vendor/bin/phpunit --version
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git init
+git status
+touch .gitignore
+celar
+clear
+git status
+git add .
+git commit -m "Basic unit testing with phpunit"
+git branch -M main
+git remote add origin git remote add origin git@github.com:ahanafi/php-unit-testing.git
+git remote add origin git@github.com:ahanafi/php-unit-testing.git
+git push -u origin main
+clear
+celar
+clear
+git status
+git add readme.md 
+git commit -m "Add readme"
+git push origin main 
+clear
+./vendor/bin/phpunit 
+clear
+git add .
+git status
+git commit -m "refactor with setUp method by TestCase"
+git push origin main 
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+celar
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git status
+git add .
+git commit -m "Add Collection class testing"
+git push origin main
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+git add .
+git commit -m "Addition and Division Tests"
+git push origin main
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit 
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+sudo apt install php-xdebug
+clear
+php -m | grep xdebug
+clear
+systemctl restart apache2
+systemctl restart php
+clear
+./vendor/bin/phpunit --coverage-text
+clear
+./vendor/bin/phpunit --coverage-text
+./vendor/bin/phpunit --coverage-html
+./vendor/bin/phpunit --coverage-html app
+clear
+git status
+git add .
+git commit -m "Add Calculator test"
+git push origin main

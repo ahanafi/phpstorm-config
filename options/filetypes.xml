@@ -1,0 +1,11 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping pattern="Procfile" type="EditorConfig" />
+      <mapping pattern="*playbook.yml" type="YAML" />
+      <mapping pattern="*playbook.yaml" type="YAML" />
+      <mapping pattern="main.yml" type="YAML" />
+      <mapping pattern="main.yaml" type="YAML" />
+    </extensionMap>
+  </component>
+</application>

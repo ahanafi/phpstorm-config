@@ -1,0 +1,164 @@
+<templateSet group="SublimeSnippets">
+  <template name="getter" value="public get $VAR1$() : $VAR2$ {&#10;&#9;$VAR3$&#10;}" description="get-property …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;return &quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="nam" value="namespace $VAR1${&#10;&#9;$END$&#10;}" description="" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="meth" value="$VAR1$ $VAR2$($VAR3$) : $VAR4$ {&#10;&#9;$END$&#10;}" description="class method" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;public&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;name&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;arguments&quot;" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="&quot;void&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="throw" value="throw &quot;$VAR1$&quot;;&#10;$END$" description="Throw Exception" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="switch" value="switch ($VAR1$) {&#10;&#9;case &quot;$VAR2$&quot;:&#10;&#9;&#9;$VAR3$&#10;&#9;&#9;break;&#10;&#9;$END$&#10;&#9;default:&#10;&#9;&#9;$VAR4$&#10;&#9;&#9;break;&#10;}" description="switch statement …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;variable&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;// code...&quot;" alwaysStopAt="true" />
+    <variable name="VAR4" expression="" defaultValue="&quot;// code...&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="if" value="if ($VAR1$) {&#10;&#9;$END$&#10;}" description="if …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;condition&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ret1" value="return true;$END$" description="return true" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="tout" value="setTimeout(() =&gt; {$END$}$VAR2$, $VAR1$);" description="setTimeout function" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;500&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ret" value="return $VAR1$;$END$" description="return statement" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="fori" value="for (var $VAR20$ = 0; $VAR20$ &lt; $VAR1$.length; $VAR20$++) {&#10;&#9;$VAR100$$END$&#10;}" description="for (…) {…}" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;Things&quot;" alwaysStopAt="true" />
+    <variable name="VAR20" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="VAR100" expression="" defaultValue="&quot;[]&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ctor" value="constructor($VAR1$) {&#10;&#9;$VAR2$&#10;}" description="constructor …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;// code...&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="prop" value="private _$VAR1$ : $VAR2$;&#10;public get $VAR1$() : $VAR2$ {&#10;&#9;return this._$VAR1$;&#10;}&#10;public set $VAR1$(v : $VAR2$) {&#10;&#9;this._$VAR1$ = v;&#10;}" description="full property …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="import" value="import $VAR1$ = require(&quot;$VAR2$&quot;);&#10;$END$" description="imports a module …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ref" value="/// &lt;reference path=&quot;$VAR1$&quot; /&gt;&#10;$END$" description="does a triple-slash reference" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="forobj" value="for (var $VAR1$ in $VAR2$) {&#10;&#9;$END$&#10;}" description="for … in … loop" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;Object&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="clog" value="console.log($VAR1$);" description="console log" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="class" value="class $VAR2$$VAR3$ {&#10;&#9;$VAR5$&#10;&#9;$VAR6$($VAR7$) {&#10;&#9;&#9;$END$&#10;&#9;}&#10;}" description="class …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR2" expression="" defaultValue="&quot;ClassName&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot; extends &quot;" alwaysStopAt="true" />
+    <variable name="VAR5" expression="" defaultValue="&quot;&quot;" alwaysStopAt="true" />
+    <variable name="VAR6" expression="" defaultValue="&quot;constructor&quot;" alwaysStopAt="true" />
+    <variable name="VAR7" expression="" defaultValue="&quot;argument&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="do" value="do {&#10;&#9;$END$&#10;} while ($VAR1$);" description="do … while …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;a &lt;= 10&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="setter" value="public set $VAR1$(v : $VAR2$) {&#10;&#9;this.$VAR3$ = v;&#10;}" description="set-property …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;value&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;string&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;_value&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ifelse" value="if ($VAR1$) { &#10;&#9;$VAR2$&#10;} else {&#10;&#9;$VAR3$&#10;}" description="if … else …" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;condition&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;// code...&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;// code...&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="for" value="for (var $VAR1$ = $VAR2$; $VAR1$ &lt; $VAR3$; ++$VAR1$) {&#10;&#9;$END$&#10;}" description="for (…) {…}" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;i&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;0&quot;" alwaysStopAt="true" />
+    <variable name="VAR3" expression="" defaultValue="&quot;length&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="ret0" value="return false;$END$" description="return false" toReformat="true" toShortenFQNames="true">
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="func" value="function $VAR1$($VAR2$) {&#10;&#9;$END$&#10;}" description="Function" toReformat="true" toShortenFQNames="true">
+    <variable name="VAR1" expression="" defaultValue="&quot;function_name&quot;" alwaysStopAt="true" />
+    <variable name="VAR2" expression="" defaultValue="&quot;argument&quot;" alwaysStopAt="true" />
+    <context>
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+</templateSet>

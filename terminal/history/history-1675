@@ -1,0 +1,1000 @@
+pa make:controller Student/Score/FinalTestController
+clear
+exit
+pa make:component StudentThesisInfo
+clear
+pa route:pretty
+clear
+git add .
+git commit -m "Add show seminar score in student page"
+git push
+clear
+git add .
+git commit -m "Add validation in submission of seminar assessment"
+git push
+clear
+pa view:clear
+clear
+git add .
+git commit -m "Add submission of colloquium assessment"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix create schedule of assessment"
+git push
+clear
+pa view:clear
+clear
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix error show assessment final test schedule"
+git push
+clear
+pa route:pretty
+clear
+pa route:pretty
+clear
+exit
+sudo su
+composer require garygreen/pretty-routes --dev
+clear
+http://127.0.0.1:8000/lecturer/submission/colloquium
+php artisan vendor:publish --provider="PrettyRoutes\ServiceProvider"
+clear
+git add .
+git commit -m "Fix conflict routing for input score"
+git push
+git commit -m "Fix conflict routing when submit assessment score"
+git add .
+git commit -m "Fix conflict routing when submit assessment score"
+git push
+clear
+git add .
+git commit -m "Updated readme"
+git push
+clear
+git add .
+git commit -m "Chane favicon"
+git push
+cd Desktop
+mkdir fetch-pddikti
+cd fetch-pddikti
+pip install pddiktipy
+ls
+clear
+subl test.py
+py test.py
+python test.py
+cd ..
+rm -rf fetch-pddikti
+clear
+git add .
+git commit -m "Fix error while updating student and lecturer data"
+git push
+clear
+pa make:controller Auth/AccountController
+git add .
+git commit -m "Set auto apply submission of thesis requirements"
+git push
+git pull
+clear
+git push
+git add .
+git commit -m "Fix error when thesis is null in student page"
+git push
+clear
+git add .
+git commit -m "Add alert info when submission thesis req. was approved"
+git push
+clear
+git add .
+git commit -m "Fix error route for deleting data"
+git push
+clear
+pa route:pretty
+clear
+exit
+git add .
+git commit -m "Fix updating head of study programs"
+git push
+clear
+exit
+clear
+matikan
+git pull
+clear
+exit
+clear
+git add .
+git commit -m "Add determination supervisor and seminar tester (manually)"
+git push
+pa make:model Rule -m
+clear
+pa make:component BlockScore
+pa migrate
+clear
+git add .
+git commit -m "Fix viewing assessment score, fix typo study program name, etc"
+git push
+clear
+git add .
+git commit -m "Refactor front templates"
+git push
+clear
+git add .
+git commit -m "Show verified total donation"
+git push
+clear
+pa make:migration add_video_to_tentang_kami --table=tentang_kami
+cper
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add video to tentang kami"
+git push
+clear
+pa make:model LaporanKurban -m
+pa make:controller Back/LaporanKurbanController --resource --model=LaporanKurban
+clear
+pa migrate
+clear
+pa migrate
+clear
+pa route:list
+clear
+pa route:list
+clear
+pa migrate:rollback --step=1
+pa migrate
+CLEAR
+clear
+composer require yajra/laravel-datatables-oracle:"~9.0"
+clear
+exit
+pa key:generate
+clear
+pa view:clear
+pa cache:clear
+CLEAR
+clear
+git add .
+git commit -m "Add laporan kurban"
+git push
+clear
+pa make:controller Front/LaporanKurbanController
+clear
+git add .
+git commit -m "Add laporan kurban in front"
+git push
+clear
+git add .
+git commi -m "Update user roles middleware"
+git commit -m "Update user roles middleware"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add lecturer functionality in head of study program"
+git push
+clear
+git add .
+git commit -m "Fix show information text when image is not yet uploaded"
+git push
+clear
+git add .
+git commit -m "Try fix thumbnail image not show"
+git push
+pa make:migration add_lecturer_certification_number_and_quota_to_lecturer --table=lecturers
+clear
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+pa make:model LecturerCompetency
+mysql -u root -p
+cd Desktop
+mkdir CONTOH-C45
+cd CONTOH-C45
+git clone git@github.com:WahidinAji/Skripsi-Rofiqah.git
+cd Skripsi-Rofiqah
+mysql -u root -p
+clear
+mv .env.example .env
+vi .env
+pa migrate
+composer install
+clear
+pa key:generate
+clear
+pa migrate
+pa serve --port=1233
+clear
+cd ../
+git clone git@github.com:WahidinAji/C45-Testing.git
+cd C45-Testing
+clear
+mv .env.example .env
+vi .env
+clear
+composer install
+pa key:generate
+clear
+pa migrate
+pa serve --port=2010
+CLEAR
+clear
+pa db:seed
+clear
+pa serve --port=2010
+cd ..
+git clone git@github.com:nu99etz/skripsi_c45.git
+subl .
+cd skripsi_c45
+subl .
+php -S localhost:3000
+cd ..
+git clone git@github.com:rahmanpsg/metode-c45.git
+cd metode-c45/
+clear
+php -S localhost:3000
+subl .
+php -S localhost:3000
+cd ..
+clear
+git clone git@github.com:medansoftware/C45-Algorithm-PHP.git
+cd C45-Algorithm-PHP
+php -S localhost:5000
+ls
+cd ..
+rm -rf C45-Algorithm-PHP
+mkdir c45-algoritm
+subl c45-algoritm
+cd c45-algoritm
+composer require medansoftware/c45-algorithm-php
+ls
+touch index.php
+php -S localhost:5000
+cd ..
+clear
+git clone git@github.com:zuzubaidillah/c45-alumni.git
+cd c45-alumni
+clear
+php -S localhost:80/alumni
+php -S localhost:4000
+subl .
+php -S localhost:4000
+exit
+clear
+pa make:controller Api/LecturerController
+clear
+pa make
+pa make:model Testing -m
+pa make:model DataTesting -m
+pa make:model Root -m
+pa make:migration create_rules_table
+clear
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+pa migrate:rollback --step=2
+pa migrate:rollback --step=1
+pa migrate
+exit
+pa make:controller AcademicStaff/ExportController
+cd Downloadws
+cd Downloads/Programs
+c;ear
+clear
+sudo dpgk -i wps-office_11.1.0.10161.XA_amd64.deb
+sudo dpkg -i wps-office_11.1.0.10161.XA_amd64.deb
+exit
+clear
+git add .
+git commit -m "Too much update -_-"
+git push
+cd /var/www/html/sigizi-hosting/
+subl .
+php -S localhost:2200
+code ../sigizi
+cd ..
+rm -rf sigizi sigizi-hosting
+clear
+exit
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix import barang"
+git push
+clear
+ls
+cd uploads
+ls
+rm -rf data-*
+ls
+celar
+clear
+exit
+cl;ear
+clear
+git add .
+git commit -m "Add import kas"
+git push
+cd /
+cd /var/www/html/my-finance/
+composer dump-autoload
+git pull
+sudo su
+git add .
+git commit -m "Add filter by user level in users data"
+git push
+clear
+git add .
+git commit -m "Add link in footer and logout menu in academic staff"
+git push
+composer update
+clear
+composer update unisharp/laravel-filemanager
+clear
+composer require laravel/helpers
+clear
+git add .
+git commit -m "Fix error laravel filemanager"
+git push
+clear
+php artisan add_kode_kantor_in_kantor_cabang --table=kantor_cabang
+php artisan make:migration add_kode_kantor_in_kantor_cabang --table=kantor_cabang
+clear
+pa migrate
+clear
+pa migrate
+clerr
+clear
+git add .
+git commit -m "Add kode kantor in kantor cabang"
+git push
+composer require barryvdh/laravel-debugbar --dev
+clear
+git add .
+git commit -m "Add auto generate kode hewan in laporan kurban"
+git push
+cd /var/www/html/
+ls
+mv custom-attendance-system custom-attd-app
+git clone git@github.com:ahanafi/custom-face-recognition.git
+clear
+exit
+clear
+git add .
+git commit -m "Update db config"
+git push
+clear
+git add .
+git commit -m "Fix error typo at db config file"
+git push
+clear
+git add .
+git commit -m "Fix error while face contour is null"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Remove custom page"
+git push
+clear
+git add .
+git commit -m "Fix redirect after logout"
+git push
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix typo show study program name in student thesis info"
+git push
+clear
+git add .
+git commit -m "Fix error while empty supervisor in guidance page, add redirec to 403 for unauthorized data"
+git push
+cd Desktop
+subl test.php
+ls
+clear
+php test.php
+php -S localhost:3000
+php test.php
+clear
+php test.php
+rm -rf test.php
+exit
+clear
+git add .
+git commit -m "Remove dd in determination of trial assessment"
+git push
+git pull
+git push
+clear
+clear
+sudo su
+cd /home/ahanafi/Downloads/Programs
+sudo dpkg -i microsoft-edge-beta_93.0.961.18-1_amd64.deb
+git add .
+git commit -m "Disable preview for docx/zip/rar files"
+git push
+clear
+git add .
+git commit -m "Split submission thesis requirement data in academic staff by status"
+git push
+clear
+pa make:migration change_response_note_to_text --table=thesis_submission
+clear
+pa migrate
+composer require doctrine/dbal
+celar
+clear
+composer require doctrine/dbal
+pa migrate
+clear
+exit
+cd Downloads
+clear
+ls | grep .deb
+sudo dpkg -i zoom_amd64.deb
+clear
+rm zoom_amd64.deb
+exit
+clear
+git add .
+git commit -m "Change response note column -- string to text"
+git push
+clear
+git add .
+git commit -m "Show supervisor response in student guidance data"
+git push
+celar
+clear
+git add .
+git commit -m "Fix error show submission when schedule is null"
+git push
+cler
+clear
+git add .
+git commit -m "Show weight in input assessment result"
+git push
+clear
+git add .
+git commit -m "Fix error while updating assessment component data"
+git push
+clear
+git add .
+git commit -m "Fix error in colloquium result and typo in seminar result"
+git push
+clear
+git add .
+git commit -m "Fix show result of colloquium assessment"
+git push
+cd Downdloads
+cd Downloads
+ls | grep .deb
+sudo dpkg -i wps-office_11.1.0.10702.XA_amd64.deb
+clear
+rm wps-office_11.1.0.10702.XA_amd64.deb
+exi
+exit
+clear
+git add .
+git commit -m "Add test topsis method"
+git push
+sudo apt install obs-studio
+matikan
+cd Code/grayweb/
+php -S localhost:3000
+clear
+pa serve --port=2300
+pa serve
+droidcam
+adb devices
+screencopy
+adb server
+clear
+screencopy
+adb devices
+screencopy
+adb kill-server
+screencopy
+adb devices
+droidcam
+screencopy
+clear
+cd /tmp/
+wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.8.0.zip
+# sha1sum: 3f94d6ec57a191ad146392fcf094b205e375e1ef
+unzip droidcam_latest.zip -d droidcam
+cd droidcam && sudo ./install-client
+clear
+cd ~
+clear
+droidcam
+clear
+lsmod | grep v4l2loopback_dc
+cd /tmp
+wget https://files.dev47apps.net/linux/droidcam_latest.zip
+echo "5ff0e772a76befba4e37e03101b611d7 droidcam_latest.zip" | md5sum -c --
+unzip droidcam_latest.zip -d droidcam && cd droidcam
+clear
+lsmod | grep v4l2loopback_dc
+sudo ./install
+ls
+sudo ./install-client
+sudo ./install-dkms
+sudo ./install-video
+clear
+ls
+sudo ./install-sound
+droidcam
+clear
+droidcam
+exit
+screencopy
+git add .
+git commit -m "Fix unable input colloquium score while submission is not approved"
+git push
+clear
+git add .
+git commit -m "Fix second trial examiner"
+git push
+exit
+clear
+git add .
+git commit -m "Fix label schedule form"
+git push
+clear
+git add .
+git commit -m "Add export guidance card by lecturer"
+git push
+clear
+pa view:clear
+c;ear
+clear
+git add .
+git commit -m "Fix generate trial examiner"
+git push
+clear
+git add .
+git commit -m "Fix topsis calculation"
+git push
+ngrok
+ngrok http 8000
+clear
+exit
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix getFirstExaminer"
+git push
+clear
+git add .
+git commit -m "Fix release command for heroku deployment"
+git push
+clear
+git add .
+git commit -m "Fix hide while submission of assessment is not scheduled"
+git push
+clear
+git add .
+git commit -m "Fix unable other submission of assessment when old assessment has not been finsih"
+git push
+clear
+git add .
+git commit -m "Fix null relation"
+git push
+clear
+git add .
+git commit -m "Fix labeling input assessment score"
+git push
+clear
+git add .
+git commit -m "Change label input file when user choosed file"
+git push
+CLEAR
+clear
+git add .
+git commit -m "Cleaning template header"
+git push
+clear
+pa make:request UpdatePasswordRequest
+clear
+pa make:request UpdatePasswordRequest
+clear
+git add .
+git commit -m "Add change user password"
+git push
+sudo su
+matikan
+clear
+git add .
+git commit -m "Fix assessment score in trial assessment"
+git push
+clear
+pa make:model Score -m
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+git add .
+git commit -m "Add insert thesis score"
+git push
+clear
+git add .
+git commit -m "Add topsis calculcation"
+git push
+cd Code
+ls
+cd smart-attendance-system/
+adonis serve --dev
+matikan
+cd Code/smart-attendance-system/
+node server.js
+clear
+pa make:migration remove_guidance_card_from_submission_assessment
+pa make:migration remove_guidance_card_from_submission_assessment --table=submission_of_assessments
+clear
+pa migrate
+clear
+pa make:middleware CheckStudentThesis
+exit
+clear
+git add .
+git commit -m "Remove upload guidance card for submission assessment, check thesis"
+git push
+clear
+exit
+ping 8.8.8.8
+ping 8.8.8.8 
+pa make:notification ChangeSubmissionStatus
+pa make:notification NotifyUpdateSubmissionStatus
+pa vendor:publish --tag=laravel-notification
+pa vendor:publish --tag=laravel-notifications
+sudo su
+exit
+javac --v
+javac -
+javac --version
+java --version
+matikan
+cd IdeaProjects/
+git clone git@github.com:ahanafi/java-simple-travel-app.git
+exit
+killall java -9
+git init
+touch .gitignore
+ls
+clear
+ls | grep .deb
+sudo dpkg -i skypeforlinux-64.deb
+sudo su
+clear
+ls
+cd Downloads
+sudo su
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+cclear
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+cle
+clear
+php second.php
+clear
+php -S localhost:3000
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+CLEAR
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clea
+clear
+php second.php
+reboot
+ls 
+sudo dpkg -i microsoft-edge-beta_93.0.961.18-1_amd64.deb
+exit
+cd Code/smart-attendance-system/
+adonis serve --dev
+cd Code/smart-attendance-system/
+adonis serve --dev
+matikan
+clear
+git add .
+git commit -m "Remove level checking in login"
+git push
+clear
+git remote set-url origin git@github.com:ahanafi/teaching-activity-app.git
+git push
+clear
+git add .
+git commit -m "Add student operation"
+git push
+clear
+ping 8.8.8.8
+mysql -u root -p
+clear
+cd Desktop
+git clone git@github.com:adimasistiawan/sieguardian.git
+cd sieguardian/
+cp .env.example .env
+vi .env
+clear
+composer install
+php artisan migrate
+php artisan db:seed
+clear
+pa serve
+clear
+pa key:generate
+pa serve
+Code .
+code .
+pa serve
+cd ,,
+cd ..
+rm -rf sieguardian/
+exit
+git add .
+git commit -m "Fix insert BAP with changes structure of tables"
+git push
+clear
+git add .
+git commit -m "Add badge color in showUserLevel method"
+git push
+ls
+clear
+ls -l
+php 01-solution.php
+clear
+php 01-solution.php
+clear
+php 01-solution.php
+clear
+php 01-solution.php
+cd uploads
+ls
+cd paraf-mhs
+ls
+rm -rf .
+sudo rm -rf .
+ls
+sudo rm -rf *
+ls
+exit
+cd uploads/paraf-mhs
+sudo rm *
+ls
+exut
+exit
+clear
+git add .
+git commit -m "Add upload digital signatur at student page"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Prevent student change password"
+git push
+cd uploads/bukti-kegiatan/
+rm -rf *
+ls
+clear
+cd ../..
+clear
+git add .
+git commit -m "Fix checked materialType and daringApps"
+git push
+sudo su
+exit
+ls
+chmodr -R 777 assets
+chmod -R 777 assets
+clear
+ls -l
+exit
+screencopy
+exit
+clear
+php index.php
+clear
+ckear
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+lear
+clear
+php index.php
+clear
+git add .
+git commit -m "Fix error in BAP edit page"
+git push
+ckear
+clear
+git status
+get checkout
+git checkout
+clear
+exit
+clear
+git add .
+git commit -m "Add export data program studi"
+git push
+clear
+exit
+chmod -R uploads
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+exit
+cd uploads/imports
+ls
+rm *
+sudo rm *
+ls
+clear
+exit
+CLKEAR
+clear
+git add .
+git commit -m "Add import dosen"
+git push
+clear
+git add .
+git commit -m "Add export mahasiswa"
+git push
+clear
+exut
+exit
+clear
+git add .
+git commit -m "Add download sample of import data"
+git push
+clear
+git add .
+git commit -m "Add hover effect in dropdown user menu"
+git push
+ckear
+clear
+exit
+cd uploads/imports
+sudo rm *
+clear
+exit
+cd uploads/bukti-kegiatan/
+sudo rm *
+clear
+exit
+clear
+git add .
+git commit -m "Change schedule multi class"
+git push
+clear
+git add .
+git commit -m "Fix show all jadwal"
+git push
+clear
+git add .
+git commit -m "Fix show berita acara -- query by jadwal model"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add template_helper"
+git push
+clear
+cd uploads/bukti-kegiatan/
+sudo rm *
+clear
+sudo rm *
+clear
+exit

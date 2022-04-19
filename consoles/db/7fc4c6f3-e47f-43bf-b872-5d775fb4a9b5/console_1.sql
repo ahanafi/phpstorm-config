@@ -1,0 +1,1 @@
+select * from `permit_letters` where `type` = 'LEAVE' order by `created_at` asc

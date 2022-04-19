@@ -1,0 +1,20 @@
+INSERT INTO pengguna
+(username, nama_lengkap, email, password, telpon, id_kantor_cabang, id_jabatan, level, status) values
+('csogray0', 'Admin CSO', 'csogray0@gmail.com', 'Cirebon.12345', '0231-236999', 1, 9, 'CSO', 1),
+('csogray1', 'Admin CSO', 'csogray1@gmail.com', 'Cirebon.12345', '0231-236999', 2, 9, 'CSO', 1),
+('csogray2', 'Admin CSO', 'csogray2@gmail.com', 'Cirebon.12345', '0231-236999', 3, 9, 'CSO', 1),
+('csogray3', 'Admin CSO', 'csogray3@gmail.com', 'Cirebon.12345', '0231-236999', 4, 9, 'CSO', 1),
+('csogray4', 'Admin CSO', 'csogray4@gmail.com', 'Cirebon.12345', '0231-236999', 5, 9, 'CSO', 1),
+('csogray5', 'Admin CSO', 'csogray5@gmail.com', 'Cirebon.12345', '0231-236999', 6, 9, 'CSO', 1),
+('csogray6', 'Admin CSO', 'csogray6@gmail.com', 'Cirebon.12345', '0231-236999', 7, 9, 'CSO', 1),
+('csogray7', 'Admin CSO', 'csogray7@gmail.com', 'Cirebon.12345', '0231-236999', 8, 9, 'CSO', 1),
+('csogray8', 'Admin CSO', 'csogray8@gmail.com', 'Cirebon.12345', '0231-236999', 9, 9, 'CSO', 1),
+('csogray9', 'Admin CSO', 'csogray9@gmail.com', 'Cirebon.12345', '0231-236999', 10, 9, 'CSO', 1),
+('csogray10', 'Admin CSO', 'csogray10@gmail.com', 'Cirebon.12345', '0231-236999', 11, 9, 'CSO', 1),
+('csogray11', 'Admin CSO', 'csogray11@gmail.com', 'Cirebon.12345', '0231-236999', 12, 9, 'CSO', 1),
+('csogray12', 'Admin CSO', 'csogray12@gmail.com', 'Cirebon.12345', '0231-236999', 13, 9, 'CSO', 1),
+('csogray13', 'Admin CSO', 'csogray13@gmail.com', 'Cirebon.12345', '0231-236999', 14, 9, 'CSO', 1),
+('csogray14', 'Admin CSO', 'csogray14@gmail.com', 'Cirebon.12345', '0231-236999', 15, 9, 'CSO', 1),
+('csogray15', 'Admin CSO', 'csogray15@gmail.com', 'Cirebon.12345', '0231-236999', 16, 9, 'CSO', 1),
+('csogray16', 'Admin CSO', 'csogray16@gmail.com', 'Cirebon.12345', '0231-236999', 17, 9, 'CSO', 1),
+('csogray17', 'Admin CSO', 'csogray17@gmail.com', 'Cirebon.12345', '0231-236999', 18, 9, 'CSO', 1);

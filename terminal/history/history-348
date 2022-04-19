@@ -1,0 +1,952 @@
+matikan
+./push.sh "Add program studi CRUD operation"
+./push.sh "Add CRUD kelas operation"
+./push.sh "Add CRUD Dosen operation"
+matikan
+./push.sh "Add CRUD Mata kuliah operation"
+./push.sh "Add CRUD ruang kelas operation"
+./push.sh "Add CRUD Jadwal"
+./push.sh "Fix toggle sidebar menu"
+clear
+./push.sh "Add authorization and berita acara"
+change_php_version
+cat .bashrc
+use_php5
+php -b
+php -v
+clear
+exit
+clear
+phpenmod mysql
+sudo phpenmod mysql
+clear
+which php.ini
+where php.ini
+find php.ini
+sudo subl /etc/php/5.6/cli/php.ini
+clear
+sudo a2enmod 
+sudo a2enmod php5.6
+sudo a2dismod php7.4
+sudo a2dismod php7.3
+systemctl restart apache2
+exit
+sudo su
+exit
+mysql -u root
+mysql -u root -p
+sudo a2enmod php7.4
+sudo a2dismod php5.6
+change_php_version
+systemctl restart apache2
+exit
+set_proxy
+clear
+set_proxy
+exit
+git add .
+git commit -m "Fix error edit spk fob and add total balancing in input trans. spk"
+git push origin master
+set_proxy
+exit
+unset_proxy
+clear
+sudo apt update
+clear
+exit
+cd Downloads/Programs
+sudo dpkg -i dbeaver-ce_7.3.1_amd64.deb
+git add .
+git commit -m "Tampilkan rincian pengeluaran tiap spk pda detail PI"
+git push origin master
+git add .
+git commit -m "Add <?php if(showOnlyTo("ADMIN")):?>
+git commit -m "Add authorization by user levels"
+git push origin main
+clear
+exit
+./install.sh
+sudo ./install.sh
+which php.ini
+ls -a
+clear
+git add .
+git commit -m "Add code in account"
+git push origin main
+exut
+exit
+set_proxy
+exit
+cd /etc/
+ls | grep php
+cd php
+ls
+phpinvo
+php --version
+clear
+ls 
+cd 7.4
+ls
+cd apache2
+ls
+subl php.ini
+php --ini
+subl php.ini
+clear
+systemctl restart apache2
+subl php.ini
+systemctl restart apache2
+php --ini
+systemctl restart apache2
+exit
+ls -a
+clear
+git add .
+git commit -m "Add detail donatur"
+git push origin main
+exit
+composer require dompdf/dompdf
+set_proxy
+clear
+exut
+exit
+set_proxy
+unset_proxy
+cd Desktop
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+cat vps-gray.xml
+connecth_ssh_gray
+connect_ssh_gray
+cd Desktop/GRAY
+ls
+cd SIM
+ls
+clear
+ls
+cd ..
+ls
+cat vps-gray.txt
+clear
+connect_ssh_gray
+ls
+cat vps-gray.txt
+git add .
+git commit -m "Change form input donasi and etc"
+git push origin main
+git add .
+git commit -m "Add cetak kwitansi in new tab"
+git push origin main
+git add .
+git commit -m "Fix view cetak donasi"
+git push origin main
+git add .
+git commit -m "Fix error cetak donasi"
+git push origin main
+git add .
+git commit -m "Add verifikasi view table"
+git push origin main
+sudo nautilus .
+cd /opt/lampp/htdocs
+cd ..
+sudo chmod -R htdocs 777
+sudo chmod -R 777 htdocs
+ls
+./manager-linux-x64.run
+sud o./manager-linux-x64.run
+su  o./manager-linux-x64.run
+sudo ./manager-linux-x64.run
+cd ~
+ls
+subl .bashrc
+exit
+sudo systemctl stop apache2
+sudo systemctl stop mysql
+cd Downloads
+./xampp-linux-x64-5.5.38-3-installer.run
+sudo ./xampp-linux-x64-5.5.38-3-installer.run
+sudo su ./xampp-linux-x64-5.5.38-3-installer.run
+sudo su
+matikan
+php -S localhost:9000
+set_proxy
+clear
+set_proxy
+chmod -R 777 uploads
+set_proxy
+exit
+git add .
+git commit -m "Add insert berita acara and some plugins"
+git push origin main
+unset_proxy
+clear
+exit
+ls
+clear
+sudo dpkg -i mendeleydesktop_1.19.4-stable_amd64.deb
+cd ../
+exit
+ls
+./install-mendeley-link-handler.sh
+./mendeleydesktop
+clear
+sudo apt remove --purge libreoffice*
+sudo apt remove --purge libre*
+apt list
+apt list | grep libre
+sudo apt remove --purge libreoffice-*
+apt list | grep libreoffice
+sudo apt remove --purge libreoffice-*
+sudo apt remove --purge libreoffice7.0-*
+sudo apt purge --remove libreoffice7.0-*
+sudo apt remove --purge libreoffice*
+clear
+aptitude search '~i' | grep libreoffice
+apt search '~i' | grep libreoffice
+exit
+set_proxy
+exit
+cd ./local/share/
+cd ./local
+ls -a
+cd .local/share/mendeleydesktop
+cd bin
+./mendeleye
+./mendeleydesktop
+EXIT
+exit
+sudo su
+set_proxy
+clear
+libreoffice
+soffice
+find / -name "libreoffice"  -print 2>/dev/null
+cd /usr/lib/libreoffice
+ls
+cd program
+ls
+cd /usr/share/maven-repo/org
+ls
+cd libreoffice
+ls
+cd /etc/libreoffice
+ls
+./soffice.sh
+sudo ./soffice.sh
+chmod +X ./soffice.sh
+sudo chmod +X ./soffice.sh
+./soffice.sh
+su -c 'apt-get purge libreoffice? libobasis?]
+;
+su -c 'apt-get purge libreoffice? libobasis?'
+su -c 'apt-get purge libreoffice? libobasis?
+'
+sudo apt-get purge libreoffice? libobasis?
+sudo apt autoremove
+exi
+exit
+ls
+sudo dpkg -i onlyoffice-desktopeditors_amd64.deb
+open_mendeley
+cd .local/share/
+ls
+cd mendeleydesktop
+ls
+cd ..
+cd ~
+subl .bashrc
+source .bashrc
+clear
+open_mendeley
+cd ~
+clear
+set_proxy
+unset_proxy
+clear
+sudo su
+clear
+dpkg --list
+sudo apt remove --purge 4kvideodownloader
+sudo apt remove --purge onlyoffice
+dpkg --list | grep office
+sudo apt remove --purge onlyoffice-*
+sudo apt remove --purge onlyoffice-desktopeditors
+clear
+dpkg --list | grep obs
+sudo apt remove --purge obs-studio
+clear
+dpkg --list | grep macbuntu
+sudo apt remove --purge macbuntu-os-icons-v1804 macbuntu-os-ithemes-v1804
+clear
+sudo apt autoremove
+clear
+dpkg --list | grep image
+sudo apt remove --purge imagemagice
+sudo apt remove --purge imagemagic
+sudo apt remove --purge imagemagick
+sudo apt remove --purge teamviewer
+clear
+apt autormeove
+apt autoremove
+sudo apt autoremove
+clear
+dpkg --list | grep imagemagic
+sudo apt remove --purge imagemagick-6-common imagemagick-6.q16
+clear
+apt update
+sudo apt update
+clear
+exit
+git congi --global http.proxy ""
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Fix available PI by jenis spk when input spk"
+git push origin master
+./deploy.sh "Fix incrementing donatur id"
+chmod +X deploy.sh
+./deploy.sh "Fix incrementing donatur id"
+sudo chmod -R 777 depoly.sh
+sudo chmod -R 777 deploy.sh
+./deploy.sh "Fix incrementing donatur id"
+sudo systemctl apache2 stop
+sudo systemctl stop apache2
+sudo systemctl stop mysql
+exit
+open_xampp
+set_proxy
+exit
+set_proxy
+clear
+matikan
+set_proxy
+./deploy.sh "Fix input donasi -- tunai && non_tunai --
+"
+sudo su
+clear
+cd ..
+tar -zcvf Code.tar.gz Code
+unset_proxy
+clear
+sudo apt update
+clear
+set_proxy
+clear
+exit
+unset_proxy
+stop_apache
+cat .bashrc
+clear
+exit
+sudo su
+subl .bashrc
+source .bashrc
+clear
+stop_apache
+open_xampp
+clear
+exit
+ls
+chmod -R 777 ahanafi.github.io
+sudo chmod -R 777 ahanafi.github.io
+clear
+exit
+matikan
+cd uploads
+chmod -R 777 .
+sudo chmod -R 777 .
+clear
+sudo chmod -R 777 .
+cd ..
+ls -a upload
+ls -a uploads
+clear
+ls -l uploads
+sudo chmod -R 777 uploads
+set_proxy
+clear
+set_proxy
+unset_proxy
+stop_apache
+open_xampp
+unset_proxy
+exit
+set_proxy
+exit
+set_proxy
+clear
+exit
+unset_proxy
+stop_apache
+open_xampp
+set_proxy
+unset_proxy
+exit
+open_xampp
+clear
+php -v
+clear
+exit
+screencopy
+exit
+set_proxy
+clear
+systemctl start apache2
+open_xampp
+systemctl start apache2
+systemctl start mysql
+mysql -u root -p
+clear
+set_proxy
+clear
+cd ~/Code/grayweb
+ls
+cat .env
+screencopy
+exit
+\
+composer require google/apiclient:"^2.7"
+clear
+exit
+exi
+exit
+git add .
+git commit -m "Add verifikasi donasi"
+git push origin main
+set_proxy
+clear
+matikan
+clear
+set_proxy
+clear
+cd ../GRAY
+ls
+cat vps-gray.txt
+connect_ssh_gray
+lc
+ls
+cd SIM
+ls
+cat db-config.txt
+connect_ssh_gray
+ls
+cat vps-gray.txt
+ls
+cd ..
+ls
+connect_ssh_grya
+connect_ssh_grya
+connect_ssh_gray
+matikan
+connect_ssh_gray
+set_proxu
+set_proxy
+;s
+ls
+subl main.sh
+set_proxy
+clear
+apt update
+exit
+unset_proxy
+exit
+unset_proxy
+set_proxy
+clear
+exit
+cd uploads
+mkdir kwitansi
+mkdir users
+sudo chmod -R 777 .
+ls -l
+sudo chmod -R 777 .
+ckear
+clear
+cd ..
+git add .
+git commit -m "Add upload kwitansi and detail donasi"
+git push origin main
+screencopy
+set_proxy
+matikan
+unset_proxy
+exit
+git --global config http.proxy ""
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+./push.sh "Fix input berita acara"
+git push origin main
+clear
+exit
+set_proxy
+exit
+./push.sh "Remove email and foto from user"
+./push.sh "Change structure at dosen table's"
+clear
+./push.sh "Sho faculty name at program studi"
+unset_proxy
+set_proxy
+exit
+./push.sh "Show prodi name in kelas"
+./push.sh "Apply select2 in jadwal form"
+set_proxy
+exit
+exit
+./push.sh "Show kaprodi in program studi table"
+./push.sh "Add detail dosen and change dashboard widget"
+exit
+set_proxy
+clear
+exit
+cd uploads
+ls
+cd bukti-kegiatan
+ls
+chmod -R 777 .
+sudo chmod -R 777 .
+cd ..
+sudo chmod -R 777 .
+clear
+cd ..
+clear
+exit
+composer require dompdf/dompdf
+composer require phpoffice/phpspreadsheet
+composer fund
+clear
+exit
+./push.sh "Fix edit berita acara and add detail berita acara"
+clear
+exit
+set_proxy
+clear
+matikan
+set_proxy
+matikan
+set_proxy
+clear
+exit
+./push.sh "Add cetak pdf BAP"
+unset_proxy
+clear
+sudo su
+stop_apache
+open_xampp
+exit
+open_mendeley
+matikan
+open_mendeley
+clear
+ls
+./push.sh "Add export to Excel and PDF"
+clear
+unset_proxy
+clear
+sudo su
+exit
+stop_apache
+open_xampp
+stop_apache
+open_xampp
+exit
+sudo su
+matikan
+clear
+stop_apache
+open_xampp
+reboot
+./push.sh "Add input jadwal validation, report filter data, fix form jadwal"
+./push.sh "Refactor showPageHeader function and change page header"
+composer require nesbot/carbon
+clear
+exit
+sudo su
+exit
+./push "Added UCIC Logo"
+./push.sh "Added UCIC Logo"
+./push.sh "Refactor method namaDosen, fix form BAP, detail and export PDF BAP"
+./push.sh "Fix view result export to Excel"
+exit
+stop apache2
+stop_apache
+open_xampp
+nautilus ~
+exit
+reboot
+ls
+./deploy.sh "Add some bug fixes and some features"
+cd Desktop
+ls
+clear
+mkdir INIFOLDER
+ls
+clear
+ls -l
+chmod 700 INIFOLDER
+ls -l
+rm -rf INIFOLDER
+ls -l
+exit
+clear
+ls
+clear
+set_proxy 
+clear
+unset_proxy 
+clear
+sudo su
+matikan
+stop_apache
+open_xampp
+matikan
+stop_apache
+set_proxy
+exit
+sudo su
+unset_proxy
+clear
+sudo su
+open_xampp
+set_proxy
+unset_proxy
+sudo su
+matikan
+sudo su
+exit
+cd ~/Downloads
+ls
+cd Programs
+clear
+ls
+cd ../Compressed
+nautilus .
+matikan
+stop_apache
+open_xampp
+set_proxy
+clear
+exit
+set_proxy
+exit
+unset_proxy
+exit
+git http.proxy ""
+git config http.proxy ""
+git config https.proxy ""
+clear
+exit
+sudo su 
+clear
+git add .
+git commit -m "Add profile page, update profile, and update picture"
+git push origin main
+unset_proxy
+exit
+ls
+./deploy.sh "Add kunjungan id in form kunjungan tamu"
+clear
+./deploy.sh "Change password"
+./deploy.sh "Fix form update donasi"
+clear
+exit
+./deploy.sh "Add detail donasi non-tunai"
+set_proxy
+clear
+exit
+unset_proxy
+set_proxy
+exit
+unset_proxy
+clear
+exit
+ifconfig
+exit
+subl /var/www/html/go-bengkel
+exit
+./deploy.sh "Show verifikator name with use sub query in donasi"
+git config http.proxy ""
+git config https.proxy ""
+git push origin main
+./deploy.sh "Add verifikator dashboard and office location in cetak kwitansi"
+exit
+connect_ssh_gray
+./deploy.sh "Change db connection"
+screencopy
+set_proxy
+clear
+LS
+ls
+./push.sh "Fix berita acara"
+./push.sh "Add change password user"
+./push.sh "Fix filtering report in level Kaprodi"
+screencopy
+unset_proxy
+set_proxy
+clear
+exit
+unset_proxy
+sudo su
+unset_proxy
+exit
+droidcam
+adb device
+adb devices
+droidcam
+adb devices
+droidcam
+adb devices
+clear
+cd /tmp/
+wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.7.1.zip
+unzip droidcam_latest.zip -d droidcam
+cd droidcam && sudo ./install-client
+droidcam
+ls
+./install-video
+./install-client
+sudo ./install-client
+sudo ./install-sound
+sudo ./install-video
+droidcam
+clear
+cd ~
+ls -al ~/.android
+exit
+lsmod | grep v4l2loopback_dc
+sudo apt install libcanberra-gtk-module
+apt install adb
+exit
+droidcam
+clear
+adb devices
+exit
+screencopy
+adb kill-server
+screencopy
+adb kill-server
+adb devices
+adb kill-server
+adb devices
+exit
+ls
+php -S localhost:1200
+git config http.proxy ""
+git config https.proxy ""
+clear
+ls
+./push.sh "Add chart in dashboard"
+git push origin main
+exit
+droidcam
+exit
+screencopy
+ls
+sudo dpkg -i pencil_3.1.0.ga_amd64.deb
+matikan
+screencopy
+set_proxy
+exit
+git init
+git add .
+clear
+git commit -m "Init first"
+clear
+git branch -M main
+git remote add origin https://github.com/ahanafi/sipakar-hardware.git
+git push -u origin master
+git push -u origin main
+git add .
+git commit -m "Remove unused files"
+git push origin main
+git add .
+git commit -m "Update section text"
+git push origin main
+clear
+git add .
+git commit -m "Add database files"
+git push origin main
+./push.sh "Update readme"
+set_proxy
+./push.sh "Fix some typo and added sample data"
+cd ../../Downloads/Programs
+ls
+sudo dpkg -i zoom_amd64.deb
+cler
+clear
+exit
+unset_proxy
+clear
+sudo apt update
+sudo apt upgrade
+clear
+sudo apt dist-upgrade
+sudo apt autoremove
+clear
+sudo apt update
+reboot
+set_proxy
+clear
+exit
+set_proxy
+clear
+set_proxy
+unset_proxy
+set_proxy
+unset_proxy
+set_proxy
+exit'
+/
+exit
+cd ../
+ls
+cd 
+cd Desktop
+cd 'SKKNI 2021'
+ls
+cd TUGAS
+ls
+cd tugas-skkni
+ls
+sclear
+clear
+ls
+php -S localhost:8000
+exit
+set_proxy
+exit
+php -S localhost:6500
+exit
+php -S localhost:9200
+eixt
+exit
+clear
+set_proxy
+cd ../Downloads
+cd ../../Downloads
+clear
+ld
+ls | grep php
+php -S localhost:2000
+exit
+set_proxy
+clear
+reboot
+set_proxy
+clear
+set_proxy
+exit
+set_proxy
+clear
+exit
+php -S localhost:7000
+subl .
+php -S localhost:7000
+clear
+exit
+stop_apache
+open_xampp
+start_apache
+clear
+systemctl apache start
+systemctl apache2 start
+systemctl start apache
+systemctl start apache2
+systemctl mysql start
+systemctl start mysql
+exit
+stop_apache
+open_xampp
+exit
+cd Downloads
+ls
+clear
+cd Programs
+ls
+clear
+sudo dpkg -i Insomnia.Core-2020.5.2.deb
+ls
+cd ..
+sudo dpkg -i Insomnia.Core-2020.5.2.deb
+exit
+php -S localhost:6500
+ls
+clear
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+php -S localhost:6500
+ls
+cd implementasi
+php -S localhost:6500
+cd ../..
+php -S localhost:6500
+exit
+git config global http.proxy 192.168.43.156:44355
+git global config http.proxy 192.168.43.156:44355
+git config --global http.proxy 192.168.43.156:44355
+git config --global https.proxy 192.168.43.156:44355
+screencopy
+set_proxy
+unset_proxy
+ping 8.8.8.8
+clear
+cat .bash_profile
+cat .bashrc
+which php.ini
+where php.ini
+cd /etc/
+ls
+cd php
+la
+ls
+celar
+ls
+clear
+ls
+cd php 5.6
+ks
+clear
+cd 5.6
+ls
+cd apache2
+ls
+subl php.ini
+exit
+screencopy
+exit
+ssh root@103.39.50.106
+matikan
+sudo su
+pip install jupyter
+exit
+clear
+ssh root@103.39.50.106
+cd Desktop
+cd 'SKKNI 2021;
+'
+cd 'SKKNI 2021'
+ls
+cd TUGAS
+ls
+cd tugas-skkni
+ls
+php -S localhost:8900
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+php -S localhost:3000
+exit
+ls
+cd Tugas6_Ahmad_Hanafi
+ls
+cd implementasi
+ls
+clear
+php -S localhost:8900

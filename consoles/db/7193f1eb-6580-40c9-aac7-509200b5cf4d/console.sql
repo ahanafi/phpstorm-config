@@ -1,0 +1,20 @@
+INSERT INTO akun_penerimaan
+(kode_akun, nama_akun) values
+('210-31', 'Utang Wakaf Qur\'an'),
+('210-32', 'Utang Wakaf Bangunan'),
+('410-10', 'Penerimaan Zakat Entitas'),
+('410-20', 'Penerimaan Zakat Individu'),
+('410-30', 'Penerimaan Zakat Fitrah'),
+('420-10', 'Penerimaan Infak dan Sedekah'),
+('420-20', 'Penerimaan Pundi CSO'),
+('420-30', 'Penerimaan Pundi Marketing'),
+('430-10', 'Penerimaan Nadzar'),
+('430-20', 'Penerimaan Fidyah'),
+('430-30', 'Penerimaan Kafarat'),
+('430-40', 'Penerimaan Qurban'),
+('430-50', 'Penerimaan Aqiqah'),
+('430-60', 'Penerimaan Hibah'),
+('430-70', 'Penerimaan Santunan Acara'),
+('440-10', 'Penerimaan Non Muslim'),
+('440-20', 'Penerimaan Bunga Bank'),
+('450-90', 'Penerimaan Lainnya')

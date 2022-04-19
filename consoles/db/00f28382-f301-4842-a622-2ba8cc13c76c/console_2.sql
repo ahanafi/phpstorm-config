@@ -1,0 +1,1 @@
+select * from `submission_of_assessments` where (`assessment_type` = 'TRIAL' and `first_examiner` = '425036903' or `second_examiner` = '425036903') and `status_first_supervisor` = 'APPROVE' and `status_second_supervisor` = 'APPROVE'

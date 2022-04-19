@@ -1,0 +1,1 @@
+SELECT berita_acara.*, jadwal.*, mata_kuliah.nama_mata_kuliah AS mata_kuliah, kelas.nama_kelas AS kelas, dosen.nama_lengkap AS dosen FROM berita_acara JOIN jadwal USING (jadwal) JOIN mata_kuliah USING (id_mata_kuliah) JOIN kelas USING (id_kelas) JOIN dosen USING (id_dosen)

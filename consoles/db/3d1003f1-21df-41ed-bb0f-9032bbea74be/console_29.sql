@@ -1,0 +1,1 @@
+SELECT * FROM transaksi WHERE spk_id is null;

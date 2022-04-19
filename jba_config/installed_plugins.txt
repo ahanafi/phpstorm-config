@@ -1,0 +1,42 @@
+BashSupport
+Code MiniMap
+Key Promoter X
+com.chrisrm.idea.MaterialThemeUI
+com.gamache.intellij.ErrorItemLineMarker
+com.github.mturlo.intellij.theme.spacegray
+com.jetbrains.darkPurpleTheme
+com.mallowigi
+com.steve.plugins.recentprojects
+com.vermouthx.idea
+com.xiaobing1024.laravel
+indent-rainbow.indent-rainbow
+io.github.heldev.elasticindents
+net.seesharpsoft.intellij.plugins.file-preview
+zielu.gittoolbox
+mobi.hsz.idea.gitignore
+ir.msdehghan.plugins.ansible
+jones.restarteslintaction.restart-eslint-action
+lermitage.intellij.extra.icons
+com.dmarcotte.handlebars
+de.espend.idea.laravel
+com.kalessil.phpStorm.phpInspectionsEA
+lt.martynassateika.idea.codeigniter
+nl.deschepers.laraveltinker
+de.espend.idea.php.toolbox
+de.espend.idea.php.annotation
+fr.adrienbrault.idea.symfony2plugin
+izhangzhihao.rainbow.brackets
+ru.adelf.idea.dotenv
+com.intellij.plugins.sublimetextkeymap
+com.niclas-van-eyk.laravel-make-integration
+de.espend.idea.php.phpunit
+com.markskelton.one-dark-theme
+net.seesharpsoft.intellij.plugins.csv
+hu.aradipatrik.onedarknative
+PHPUnit code coverage
+lermitage.intellij.extratci
+cn.haojiyou.CodeGlance3
+com.kite.intellij
+com.intellij.ideolog
+monokai-pro
+ski.chrzanow.foldableprojectview

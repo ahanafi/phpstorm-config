@@ -1,0 +1,1000 @@
+cd /var/www/html
+ls
+cd siakad
+exit
+sudo su
+exit
+cd /etc/
+ls
+cd php
+ls
+clear
+ls
+cd 7.4
+ls
+cd apache2
+ls
+sudo subl php.ini
+systemctl apache2 restart
+systemctl restart apache2
+cd ../
+cd ../7.3
+cd apache
+cd apache2
+ls
+subl php.ini
+systemctl restart apache2
+subl php.ini
+systemctl restart apache2
+exit
+ping 8.8.8.8 -t
+ping 8.8.8.8
+matikan
+php -v
+sudo .bashrc
+sudo subl .bashrc
+sudo a2dismod php7.4
+sudo a2enmod php5.6
+sudo service apache2 restart
+systemctl status apache2.service
+sudo update-alternatives --set php /usr/bin/php5.6
+sudo update-alternatives --set phar /usr/bin/phar5.6
+sudo update-alternatives --set phar.phar /usr/bin/phar.phar5.6 
+sudo update-alternatives --set phpize /usr/bin/phpize5.6
+sudo update-alternatives --set php-config /usr/bin/php-config5.6
+systemctl status apache2.service
+sudo service apache2 restart
+clear
+php -v
+sudo a2dismod php5.6
+sudo a2enmod php7.3
+systemctl apache2 start
+sudo a2dismod php7.3
+sudo a2enmod php5.6
+systemctl apache2 restart
+systemctl restart apache2
+sudo a2dismod php5.6
+sudo a2enmod php7.3
+systemctl restart apache2
+exit
+git add .
+git commit -m "Fix input, edit SPK + transaksi, filtering transaksi kas, etc"
+git push origin master
+exit
+matikan
+gksudo gedit /etc/rc.local.shutdown
+sudo gedit /etc/rc.local.shutdown
+exit
+sudo subl /etc/default/grub
+sudo update-grub
+matikan
+sudo subl /etc/default/grub
+sudo update-grub
+reboot
+cd Desktop
+mkdir TechTalk
+cd TeckTalk
+cd TechTalk
+clear
+mkdir NgobarJeh
+cd NgobarJeh
+clear
+composer create-project codeigniter4/appstarter todo-backend
+php -v
+change_php_version
+clear
+composer create-project codeigniter4/appstarter todo-backend
+clear
+ls
+todo-frontend
+mkdir todo-frontend
+cd todo-frontend
+npm install -g @vue/cli
+npm install vue@next
+ls
+clear
+ls
+cd ../todo-backend
+clear
+ls
+php spark serve
+subl .
+php spark serve
+exit
+clear
+ph -ef | grep phpstorm
+ps -ef | grep phpstorm
+kill -9 8227
+kill -9 8558
+kill -9 8645
+kill -9 8983
+clear
+reboot
+sudo su
+exit
+ls
+subl java_error_in_PHPSTORM_11982.log
+ls -a
+clear
+ls
+ls -a
+subl java_error_in_PHPSTORM_11982.log
+clear
+cat java_error_in_PHPSTORM_11982.log
+clear
+ls
+ls -a
+cd .PhpStorm2019.3
+ls
+ls config
+celar
+clear
+ps -ef | grep phpstorm
+kill -9 3334
+kill -9 11723
+kill -9 12439
+kill -9 12834
+kill -9 13903
+ps -ef | grep phpstorm
+clear
+ps -ef | grep phpstorm
+ls
+cd ..
+which phpstorm
+which phpstorm.sh
+where phpstorm.sh
+clear
+cd .config/JetBrains
+ls
+cd PhpStorm2020.2
+ls
+clear
+ls
+cd ..
+ls
+mv ~/.config/JetBrains/PhpStorm2020.2 ~/.config/JetBrains/PhpStorm2020.2-backup
+ls
+exit
+reboot
+ps -a | grep phpstorm
+kill -9 3860
+ps -a | grep phpstorm
+kill -9 4677
+exit
+ps -a | grep phpstorm
+kill -9 5605
+ps -a | grep phpstorm
+ps -ef | grep phpstorm
+reboot
+find
+clear
+find phpstorm
+find PhpStorm
+which phpstorm
+clear
+ls
+ls -a
+clear
+ls
+ls -a
+rm -rf .PhpStorm2019.3
+cd .config
+ls
+celar
+clear
+ls
+cd JetBrains
+ls
+rm -rf PhpWebstorm2020.*
+ls
+rm -rf PhpStorm2020.*
+ls
+clear
+cd /opt
+ls
+rm -rf android-studio
+sudo rm -rf android-studio
+clear
+ls -la
+exit
+./phpstorm
+./phpstorm.sh
+matikan
+sudo su
+clear
+ls
+clear
+cd .config
+ls
+cd JetBrains
+ls
+clear
+rm -rf PhpStorm2020.*
+ls
+cd ../
+cd ../.cache
+ls
+cd JetBrains
+clear
+ls
+rm -rf PhpStorm2020.*
+ls
+clear
+find PhpStorm
+cd ~/Desktop
+ls
+exit
+clear
+cd /opt
+ls
+exit
+clear
+cd /usr/local
+ls
+cd bin
+ls
+pstorm
+./pstorm
+clear
+cd ~/
+ls
+cd .java
+ls
+clear
+cd ..
+sudo find / -name *PhpStorm*
+clear
+ls
+ls -a
+cd /usr/share
+c;ear
+clear
+ls
+cd apport
+ls
+clear
+ls
+./apport
+exit
+java --version
+jvm --version
+javac --version
+exot
+exi
+exit
+reboot
+php -v
+clear
+git add .
+git commit -m "Add status bank"
+git push origin master
+git add .
+git commit -m "Change currency format separator and remove 'Rp' "
+git push origin master
+clear
+php -v
+clear
+sudo a2dismod php7.3
+sudo a2enmod php7.4
+systemctl restart apache2
+php -v
+change_php_version
+clear
+sudo su
+reboot
+sudo subl .bashrc
+exit
+sudo subl .bashrc
+exit
+sudo subl .bashrc
+exit
+clear
+use_php5
+a2dismod php7.4
+sudo a2dismod php7.4
+sytemctl restart apache2
+systemctl restart apache2
+a2enmod php5.6
+sudo a2enmod php5.6
+systemctl restart apache2
+php -v
+change_php_version
+clear
+sudo a2dismod php5.6
+sudo a2dismod php7.3
+sudo a2dismod php7.4
+sudo a2enmod php7.3
+systemctl restart apache2
+clear
+change_php_version
+reboot
+git add .
+git commit -m "Add cetak data PO, PI, Detail PO"
+git push origin master
+clear
+sudo a2dismod php7.4
+sudo a2dismod php7.3
+sudo a2endmod php5.6
+sudo a2enmod php5.6
+systemctl restart apache2
+change_php_version
+clear
+php -v
+clear
+use_php7.3
+use_php73
+subl .bashrc
+use_php7
+clear
+php -v
+change_php_version
+clear
+sudo a2enmod php7.3
+systemctl restart apache2
+use_php7
+subl .bash
+subl .bashrc
+clear
+subl .bashrc
+exit
+use_php5
+php -v
+clear
+sudo su
+exit
+cd Desktp[
+cd Desktop
+cd Programs
+cd ../Downloads/Programs
+clear
+ls
+ls -l
+;s
+ls
+clear
+ls -
+ls -l
+sudo dpkg -i komorebi-2.1-64-bit.deb
+exit
+sudo mv /home/ahanafi/new_wallpaper /System/Resources/Komorebi
+sudo nautilus 
+clear
+sudo su
+matikan
+ls
+nautilus .
+sudo mv /home/ahanafi/xx /System/Resources/Komorebi
+cd /System/Resources/Komorebi
+sudo nautilus .
+exot
+exit
+php -v
+use_php7
+sudo a2enmod php7.3
+res_apache
+rest_apache
+exit
+cat .bashrc
+clear
+ssh root@103.39.50.106
+ssh root@103.39.50.106:774
+ssh root@103.39.48.202
+exit
+start_app
+exit
+start_app
+exit
+ping 8.8.8.8 
+git add .
+git commit -m "Fix currency format for ordering column"
+git push origin master
+git add .
+git commit -m "Fix lain-lain in piutang pelanggan"
+git push origin master
+clear
+python
+exit
+cd Code
+ls
+cd grayweb
+ls
+clear
+git pull origin maste
+git pull origin master
+clear
+php artisan serve
+subl .env
+exit
+php artisan serve
+git add .
+git commit -m "Fix filtering by sales in penjualan at dashboard page"
+git push origin master
+git add .
+git commit -m "Fix piutang lama pelanggan"
+git push origin master
+git add .
+git commit -m "Fix page daftar & status biaya"
+git push origin master
+clear
+git add .
+git commit -m "tambahan catatan revisi terbaru"
+git push origin master
+CATATAN UNTUK PROGRAM AKUNTANSI
+25/11/2020
+PO
+-Tambahkan menu tanggal pengiriman pada modul tambah PO
+-Data cetak ditambah kolom tanggal pengiriman
+-Urutan Data PO  masih acak, bisa dibuat urut dari bulan awal ke ahir ?
+-Show ALL ENTRIES
+PI
+-Data Cetak ditambah kolom tanggal pengiriman
+-Bagaimana cara melihat atau mendeteksi status PI yg sudah lengkap SPKnya, kalo bisa ada menu kumpulan PI yg udah lengkap SPK nya dan yg belum lengkap SKPnya.
+-Cetak data setiap No. PI
+-Perbaikan menu “search” pada Data PI berdasarkan bulan (I,II,III,IV,V,VI,VII…..XII), Nama pemesan, Nama PIC
+-Show ALL ENTRIES
+-Grand Total daftar SPK terkait 
+SPK
+Input SPK
+-No. PI yg sudah terpenuhi SPKnya tidak perlu dimunculin lagi di pilihan input No. PI saat akan input SPK
+Daftar SPK
+-Detail transaksi SPK mohon ditambahalan jumlah total debit, kredit, dan saldo dibawahnya
+-Perbaikan menu “search” pada daftar SPK berdasarkan (No. SPK, No. PI,  nama subkont, Jenis SPK DLL)
+-Cetak data SPK All
+git push origin master
+exit
+git add .
+git commit -m "Add surat jalan and some fixes"
+git push origin master
+exit
+git add .
+git commit -m "Change basic datatable in PO as ajax, add Status PI in PI"
+git push origin master
+matikan
+python
+exit
+git add .
+git commit -m "Add cetak per PI"
+git push origin master
+git add .
+git commit -m "Update some changes"
+git push origin master
+exit
+git add .
+git commit -m "Fix input SPK and input transaksi spk"
+git push origin master
+clear
+sudo subl /etc/default/grub
+update-grub
+sudo update-grub
+clear
+exit
+git add .
+git commit -m "Add filtering by bulan and status in PI Data"
+git push origin master
+exit
+git add .
+git commit -m "Add cetak transaksi - All and with filtering"
+git push origin master
+clear
+git add .
+git commit -m "Add status pelunasan SPK, grand total in cetak spk"
+git push origin master
+clear
+exit
+shutdown
+matikan
+sudo su
+matikan
+sudo uname -a
+exit
+sudo apt-get install --install-recommends linux-generic-hwe-18.04
+clear
+sudo apt remove --purge
+apt autoremove --purge
+clear
+sudo apt-get install --install-recommends linux-generic-hwe-18.04
+clear
+uname
+uname -s
+uname -a
+uname -ar
+apt update
+sudo apt update
+sudo apt upgrade
+sudo apt dist-upgrade
+clear
+matikan
+uname -a
+uname -ar
+exit
+sudo apt-get install xserver-xorg-input-all
+reboot
+clear
+sudo su
+clear
+sudo nvidia-uninstall
+dpkg -l | grep nvidia
+apt-cache search nvidia | grep driver
+clear
+apt-cache search nvidia | grep driver
+sudo su
+clear
+sudo su
+ubuntu-drivers
+ubuntu-drivers list
+dpkg -l | grep nvidia
+clear
+sudo su
+matikan
+sudo su
+sudo subl /etc/default/grub
+update-grub
+sudo update-grub
+reboot
+uname -a
+sudo apt update && sudo apt install lapto-mode-tools
+sudo apt install laptop-mode-tools
+shutdown  -p now
+shutdown -P now
+sudo su
+sudo subl /etc/default/grub
+sudo update-grub
+matikan
+which composer
+exit
+git add .
+git commit -m "Fix piutang lama, hutang lama, cetak biaya layout, perhitungan, etc
+"
+git push origin master
+exit
+ls
+sudo dpkg -i Insomnia.Core-2020.4.2.deb
+exit
+sudo apt install insomnia
+exit
+php spark
+php spark routes
+cd ../todo-backend
+php spark serve
+php -S localhost:1200
+clear
+git add .
+git commit -m "Add cetak rekening giro per bank with date filter"
+git push origin master
+powercfg h off
+matikan
+cd Code/grayweb
+php artisan route:list
+php artisan make:model GaleriFoto -m
+php artisan make:controller Back\GaleriFotoController -cr
+php artisan make:controller Back\GaleriFotoController -R
+php artisan make:controller Back\GaleriFotoController -r
+php artisan make:controller Back/GaleriFotoController -r
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+clear
+php artisan route:list
+clear
+php artisan make:controller Api/GaleriFotoController
+php artisan 
+clear
+php artisan make:middleware VerifyRequest
+clear
+php artisan route:list
+clear
+git add .
+git commit -m "Add Galeri Foto"
+git push origin master
+git add .
+git commit -m "Updated readme"
+git push origin master
+cler
+exit
+clear
+ls
+ls -l
+ls -a
+screencopy
+php artisan migrate
+php artisan migrate:rollback --step=1
+exit
+php artisan migrate
+php artisan migrate:rollback --step=1
+composer update
+clear
+exit
+php artisan serve
+exit
+composer check-platform-reqs
+composer self-update --2
+composer self-update
+sudo composer self-update
+composer --v
+composer
+clear
+matikan
+reboot
+connect_ssh_gray
+c;ear
+clear
+connect_ssh_gray
+exit
+ping 8.8.8.8
+exit
+php artisan migrate
+git add .
+git commit -m "Add API Galeri Foto and applying Token REST API"
+git push origin master
+php artisan serve
+clear
+composer install
+clear
+php artisan key:generate
+clear
+php artisan serve
+cd Downloads
+ls
+cd Programs
+ls
+clear
+sudo su
+cd ../Compressed
+ls
+exit
+cd Downloads/Programs
+ls
+cd ..
+clear
+ls -l | grep mendeley
+sudo dpkg -i mendeleydesktop_1.19.4-stable_amd64.deb
+sudo su
+exit
+mendeley
+exut
+exit
+cd Downloads/Programs
+cd ..
+sudo dpkg -i mendeleydesktop_1.19.4-stable_amd64.deb
+cd .local/share
+ls
+cd data
+ls
+cd 'Mendeley Ltd.'
+ls
+cd 'Mendeley Desktop
+'
+cd 'Mendeley Desktop'
+ls
+cd ..
+ks
+clear
+sudo chown -R $(whoami) .
+ls
+ls -
+ls -l
+exit
+subl .bashrc
+exit
+clear
+connect_ssh_gray
+git add .
+git commit -m "Fix calculation in dashboard page and sorting by date in datatable"
+git push origin master
+clear
+sudo apt-get install alsa-base alsa-tools alsa-tools-gui alsa-utils
+git init
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/iptek-ucic/ci-rest-api.git
+git push origin master
+git push origin main
+clear
+it remote add origin https://github.com/iptek-ucic/ci-rest-api.git
+git remote add origin https://github.com/iptek-ucic/ci-rest-api.git
+git push origin master
+git branch -M main
+clekar
+clear
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push origin main
+php spark serve
+clear
+cd Desktop
+ls
+cat sites.xml
+php > echo
+ls
+clear
+connecth_ssh_gray
+connect_ssh_gray
+exit
+git add .
+git commit -m "Fix dashboard page"
+git push origin master
+git add .
+git commit -m "Fix komisi and cashback"
+git push origin master
+exit
+git add .
+git commit -m "Fix perhitungan and cetak"
+git push origin master
+clear
+ls
+sudo dpkg -i solaar-gnome3_0.9.2+dfsg-8_all.deb
+sudo dpkg -i solaar-gnome3_0.9.2+dfsg-8_all.deb --install
+sudo dpkg -i solaar-gnome3_0.9.2+dfsg-8_all.debs
+sudo dpkg -i solaar-gnome3_0.9.2+dfsg-8_all.deb
+clear
+c;ear
+clear
+apt install solaar
+apt --fix-broken install
+sudo apt --fix-broken install
+clear
+exit
+git add .
+git commit -m "Fix sorting by date and add backup uploaded files"
+git push origin master
+clear
+git add .
+git commit -m "Update SQL files"
+git push origin master
+matikan
+exit
+exit
+git clone https://github.com/technext/medic.git
+subl medic
+exit
+git add .
+git commit -m "Fix remove datatables-plugin moment.js"
+git push origin master
+exit
+git add .
+git commit -m "Updated"
+git push origin master
+exit
+cd Desktop
+git clone https://github.com/ahanafi/ahanafi.github.io.git
+exit
+clear
+php artisan route:list
+exit
+cd Code/grayweb
+php artisan route:list
+exit
+php artisan make:controller Back/JenisDonasiController -r
+php artisan make:migration add_description_to_jenis_donasi --table=jenis_donasi
+php artisan migrate
+exit
+php artisan migrate:rollback --step=1
+exit
+php artisan migrate
+exit
+git add .
+git commit -m "Add jenis donasi CRUD"
+git push origin master
+clear
+php artisan make:model RekeningEwallet -m
+php artisan migrate
+exit
+php artisan make:controller Back/RekeningEwalletController -r
+composer require pgrimaud/instagram-user-feed
+clear
+composer uninstall vinkla/instagram
+composer remove vinkla/instagram
+clear
+git add .
+git commit -m "Fix instagram request Api"
+git push origin master
+exit
+php artisan serve
+git add .
+git commit -m "Add feed instagram in front page"
+git push origin master
+exit
+cd Code/grayweb
+composer require pgrimaud/instagram-user-feed
+matikan
+sudo apt remove --purge komorebi
+cd /
+clear
+ls
+cd System
+ls
+cd Resource
+cd Resources
+ls
+cd ../..
+rm -rf System
+sudo rm -rf System
+ls
+clear
+exit
+sudo su
+ls
+nautilus .
+clear
+sudo mv /home/ahanafi/simpler /System/Resources/Komorebi
+exut
+exit
+sudo su
+exit
+sudo su
+reboot
+reboot -i
+matikan
+php artisan serve
+exit
+matikan
+sudo su
+exit
+php artisan serve
+sudo su
+exit
+git add .
+git commit -m "Add rekening ewallet"
+git push origin master
+sudo subl /etc/environments
+sudo subl /etc/environment
+git push origin master
+exit
+clear
+sudo su
+git config --global http.proxy 192.168.43.33:44355
+git config --global https.proxy 192.168.43.33:44355
+clear
+start_ssh_gray
+cd Desktop
+ls
+cat sites.xml
+clear
+connect_ssh_gray
+cd ~
+cat .bashrc
+git push origin master
+sudo subl /etc/environment
+exit
+exit
+sudo su
+exit
+sudo su
+php artisan make:migration change_donasi_table --table=donasi
+php artisan migrate
+clear
+git config --global --get http.proxy
+git config --global --set http.proxy 192.168.43.135:44355
+git config --global http.proxy 192.168.43.135:44355
+git config --global https.proxy 192.168.43.135:44355
+git config --global --get http.proxy
+git config --global --get https.proxy
+c;ear
+clear
+git add .
+git commit -m "Add confirm donations"
+git push origin master
+clear
+cd ~/Desktop
+clear
+cat sites.xml
+clear
+connect_ssh_gray
+exit
+cd ~/Desktop
+cat sites.xml
+exit
+sudo subl /etc/environment
+cd Code/grayweb
+php artisan serve
+clear
+connect_ssh_gray
+matikan
+git add .
+git commit -m "Fix total potong, sudah potong at hutang supplier"
+git push origin master
+git global
+git --global config
+git config --global 
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+clear
+git push origin master
+git config --global --unset http.proxy
+git config --global --unset https.proxy
+clear
+git config --global --get https.proxy
+git config --global --get http.proxy
+clear
+git push origin master
+exit
+git push origin masater
+git push origin master
+clear
+cd ~/
+ls -a
+subl .gitconfig
+sudo subl /etc/environment
+clear
+exit
+git push origin master
+git add .
+git commit -m "Fix total potong, sudah potong in hutang supplier"
+git push
+git config --global -l 
+clear
+whic proxy.conf
+which proxy.conf
+find proxy.conf
+grep -Hnri proxy /etc/apt/
+sudo subl /etc/apt/apt.conf.d/proxy.conf:
+sudo subl /etc/apt/apt.conf.d/proxy.conf
+clear
+git push
+grep -Hnri proxy /etc/apt/
+env | grep -i proxy
+subl /etc/environment
+ckear
+clear
+gsettings set org.gnome.system.proxy mode 'none'
+env | grep -i proxy
+cat /etc/apt/apt.conf.d
+cd /etc/apt/apt.conf.d
+ls
+cat proxy.conf
+clear
+env | grep -i proxy
+unset https_proxy
+env | grep -i proxy
+unset http_proxy
+env | grep -i proxy
+unset HTTP_PROXY FTP_PROXY NO_PROXY
+env | grep -i proxy
+unset HTTPS_PROXY no_proxy ftp_proxy
+clear
+env | grep -i proxy
+exit
+git push
+clear
+subl ~/.bashrc
+subl ~/.bash_profile
+cd /var/www/html/codepos-app
+git push
+cd .git
+ls
+subl config
+git -c http.sslVerify=false clone https://github.com/ahanafi/codepos-app.git
+ls -l
+cd ..
+ls
+clear
+ls -l
+exit
+git push
+git config --global --unset core.gitproxy
+git pus
+git config --global
+git config --global --list
+exit
+git push
+git add .
+git commit -m "Fix total potong and status in piutang and hutang supplier"
+git push origin master
+git add .
+git commit -m "Fix detail retur supplier"
+git push origin master
+git add .
+git commit -m "Add grand total hutang and piutang"
+git push origin master
+git add .
+git commit -m "Add transfer and lunas column at nota supplier, add grand total"
+git push origin master
+git add .
+git commit -m "Add grand total in retur penjualan"
+git push origin master
+clear
+xit
+exit

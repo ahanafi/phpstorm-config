@@ -1,0 +1,1000 @@
+flutter pub get
+flutter run
+exit
+ping 8.8.8.8
+screencopy
+exit
+set_proxy
+unset_proxy
+clear
+exit
+screencopy
+exit
+ls
+git init
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin https://github.com/ahanafi/flutter-ucic-profile.git
+git config --global http.proxy ""
+git config --global https.proxy ""
+git push -u origin main
+git add .
+git commit -m "Add preview and update README"
+git push origin main
+set_proxy
+clear
+exit
+unset_proxy
+clear
+exit
+sudo apt install imagemagick -quality 100
+sudo apt install imagemagick
+screencopy
+set_proxy
+screencopy
+youtube-dl
+clear
+cd Desktop
+youtube-dl -citk --max-quality FORMAT http://www.youtube.com/playlist?list=PLhthwmHOg66-tBrCWsldo6QoQSK2UOjIT
+clear
+sudo wget https://yt-dl.org/downloads/latest/youtube-dl -O /usr/local/bin/youtube-dl
+unset_proxy
+ssh root@103.39.50.106
+sudo su
+cd Downloads
+ls | grep .deb
+sudo dpkg -i master-pdf-editor-5.7.20-qt5.x86_64.deb
+exit
+set_proxy
+matikan
+unset_proxy
+clear
+exit
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Add status donasi and form verifikasi"
+git push origin main
+git add .
+git commit -m "Separate donasi and status donasi"
+git push origin main
+exit
+cd Desktop
+ls
+cd GRAY
+clear
+ls
+cd vps-gray.txt
+cat vps-gray.txt
+connect_ssh_gray
+composer require https://github.com/nim4n136/format-tanggal-indonesia.git
+composer require nim4n/date-format-indonesia
+exit
+git add .
+git commit -m "Add schedule accuration"
+git push origin main
+exit
+cd Desktop
+ls
+clear
+git clone https://github.com/kikiyuniar/upload-to-google-drive-php.git
+cd upload-to-google-drive-php
+ls
+mv upload.php index.php
+php -S localhost:2000
+cd ..
+cd upload-to-google-drive-php
+composer require masbug/flysystem-google-drive-ext
+php -S localhost:2000
+subl .
+php -S localhost:2000
+clear
+cd /var/www/html
+mkdir gdrive-api
+cd gdrive-api
+composer require google/apiclient:^2.0
+subl .
+php quickstart.php
+exit
+stop_apache
+open_xampp
+matina
+matikan
+cd Desktop
+git clone https://github.com/hasankadelp/Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API.git
+cd Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API
+ks
+ls
+clear
+ls
+subl .
+cd ..
+mv Uploading-Files-to-Google-Drive-Javascript-PHP-Google-Drive-API DriveSubmIt
+ls
+nautilus .
+cd /var/www/html
+subl DriveSubmIt
+exit
+cd Desktop/drive-app
+ls
+nautilus .
+exit
+php google-drive.php
+clear
+php quickstart.php
+clear
+php google-drive.php
+clear
+php google-drive.php
+clear
+composer require google/apiclient:^2.0
+clear
+php quickstart.php
+composer update
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+php quickstart.php
+clear
+composer require google/apiclient:^2.0
+composer update
+clear
+exit
+composer require google/apiclient:"^2.7"
+cd Desktop
+git clone https://github.com/fareed543/Uploading-files-to-Google-Drive-with-PHP.git
+subl Uploading-files-to-Google-Drive-with-PHP
+exit
+php -S localhost:8000
+exit
+php -S localhost:8000
+matikan
+cd /var/www/html
+ls
+clear
+ls
+git clone https://github.com/NSsala12/SSDassignment2.git
+cd SSDassignment2
+ls
+mv SSDassignment ../SSDassignment
+ls
+cd ..
+ls
+rm -rf SSDassignment2
+subl SSDassignment
+exit
+set
+clear
+set_proxy
+clear
+unset_proxy
+clear
+reboot
+clear
+sudo su
+exit
+composer require tavux/flysystem-ibm-cos
+composer require "cloudinary/cloudinary_php:^2"
+chmod -R 777 uploads
+exit
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+exit
+sudo su
+exit
+find mendeley
+cd Desktop
+l
+//home/ahanafi/.local/share/mendeleydesktop 
+./home/ahanafi/.local/share/mendeleydesktop 
+sudo ./home/ahanafi/.local/share/mendeleydesktop 
+sudo ./home/ahanafi/.local/share/mendeleydesktop
+cd /home/ahanafi/.local/share/mendeleydesktop 
+ls
+./mendeleydesktop
+exit
+clear
+sudo su
+exit
+reboot
+composer update
+clear
+exit
+git config --global
+clear
+git config --global http.proxy ""
+git config --global https.proxy ""
+clear
+git add .
+git commit -m "Fix updating schedule accuration chart and upload image to cloudinary"
+git push origin main
+clear
+exit
+ssh root@103.39.50.106
+cd /var/www/html
+clear
+git clone https://github.com/ahanafi/finance-poltekparprima.git
+exit
+git add .
+git commit -m "Fix upload to clouds and fix error in cetak BAP"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Change connection db"
+touch .gitignore
+git add .
+git commit -m "Change DB Connection and add gitignore"
+git push origin main
+clear
+pip --version
+pip install django
+pip install django==2.2.12
+pip list
+exit
+ls
+cd Python-Projects
+clear
+django-admin
+Django-admin
+clear
+sudo apt install python3-django
+clear
+django-admin start-project basic-django
+django-admin startproject perpus
+exit
+python manage.py runserver
+cd Code
+ls
+clear
+exit
+ping 8.8.8.8
+exit
+cd Code
+ls
+clear
+git clone https://github.com/ahanafi/simpeg-server.git
+mv simpeg-server simpeg
+cd simpeg
+composer install
+composer update
+clear
+php artisan serve
+ls | grep .
+clear
+ls -l
+ls -a
+clear
+exit
+php artisan serve
+sudo su
+exit
+cd Desktp[
+cd Desktop
+clear
+virtualenv -p python3 testenv
+sudo apt install python3-virtualenv
+clear
+sudo apt autoremove
+clear
+sudo apt install python3-virtualenv
+clear
+virtualenv -p python3 testenv
+cd testenv
+source bin/activate
+git clone https://github.com/django-id/website.git
+cd website
+pip list
+pip install django
+clear
+ls
+pip install -r requirements.txt
+clear
+python manage.py makemigrations && python manage.py migrate
+clear
+ls
+python manage.py makemigrations
+cd ..
+code .
+code website
+clear
+ks
+ls
+mv website django_id
+cd django_id
+python manage.py makemigrations
+clear
+python --version
+pip list
+clear
+python manage.py makemigrations
+code .
+exit
+cd Code
+ls
+git clone https://github.com/ahanafi/smart-attendance-system.git
+cd /var/www/html
+ls
+subl codeigniter-attendance-system
+exit
+ls
+cd Desktop
+ls
+cd rsgj
+ls
+cd ..
+mv rsgj ../Code
+cd ../Code
+ls
+code rsgj
+exit
+php artisan serve
+curl http://localhost:8080/
+subl .
+clear
+php spark list
+php spark list --help
+clear
+php spark routes
+curl http://localhost:8080/users/1
+curl http://localhost:8080/users
+exit
+cd /var/www/html
+ls
+clear
+git clone https://github.com/ahanafi/rest-api-ci4.git
+cd rest-api-ci4
+ls
+clear
+composer update
+clear
+php spark serve
+clear
+php spark serve
+exit
+ngrok
+exit
+ngrok http 9000
+https://52e9825ba794.ngrok.io/exit
+exit
+ngrok 
+ngrok http -subdomain=baz 8080
+ngrok http 7000
+ngrok http localhost/finance-poltekparprima
+ngrok http http://localhost/finance-poltekparprima
+ngrok http https://localhost/finance-poltekparprima
+ngrok http https://localhost/finance-poltekparprima/
+clear
+php -S localhost:9000
+exit
+ls
+cp simpeg-server ~/Code/simpeg
+cp -rf simpeg-server ~/Code/simpeg
+cp -r simpeg-server ~/Code/simpeg
+cd ~/Code/simpeg
+ls -a
+cd simpeg-server
+l
+ls -a
+nautilus .
+exit
+cd Code
+ls
+cd simpeg
+ls
+ls -a
+clear
+php artisan serve
+cd ..
+rm -rf simpeg
+exit
+php artisan migrate --refresh
+php artisan migrate --help
+php artisan migrate
+mysql -u root -p
+exit
+cd Code/simpeg
+php artisan serve
+exit
+git add .
+git commit -m "Fix error while sending mail"
+git push origin main
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add preview image"
+git push origin main
+git push origin master
+exit
+php artisan make:migration change_pengabdian_tables
+php artisan make:migration --help
+php artisan make:migration --table=pengabdian
+php artisan make:migration change_pengabdian_tables --table=pengabdian
+clear
+composer require doctrine/dbal
+clear
+php artisan migrate
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate -v
+php artisan migrate:rollback --step=1
+php artisan migrate:rollback --step=2
+clear
+php artisan migrate
+c;ear
+clear
+php artisan migrate
+clear
+php artisan migrate
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+composer update
+clear
+php artisan migrate
+clear
+php artisan migrate
+clear
+php artisan serve
+php artisan migrate
+clear
+php artisan make:model HasilPengabdian -m
+php artisan migrate
+exit
+git add .
+git commit -m "Add route pengabdian, controller pengabdian, hasil penelitian, etc"
+git push origin master
+clear
+php artisan make:controller Keuangan/PengabdianController
+clear
+git add .
+git commit -m "Add alur pengabdian: pegawai -> kaprodi -> lp3m"
+git push origin master
+clear
+exit
+clear
+ssh root@103.39.58.204
+ssh root@103.39.48.204
+matikan
+cd Desktop
+git clone https://github.com/ahanafi/simpeg-server.git
+ls
+rm -rf simpeg-server
+ls
+exit
+ssh root@103.39.48.204
+matikan
+php artisan storage:link
+clear
+exit
+git add .
+git commit -m "Add api testing from sikeu data"
+git push origin main
+ssh root@103.39.49.106
+ssh root@103.39.50.106
+exit
+sudo su
+php artisan route:list
+clear
+exit
+cd Code/rsgj
+php artisan route:list
+exit
+git add .
+git commit -m "Change tinyInteger to boolean in cuti and pegawai table"
+git push origin master
+clear
+ssh root@103.39.50.106
+exit
+sudo su
+exit
+exit
+php artisan serve
+exit
+php artisan serve
+sudo su
+exit
+chmod -R 777 .
+cd ../laravel-simeg
+cd ../laravel-simpeg
+clear
+chmod -R 777 storage
+coear
+clear
+php artisan storage:link
+clear
+composer require nao-pon/flysystem-google-drive:~1.1
+clear
+exit
+composer uninstall nao-pon/flysystem-google-drive:~1.1
+composer remove nao-pon/flysystem-google-drive:~1.1
+cd ../laravel-simpeg && composer remove nao-pon/flysystem-google-drive:~1.1
+clear
+exit
+cd ../laravel-simpeg
+composer require tavux/laravel-ibm-cos
+clear
+php artisan cache:clear
+rcit
+exit
+cd Desktop
+git clone https://github.com/son-of-raj/Google-Drive-in-laravel-Backend.git
+cd Google-Drive-in-laravel-Backend
+composer update
+clear
+cp .env.example .env
+ls
+ls -a
+ls
+code .
+cd ..
+rm -rf ~/Desktop/Google-Drive-in-laravel-Backend
+ls
+exit
+composer remove tavux/laravel-ibm-cos
+clear
+exit
+ls
+cd storage
+ls -a
+clear
+ks
+ls
+clear
+chmod -R 775 uploads
+exit
+c;ear
+clear
+sudo apt install termius
+ssh root@103.39.50.106
+exit
+cd ../laravel-simpeg
+clear
+php artisan storage:link
+cd Code/simpeg
+clear
+git pull origin master
+exit
+cd /var/www/html/laravel-simpeg
+cat .env
+clear
+exit
+php artisan storage:link
+clear
+cd public
+rm storage
+cd ..
+php artisan storage:link
+exit
+sudo su
+exit
+git add .
+git commit -m "Update path email logo"
+git push origin master
+clear
+exit
+sudo dpkg -list
+apt --list
+apt dpkg list
+apt list
+apt list | grep team
+clear
+sudo apt remove --purge teamviewer
+apt list | grep team
+exit
+sudo 
+sudo apt autoremove
+cd Downloads/Programs
+clear
+ls
+sudo dpkg -i Termius.deb
+clear
+exit
+systemctl mysql restart
+systemctl restart mysql
+mysql -u root -p
+matikan
+mysql -u root -p
+exit
+./deploy.sh "Add sinkronisasi data sikeu, refactor config, etc
+"
+sudo ./deploy.sh "Add sinkronisasi data sikeu, refactor config, etc
+"
+./deploy.sh "Add sinkronisasi data sikeu, refactor config, etc
+"
+chmod -R 777 deploy.sh
+./deploy.sh "Add sinkronisasi data sikeu, refactor config, etc
+"
+git push origin main
+clear
+./deploy.sh "Add info, status and uraian"
+git push origin main
+clear
+git add .
+git commit -m "Fix CRUD Bank"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Fix CRUD Kategori, change edit button icon, change delete btn colors"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Fix CRUD hutang + piutang"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Dropdown active - deactive sidebar menu"
+git push origin main
+exit
+chmod -R 775 gambar
+chmod -R 777 gambar
+git add .
+git commit -m "Fix create new user and update user"
+git push origin maih
+git push origin main
+clear
+exit
+git add .
+git commit -m "Fix update user password"
+git push origin main
+clear
+git add .
+git commit -m 'Fix transaction proccess"
+'
+git push origin main
+clear
+exit
+git add .
+git commit -m "Change primary color to Poltekparprima main color icon"
+git push origin main
+git add .
+git commit -m "Add CRUD Departemen"
+git push origin main
+clear
+exit
+git add .
+git commit -m "Remove comment in sidebar"
+git push origin main
+exit
+sudo su
+exit
+clear
+sudo su
+cd Desktop
+php artisan make:model TentangKami -m
+php artisan make:migration add_koordinat_to_kantor_cabang --table=kantor_cabang
+php artisan migrate
+exit
+cd Code
+git clone https://github.com/ahanafi/laradmin.git
+cd laradmin
+composer update
+exit
+cd Desktop
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+reboot
+git status
+ls -a
+git pull 
+cd admin
+ls 
+ls -l
+ls
+ls -a
+clear
+git add .
+ls -a
+cd .git
+cd ..
+clear
+git add .
+git commit -m "Update 23 Maret 2021"
+git push origin main
+git push origin master
+clear
+exit
+sudo service mysql start
+mysql -u root -p
+exit
+php -v
+clear
+mysql -u root -p
+clear
+sudo su
+cd Desktop
+clear
+git clonehttps://github.com/ahanafi/sistem-penilaian-guru.git
+git clone https://github.com/ahanafi/sistem-penilaian-guru.git
+cd sistem-penilaian-guru
+ls
+cd admin
+ls
+cler
+clear
+exit
+cd Desktop
+ls
+cd sistem-penilaian-guru
+ls
+rm -rf .
+ls
+rm -rf *
+ls
+ls -l
+clear
+git add .
+git commit -m "Reset all files"
+git push origin main
+git push origin master
+clear
+cd /var/www/html/skp-system
+ls
+ls -l
+touch .gitignore
+ls
+nautilus .
+clear
+ls
+git init .
+git add .
+git commit -m "Reset all files"
+git remote add origin https://github.com/ahanafi/sistem-penilaian-guru.git
+git push origin master
+ls
+ls -l
+clear
+cd ..
+cp skp-system skp-system-backup
+cp skp-system skp-system-backup -r
+ls
+cd skp-system
+git pull
+ls
+clear
+git add .
+git commit -m "Refresh all files"
+git push origin master
+git push origin master --force
+mysql -u root -p
+exit
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+exit
+clear
+php artisan make:migration add_instansi_besaran_donasi_tanggal_donasi_columns --table=donatur
+clear
+php artisan migrate
+clear
+add .
+clear
+git add .
+git commit -m "Change navigation menu, program page content, and etc"
+git push origin master
+clear
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+clear
+git add .
+git commit -m "Fix registrasi donatur"
+git push origin master
+clear
+ssh root@156.67.220.8
+cd Desktop
+clear
+cd GRAY
+LS
+cls
+clear
+ls
+cat vps-gray
+cat vps-gray.txt
+ssh root@156.67.220.8
+php artisan serve
+clear
+exit
+exit
+clear
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+clear
+matikan
+cd Desktop
+cd ls
+ls
+cd laradmin
+mysql -u root -p
+exit
+cd Desktop
+git clone https://github.com/ahanafi/laradmin.git
+clear
+cd laradmin
+composer update
+clear
+ls -l
+ls -a
+cp .env.example .env
+vi .env
+clear
+php artisan serve
+clear
+php artisan key:generate
+php artisan serve
+php artisan migrate
+php artisan serve
+matikan
+sudo nautilus /usr/share/themes
+clera
+clear
+exit
+php artisan serve
+cd Dekstop
+ls
+clear
+cd Desktop
+ls
+CD LARADMIN
+cd laradmin
+php artisan serve --port=9300
+cd Code
+ls
+cd ../Desktop
+ls
+cd AdminLTE-2.4.18
+ls
+php -S localhost:8900
+clear
+cd ..
+ls
+clear
+laravel new
+clear
+composer create-project --prefer-dist laravel/laravel laravel-adminlte
+cd laravel-adminlte
+clear
+composer require jeroennoten/laravel-adminlte
+php artisan adminlte:install
+clear
+php artisan serve --port=5000
+subl .env
+clear
+php artisan migrate
+clear
+composer require laravel/ui
+php artisan ui vue --auth
+npm install && npm run dev
+npm --version
+node -v
+sudo apt update
+clear
+apt list --upgradable
+clear
+sudo apt upgrade node
+clear
+nvm install --lts
+clear
+sudo apt upgrade nodejs
+clear
+npm --v
+node -v
+clear
+npm run dev
+clear
+php artisan adminlte:install --only=auth_views
+clear
+php artisan serve
+clear
+cd ..
+clear
+kls
+cls
+clear
+ls 
+rm -rf laradmin laravel-adminlte
+clear
+ls
+rm -rf skkni-ggan
+rm -rf skkni-gagan
+clear
+ls 
+rm -rf startbootstrap-sb-admin-2-gh-pages
+clear'
+'
+clear
+exit
+php artisan route:list
+clear
+git add .
+git commit -m "Apply AdminLTE templates"
+git push origin master
+git add .
+git commit -m "Fix article menu templates"
+git push origin master
+clear
+git add .
+git commit -m "Fix kategori and tags view"
+git push origin master
+exit
+clear
+exit
+exit
+cd /var/www/html
+cd codeigniter-smart-attendance
+ls
+codeigniter-attendance-system
+cd codeigniter-attendance-system
+clear
+ls
+php -S localhost:3000
+clear
+cd ~/Desktop/
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+sshd root@156.67.220.8
+ssh root@156.67.220.8
+exit
+cd COde
+cd Code
+ls
+cd smart-attendances-system
+cd smart-attendance-system
+clear
+adonis serve
+clear
+adonis serve --dev
+clear
+adonis --help
+adonis install
+clear
+adonis serve
+exit
+git add .
+git commit -m "Fix kantor cabang templates with lat long"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Fix form update sosial media links"
+git push origin master
+clear
+exit
+php artisan serve
+clear
+git add .
+git commit -m "Fix update template
+ slider"
+git push origin master
+clear
+exit
+php artisan serve

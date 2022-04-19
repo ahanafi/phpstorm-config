@@ -1,0 +1,539 @@
+<application>
+  <component name="FeatureUsageStatistics" first-run="1606102419269" have-been-shown="false" show-in-other="true" show-in-compilation="true">
+    <feature id="editing.completion.smarttype.afternew" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.camelHumps" count="505" last-shown="0" last-used="1650152757755" shown-count="0" />
+    <feature id="codeassists.surroundwith.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.rename" count="240" last-shown="0" last-used="1650076527435" shown-count="0" />
+    <feature id="navigation.popup.action" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.cancelByControlArrows" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishBySmartEnter" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.symbol" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.replace" count="232" last-shown="1650189661100" last-used="1643418049342" shown-count="26394" />
+    <feature id="switcher" count="2535" last-shown="0" last-used="1650123986183" shown-count="0" />
+    <feature id="codeassists.complete.statement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.goto.inspection" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceConstant" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.variable.name" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.overrideimplement" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.wildcards" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="refactoring.introduceVariable" count="2" last-shown="0" last-used="1625239441853" shown-count="0" />
+    <feature id="codeassists.javadoc.external" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.surroundwith.expression" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.recent.files" count="1" last-shown="0" last-used="1639265652374" shown-count="0" />
+    <feature id="navigation.goto.declaration" count="751" last-shown="0" last-used="1650177916345" shown-count="0" />
+    <feature id="scratch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByDotEtc" count="7" last-shown="0" last-used="1636165177100" shown-count="0" />
+    <feature id="navigation.goto.implementation" count="51" last-shown="0" last-used="1650188351999" shown-count="0" />
+    <feature id="refactoring.inlineVariable" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.finishByCtrlDot" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.select.in" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.tree.speedsearch" count="79" last-shown="0" last-used="1650007216238" shown-count="0" />
+    <feature id="ui.horizontal.scrolling" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.comment.line" count="546" last-shown="0" last-used="1650151508649" shown-count="0" />
+    <feature id="codeassists.highlight.return" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.camelprefix" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="SearchEverywhere" count="5356" last-shown="0" last-used="1650187737031" shown-count="0" />
+    <feature id="navigation.popup.class" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editor.delete.line" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.highlight.throws" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition" count="1" last-shown="0" last-used="1627691091546" shown-count="0" />
+    <feature id="find.completion" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.basic" count="30981" last-shown="0" last-used="1650189585687" shown-count="0" />
+    <feature id="tag.name.completion" count="1" last-shown="0" last-used="1606540791845" shown-count="0" />
+    <feature id="editing.completion.postfix" count="5" last-shown="0" last-used="1628559381649" shown-count="0" />
+    <feature id="diagram.show.popup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="dir.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show.diff" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.select.word" count="17367" last-shown="0" last-used="1650189621290" shown-count="0" />
+    <feature id="editing.add.carets.using.double.ctrl" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="db.console" count="182" last-shown="0" last-used="1650120778620" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.scheme.quickswitch" count="38" last-shown="0" last-used="1626436674648" shown-count="0" />
+    <feature id="codeassists.highlight.implements" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.smarttype.general" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassist.inspect.batch" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="navigation.popup.file.structure" count="2" last-shown="0" last-used="1643703089940" shown-count="0" />
+    <feature id="codeassists.quickjavadoc.ctrln" count="1" last-shown="0" last-used="1622520256818" shown-count="0" />
+    <feature id="navigation.goto.usages" count="2" last-shown="0" last-used="1618528562038" shown-count="0" />
+    <feature id="codeassists.comment.block" count="203" last-shown="0" last-used="1649952569118" shown-count="0" />
+    <feature id="codeassists.quickjavadoc" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="ui.recentchanges" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="diagram.show" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="editing.completion.second.basic" count="14" last-shown="0" last-used="1608311024019" shown-count="0" />
+    <feature id="editing.completion.changeSorting" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <feature id="codeassists.quickdefinition.lookup" count="0" last-shown="0" last-used="0" shown-count="0" />
+    <completionStatsTag>
+      <option name="sparedCharacters" value="168570" />
+      <option name="invocations" value="27599" />
+      <option name="startDate" value="1606150800000" />
+      <option name="dayCount" value="309" />
+      <option name="lastDate" value="1650128400000" />
+    </completionStatsTag>
+    <fixesStatsTag>
+      <option name="invocations" value="1239" />
+      <option name="startDate" value="1606150800000" />
+      <option name="dayCount" value="200" />
+      <option name="lastDate" value="1650128400000" />
+    </fixesStatsTag>
+  </component>
+  <component name="PhpLanguageFeatureUsagesStatistics">
+    <project hash="5967bb3f">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+    </project>
+    <project hash="32a13045">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="2bf5d365">
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="45b3214e">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="EXPONENTIATION" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="390b22c3" />
+    <project hash="3a49d826">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="5a235250">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="e05495f9">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="RETURN_TYPES" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="1335059c">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="711201fc">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="COALESCE_OPERATOR" />
+    </project>
+    <project hash="d79ce637">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="EXPONENTIATION" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="1e5bc64">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+    </project>
+    <project hash="bcce306f">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="USE_FUNCTION_AND_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="NULLABLES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="f2e171ec">
+      <feature name="ARRAY_DEREFERENCING" />
+    </project>
+    <project hash="da04c230">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="USE_FUNCTION_AND_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="RETURN_VOID" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="15dc02c6">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="RETURN_TYPES" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="9918752e">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="e87efeac">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="6f7d3f5d">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="9f0480e">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="93aeb895">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="NULLABLES" />
+    </project>
+    <project hash="ad250122">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="37707f1d">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="6690bb83">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="ANONYMOUS_CLASSES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="ARROW_FUNCTION_SYNTAX" />
+    </project>
+    <project hash="a936989f">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="6dd8e364">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="ARROW_FUNCTION_SYNTAX" />
+    </project>
+    <project hash="1416c3cf">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="92428d7c">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="EXPONENTIATION" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="NULLABLES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+      <feature name="NUMERIC_LITERALS_SEPARATORS" />
+      <feature name="UNION_TYPES" />
+    </project>
+    <project hash="4c375000">
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="1aa57ad8">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="NULLABLES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="504b6884">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="711055e6">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="fc77176f">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="b2a2f4ce">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+    </project>
+    <project hash="3237dd1">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="ARGUMENT_UNPACKING" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="59577748">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="d258cc18">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="7ba2720">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="e610e25">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="6d5614fe">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="USE_FUNCTION_AND_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="NULLABLES" />
+      <feature name="OBJECT_TYPE_HINT" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="69bed745">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="VARIADIC_FUNCTIONS" />
+    </project>
+    <project hash="36194ee0">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="a3dc7e01">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="3164e76d">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="GROUPED_USE" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="NULLABLES" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="798fb160">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="EXPONENTIATION" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="b17254f9" />
+    <project hash="29dcd43a">
+      <feature name="VAR_BREAK_ARGUMENT" />
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="CLASS_MEMBER_ACCESS_ON_INSTANTIATION" />
+      <feature name="THIS_IN_CLOSURE" />
+      <feature name="SELF_IN_CLOSURE" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="EXPONENTIATION" />
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="SPACESHIP_OPERATOR" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="CLASS_CONSTANT_VISIBILITY" />
+      <feature name="LIST_ASSIGN" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+      <feature name="ARROW_FUNCTION_SYNTAX" />
+      <feature name="UNION_TYPES" />
+    </project>
+    <project hash="5c322af8">
+      <feature name="RETURN_TYPES" />
+      <feature name="SCALAR_TYPE_HINTS" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="RETURN_VOID" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="19299ff0">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="448831e8">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="f6ddd4f6">
+      <feature name="ARRAY_DEREFERENCING" />
+    </project>
+    <project hash="f8f288a6">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+    </project>
+    <project hash="828a7807">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="5d40737e">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="IMMEDIATE_DEREFERENCING" />
+      <feature name="EXPONENTIATION" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="dcf4614c">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="EXPONENTIATION" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="KEYWORD_NAMES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="1bedd9d">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="ARRAY_DEREFERENCING" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="COALESCE_OPERATOR" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="6acce046">
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="RETURN_TYPES" />
+      <feature name="NULLABLES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+      <feature name="TYPED_PROPERTIES" />
+    </project>
+    <project hash="2628d766">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="EMPTY_ANY_EXPRESSION" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+    <project hash="b582159b">
+      <feature name="TRAITS" />
+      <feature name="SHORT_ARRAY_SYNTAX" />
+      <feature name="CLASS_NAME_CONST" />
+      <feature name="VARIADIC_FUNCTIONS" />
+      <feature name="RETURN_TYPES" />
+      <feature name="UNIFORM_VARIABLE_SYNTAX" />
+      <feature name="ANONYMOUS_CLASSES" />
+      <feature name="NULLABLES" />
+      <feature name="TRAILING_COMMA_IN_FUNCTION_CALL" />
+    </project>
+  </component>
+</application>

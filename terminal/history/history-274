@@ -1,0 +1,1000 @@
+npm run e2e
+npx eslit ./src
+npm eslit ./src
+npm eslint ./src
+npx eslint ./src
+matikan
+cd Code/my-resto-app
+nrun start-dev
+pa make:migration create_tags_berita_table
+pa make:model TagBerita -m
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add tag berita + fix error detail berita from list berita in admin"
+git push
+pa serve
+clear
+git add .
+git commit -m "Update disqus plugisn"
+git push
+cd php -S localhost:2000 artikel.php
+cd php -S localhost:2000
+php -S localhost:2000 artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php berita.php
+clear
+php berita.php
+clear
+php artikel.php
+clear
+php berita.php
+php artikel.php
+cd Downloads
+ls
+cd Programs
+ls
+clear
+sudo dpkg -i pgloader_3.6.2-1.pgdg20.04+1_amd64.deb
+sudo apt --fix-install
+sudo apt get --fix-install
+sudo apt update --fix
+sudo apt install --fix
+sudo apt install 
+sudo apt --fix-broken install
+exit
+pgloader --help
+pgloader mysql://root:password@localhost/codepos_app postgres://qgnuqtggjnwuyz:847c46fc7b7379d2dd42100e96f0a2bcf53ea144f7c9a62dab09f9f015858eca@ec2-54-228-99-58.eu-west-1.compute.amazonaws.com:5432/dbdgdhp6vrfejk
+pgloader mysql://root:password@localhost/codepos_app jdbc:postgres://qgnuqtggjnwuyz:847c46fc7b7379d2dd42100e96f0a2bcf53ea144f7c9a62dab09f9f015858eca@ec2-54-228-99-58.eu-west-1.compute.amazonaws.com:5432/dbdgdhp6vrfejk
+clear
+cd Desktop
+clear
+git clone git@github.com:lanyrd/mysql-postgresql-converter.git
+cd mysql-postgresql-converter
+mysqldump --compatible=postgresql --default-character-set=utf8 -r codepos_app.mysql -u root password
+mysqldump
+clear
+/usr/bin/mysqldump --result-file=/home/ahanafi/Desktop/mysql-postgresql-converter/codepos_app.sql --column-statistics=0 codepos_app --user=root --host=127.0.0.1 --port=3306 --compatible=postgresql
+ls
+python db_converter.py codepos.mysql codepos.pgsql
+python3 db_converter.py codepos.mysql codepos.pgsql
+python2 db_converter.py codepos.mysql codepos.pgsql
+python -v
+clear
+pgsql
+psql
+sudo dpkg --add-architecture i386 
+sudo apt install --install-recommends winehq-stable
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+sudo apt install --install-recommends winehq-stable
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+sudo apt install --install-recommends winehq-stable
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+sudo apt install --install-recommends winehq-stable
+sudo remove-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+exit
+php -S localhost:9000 public
+php artisan serve
+php artisan serve --port=9000
+cd ~/Code
+ls
+clear
+cd smart-attendance-system
+adonis serve --dev
+exit
+pa serve
+clear
+exit
+cd Desktop
+php test.php
+ext
+exit
+clear
+pa migrate --seed
+cd cODE
+cd Code
+mkdir test-autodeploy
+cd test-autodeploy
+subl .
+git init
+git remote add origin ssh://skrips25@skripsi-ucic.com:64000/home/skrips25/test-autodeploy
+git add .
+git commit -m "Initial commit"
+git push origin master
+matikan
+clear
+git add .
+git commit -m "Test autodeployment to shared hosting"
+git push
+rm -rf dist
+node sharp.js
+npm run build
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix bundle optimization in production mode, min height 44px at nav item, etc"
+git push
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Change text color in hero description, change test-case typo"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Fix fetching data source with checking internet connection"
+git push
+clear
+rm -rf dist
+npx eslint ./src
+nrun e2e
+clear
+git add .
+git commit -m "Change db engine to InnoDB"
+git push
+clear
+git add .
+git commit -m 
+git commit -m "Add C45 Service for Calculating c4.5 algorithm"
+git push
+CLEAR
+clear
+pa serve
+exit
+git pull
+exit
+clear
+git add .
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+git push
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+pa serve
+clear
+git add .
+git commit -m "Fix icon dashboard"
+git push
+sudo su
+matikan
+clear
+git add .
+git commit -m "Fix C4.5 Algoritm Calculation"
+git push
+exit
+heroku login
+heroku apps
+heroku logs
+heroku logs --tail --app=ucic-smart-attendance
+heroku run npm install --app=ucic-attendance-system
+heroku run npm install --app=ucic-smart-attendance
+heroku logs --tail --app=ucic-smart-attendance
+heroku bash
+heroku run bash
+heroku run bash --app=ucic-smart-attendance
+exit
+clear
+npm install url-parse
+clear
+git add .
+git commit -m "Check config"
+git push
+clear
+git add .
+git commit -m "Remove url-parse"
+git push
+heroku logs --tail --app=ucic-smart-attendance
+exit
+heroku logs --tail --app=ucic-smart-attendance
+clear
+heroku config --app=ucic-smart-attendance
+heroku config:set NODE_ENV=development --app=ucic-smart-attendance
+heroku config --app=ucic-smart-attendance
+heroku run bash
+heroku run bash --app=ucic-smart-attendance
+exit
+git add .
+git commit -m "Add optimization in C4.5 algorithm calculation"
+git push
+clear
+hugo server
+cd Code
+ls
+clear
+npm init gatsby
+clear
+ls
+mkdir my-blog
+cd my-blog
+clear
+npm init gatsby
+cd my-blog
+npm run develop
+ls
+clear
+cd ..
+rm -rf my-blog
+npm init gatsby
+cd my-blog
+npm run develop
+cd ..
+rm -rf my-blog
+npm init gatsby
+cd my-blog
+npm run develop
+clear
+hugo
+sudo apt install hugo
+hugo version
+cd ../
+rm -rf my-blog
+clear
+hugo new site my-blog
+cd my-blog
+ls
+cd themes
+git submodule add https://github.com/halogenica/beautifulhugo.git beautifulhugo
+git clone -b release https://github.com/halogenica/beautifulhugo
+git submodule add https://github.com/halogenica/beautifulhugo.git beautifulhugo
+git clone git@github.com:halogenica/beautifulhugo.git
+cd ..
+code .
+exit
+cd Deskop
+cd Desktop
+clear
+git clone git@github.com:WahyuSetiawan/website-datamining-c45.git
+cd website-datamining-c45
+clear
+exit
+pa serve
+exit
+npm i
+nrun build
+clear
+nrun build
+nrun start-dev
+clear
+npm rebuild jpegtran-bin
+nrun build
+rm -rf node_modules
+clear
+npm i
+c;ear
+clear
+npm install
+ping 8.8.8.8
+exit
+nrun e2e
+exut
+exit
+cd ..
+nrun start-dev
+exit
+clear
+npm install
+rm -rf package-lock.json
+npm install
+ls
+clear
+ls
+ls -l
+npm install
+rm -rf node_modules
+npm install
+clear
+rm -rf node_modules
+npm install --verbose
+clear
+rm -rf node_modules
+npm install --verbose
+exit
+node -v
+npm -v
+exit
+npm install
+rm -rf node_modules
+npm install
+exit
+npm run build
+clear
+npm install
+clear
+nrun build
+clear
+nrun start-dev
+clear
+nrun start-dev
+npm install file-loader --save-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun e2e
+exit
+clear
+git add .
+git commit -m "Add validation before apply thesis submission"
+git push
+exit
+c;ear
+clear
+pa route:pretty
+clear
+pa make:request GuidanceRequest
+claer
+clear
+exit
+php artisan vendor:publish --tag=datatables
+php artisan vendor:publish --tag=datatables-buttons
+clear
+pa help
+clear
+pa datatables:make Guidances
+composer uninstall yajra/laravel-datatables
+composer remove yajra/laravel-datatables
+clear
+pa make:migration add_thesis_id_to_guidance_table --table=guidance
+pa migrate
+pa migrate:rollback --step=1
+clear
+pa migrate
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add insert guidance + update footer"
+git push
+clear
+git add .
+git commit -m "Delete vendor from yajra/datatables"
+git push
+clear
+pa make:component LecturerWidgetTiles
+c;ear
+clear
+exit
+pa make:model SupervisorResponse -m
+pa make:migration drop_guide_response_in_guidance_table --table=guidance
+clear
+pa migrate
+clear
+git add .
+git commit -m "Split guidance table to be guidance and response supervisor"
+git push
+clear
+pa route:pretty
+clear
+git add .
+git commit -m "Fix detail guidance and added update guidance data"
+git push
+clear
+exit
+clear
+pa route:pretty
+clear
+pa make:controller FileController 
+exit
+clear
+pa serve
+clear
+git add .
+git commit -m "Added upload thesis report, program application, and journal"
+git push
+CLERA
+clear
+git add .
+git commit -m "Fix home controller in lecturer dashboard page"
+git push
+clear
+pa make:controller Lecturer/GuidanceController
+pa make:request SubmitSupervisorResponseRequest
+clear
+pa make:controller Lecturer/GuidanceResponseController --resource
+clear
+git add .
+git commit -m "Add supevisor's response"
+git push
+clear
+pa make:controller Leader/ThesisController --model=Thesis
+pa make --help
+clear
+git add .
+git commit -m "Add show thesis and detail of thesis in study program leader"
+git push
+clear
+git add .
+git commit -m "Fix active menu -- data set"
+git push
+clear
+pa make:controller Student/Exam/SeminarController
+pa make:controller Student/Exam/ThesisTrialController
+pa make:controller Student/Exam/ColloquiumController
+pa make:controller Student/Exam/FinalTestController
+clear
+pa make:controller Student/ExportController
+clear
+composer require barryvdh/laravel-dompdf
+clear
+pa view:clear
+clear
+git add .
+git commit -m "Add export guidance card"
+git push
+clear
+pa make:migration add_document_and_guidance_card_to_sub_assessment --table=submission_of_assessments
+clear
+pa migrate
+clear
+exit
+cd Desktop
+git clone git@github.com:LaravelDaily/Laravel-Challenge-Route-Model-Binding.git
+cd Laravel-Challenge-Route-Model-Binding
+cp .env.example .env
+mysql -u root -p
+clear
+pa key:generate
+composer install
+clear
+pa key:generate
+vi .env
+pa migrate --seed
+pa serve
+exit
+cd Desktop
+ls
+rm -rf Laravel-Challenge-Route-Model-Binding
+exit
+pa migrate:rollback --step=1
+clear
+pa migrate
+pa migrate:rollback --step=1
+clear
+pa migrate
+clear
+git add .
+git commit -m "Added apply to submission of assessment -- type: SEMINAR"
+git push
+clear
+git add .
+git commit -m "Added status submission of seminar assessment"
+git push
+clear
+git add .
+git commit -m "Added detail submission of seminar assessment"
+git push
+clear
+git add .
+git commit -m "Added download report or guidance card from submission of seminar assessment"
+git push
+clear
+pa make:controller Lecturer/Submission/SeminarController
+pa make:controller Lecturer/Submission/ColloquiumController
+pa make:controller Lecturer/Submission/FinalTestController
+clear/
+clear
+pa route:pretty
+clear
+pa migrate:rollback --step=1
+pa migrate
+clear
+git add .
+git commit -m "Added update supervisor response of submission seminar assessment"
+git push
+clear
+git add .
+git commit -m "Fix submit thesis requirements"
+git push
+clear
+git add .
+git commit -m "Fix duplicate document of submission thesis requirements"
+git push
+clear
+exit
+screencopy
+exit
+git add .
+git commit -m "Added list guided students and student to be tests in homepage of lecturer"
+git push
+clear
+pa migrate
+clear
+git add .
+git commit -m "Fix updating lecturer competency"
+git push
+CLEAR
+clear
+exit
+composer update
+clear
+composer update
+clear
+composer install
+clear
+git add .
+git commit -m "Update library/package version, add preview image, add sql files, and updated readme"
+git push
+git push --set-upstream origin master
+clear
+git add .
+git commit -m "Update readme"
+git push
+ckear
+clear
+exit
+clear
+cd Desktop
+git clone git@github.com:freshbitsweb/laratables-demo-basic.git
+cd laratables-demo-basic
+mv .env.example .env
+mysql -u root -p
+clear
+vi .env
+clear
+pa key:generate
+clear
+composer update
+pa key:generate
+clear
+pa migrate --seed
+pa serve --port=1200
+exit
+cd Code/thesis-management-system
+pa route:list
+clear
+exit
+clear
+git add .
+git commit -m "Change redirect route after login"
+git push
+clear
+git pull
+clear
+cclear
+clear
+composer require yajra/laravel-datatables-oracle:"~9.0"
+clear
+pa make:controller Api/UserController
+clear
+pa routes:pretty
+pa route:pretty
+clear
+pa route:list
+clear
+pa route:list
+pa route:pretty
+clear
+git add .
+git commit -m "Show users data with ajax request datatables"
+git push
+clear
+git add .
+git commit -m "Added account list page"
+git puhs
+git push
+clear
+pa route:pretty
+clear
+git add .
+git commit -m "Fix error while updating data master"
+git push
+c;ear
+clear
+git add .
+git commit -m "Remove hero, Added content heading title"
+git push
+exit
+cd Code/thesis-management-system/
+clear
+pa route:pretty
+exit
+clear
+chmod -R 777 gambar uploads
+exit
+clear
+git add .
+git commit -m "Add user authorization"
+git push
+clear
+git add .
+git commit -m "Add shedules page"
+git push
+exit
+pa serve
+cd Code/thesis-management-system/
+c;ear
+clear
+pa route:pretty
+exit
+pa make:controller Api/StudentController
+pa view:clear
+clear
+pa make:migration remove_day_and_add_is_done_to_schedule --table=assessment_schedules
+clear
+pa migrate
+clear
+pa make:request SubmitAssessmentScheduleRequest
+cler
+clear
+git add .
+git commit -m "Added insert schedule of thesis assessment"
+git push
+clear
+pa route:pretty
+cclear
+clear
+exit
+clear
+git add .
+git commit -m "Add detail schedule data, change delete btn icon, etc"
+git push
+clear
+git add .
+git commit -m "Fix error relation in lecturer dashboard"
+git push
+clear
+pa make:controller Exam/SeminarController
+pa make:controller Exam/FinalTestController
+cd Code/thesis-management-system/
+pa route:pretty
+celar
+clear
+clear
+git add .
+git commit -m "Add list of student to be (seminar) test at lecturer page"
+git push
+clear
+git add .
+git commit -m "Add input seminar score"
+git push
+CLEAR
+clear
+pa make:controller Student/Score/SeminarController
+pa make:controller Student/Score/ColloquiumController
+pa make:controller Student/Score/FinalTestController
+clear
+exit
+pa make:component StudentThesisInfo
+clear
+pa route:pretty
+clear
+git add .
+git commit -m "Add show seminar score in student page"
+git push
+clear
+git add .
+git commit -m "Add validation in submission of seminar assessment"
+git push
+clear
+pa view:clear
+clear
+git add .
+git commit -m "Add submission of colloquium assessment"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix create schedule of assessment"
+git push
+clear
+pa view:clear
+clear
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix error show assessment final test schedule"
+git push
+clear
+pa route:pretty
+clear
+pa route:pretty
+clear
+exit
+sudo su
+composer require garygreen/pretty-routes --dev
+clear
+http://127.0.0.1:8000/lecturer/submission/colloquium
+php artisan vendor:publish --provider="PrettyRoutes\ServiceProvider"
+clear
+git add .
+git commit -m "Fix conflict routing for input score"
+git push
+git commit -m "Fix conflict routing when submit assessment score"
+git add .
+git commit -m "Fix conflict routing when submit assessment score"
+git push
+clear
+git add .
+git commit -m "Updated readme"
+git push
+clear
+git add .
+git commit -m "Chane favicon"
+git push
+cd Desktop
+mkdir fetch-pddikti
+cd fetch-pddikti
+pip install pddiktipy
+ls
+clear
+subl test.py
+py test.py
+python test.py
+cd ..
+rm -rf fetch-pddikti
+clear
+git add .
+git commit -m "Fix error while updating student and lecturer data"
+git push
+clear
+pa make:controller Auth/AccountController
+git add .
+git commit -m "Set auto apply submission of thesis requirements"
+git push
+git pull
+clear
+git push
+git add .
+git commit -m "Fix error when thesis is null in student page"
+git push
+clear
+git add .
+git commit -m "Add alert info when submission thesis req. was approved"
+git push
+clear
+git add .
+git commit -m "Fix error route for deleting data"
+git push
+clear
+pa route:pretty
+clear
+exit
+git add .
+git commit -m "Fix updating head of study programs"
+git push
+clear
+exit
+clear
+matikan
+git pull
+clear
+exit
+clear
+git add .
+git commit -m "Add determination supervisor and seminar tester (manually)"
+git push
+pa make:model Rule -m
+clear
+pa make:component BlockScore
+pa migrate
+clear
+git add .
+git commit -m "Fix viewing assessment score, fix typo study program name, etc"
+git push
+clear
+git add .
+git commit -m "Refactor front templates"
+git push
+clear
+git add .
+git commit -m "Show verified total donation"
+git push
+clear
+pa make:migration add_video_to_tentang_kami --table=tentang_kami
+cper
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add video to tentang kami"
+git push
+clear
+pa make:model LaporanKurban -m
+pa make:controller Back/LaporanKurbanController --resource --model=LaporanKurban
+clear
+pa migrate
+clear
+pa migrate
+clear
+pa route:list
+clear
+pa route:list
+clear
+pa migrate:rollback --step=1
+pa migrate
+CLEAR
+clear
+composer require yajra/laravel-datatables-oracle:"~9.0"
+clear
+exit
+pa key:generate
+clear
+pa view:clear
+pa cache:clear
+CLEAR
+clear
+git add .
+git commit -m "Add laporan kurban"
+git push
+clear
+pa make:controller Front/LaporanKurbanController
+clear
+git add .
+git commit -m "Add laporan kurban in front"
+git push
+clear
+git add .
+git commi -m "Update user roles middleware"
+git commit -m "Update user roles middleware"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add lecturer functionality in head of study program"
+git push
+clear
+git add .
+git commit -m "Fix show information text when image is not yet uploaded"
+git push
+clear
+git add .
+git commit -m "Try fix thumbnail image not show"
+git push
+pa make:migration add_lecturer_certification_number_and_quota_to_lecturer --table=lecturers
+clear
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+pa make:model LecturerCompetency
+mysql -u root -p
+cd Desktop
+mkdir CONTOH-C45
+cd CONTOH-C45
+git clone git@github.com:WahidinAji/Skripsi-Rofiqah.git
+cd Skripsi-Rofiqah
+mysql -u root -p
+clear
+mv .env.example .env
+vi .env
+pa migrate
+composer install
+clear
+pa key:generate
+clear
+pa migrate
+pa serve --port=1233
+clear
+cd ../
+git clone git@github.com:WahidinAji/C45-Testing.git
+cd C45-Testing
+clear
+mv .env.example .env
+vi .env
+clear
+composer install
+pa key:generate
+clear
+pa migrate
+pa serve --port=2010
+CLEAR
+clear
+pa db:seed
+clear
+pa serve --port=2010
+cd ..
+git clone git@github.com:nu99etz/skripsi_c45.git
+subl .
+cd skripsi_c45
+subl .
+php -S localhost:3000
+cd ..
+git clone git@github.com:rahmanpsg/metode-c45.git
+cd metode-c45/
+clear
+php -S localhost:3000
+subl .
+php -S localhost:3000
+cd ..
+clear
+git clone git@github.com:medansoftware/C45-Algorithm-PHP.git
+cd C45-Algorithm-PHP
+php -S localhost:5000
+ls
+cd ..
+rm -rf C45-Algorithm-PHP
+mkdir c45-algoritm
+subl c45-algoritm
+cd c45-algoritm
+composer require medansoftware/c45-algorithm-php
+ls
+touch index.php
+php -S localhost:5000
+cd ..
+clear
+git clone git@github.com:zuzubaidillah/c45-alumni.git
+cd c45-alumni
+clear
+php -S localhost:80/alumni
+php -S localhost:4000
+subl .
+php -S localhost:4000
+exit
+clear
+pa make:controller Api/LecturerController
+clear
+pa make
+pa make:model Testing -m
+pa make:model DataTesting -m
+pa make:model Root -m
+pa make:migration create_rules_table
+clear
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+pa migrate:rollback --step=2
+pa migrate:rollback --step=1
+pa migrate
+exit
+pa make:controller AcademicStaff/ExportController
+clear
+git add .
+git commit -m "Too much update -_-"
+git push
+git pull
+git add .
+git commit -m "Add filter by user level in users data"
+git push
+clear
+git add .
+git commit -m "Add link in footer and logout menu in academic staff"
+git push
+clear
+git add .
+git commit -m "Fix typo show study program name in student thesis info"
+git push
+clear
+git add .
+git commit -m "Fix error while empty supervisor in guidance page, add redirec to 403 for unauthorized data"
+git push
+clear
+git add .
+git commit -m "Remove dd in determination of trial assessment"
+git push
+git pull
+git push
+clear
+git add .
+git commit -m "Disable preview for docx/zip/rar files"
+git push
+clear
+git add .
+git commit -m "Split submission thesis requirement data in academic staff by status"
+git push
+clear
+pa make:migration change_response_note_to_text --table=thesis_submission
+clear
+pa migrate
+composer require doctrine/dbal
+celar
+clear
+composer require doctrine/dbal
+pa migrate
+clear
+exit

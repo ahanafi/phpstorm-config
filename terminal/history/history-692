@@ -1,0 +1,1000 @@
+npm run test
+clear
+npm run test
+exit
+nrun start-dev
+clear
+nrun start-dev
+exit
+exit
+npx eslint ./src
+clear
+npx eslint ./src
+nrun start-dev
+exit
+nrun start-dev
+[A
+nrun start-dev
+clear
+npx eslint ./src
+npm run build
+nrun start-dev
+clear
+git add .
+git commit -m "Update kriteria yang belum terpenuhi"
+git push
+pa make:controller Lecturer/DataSetController
+clear
+pa pretty:route
+pa route:pretty
+clear
+pa make:model DataSet -m
+pa migrate
+clear
+npm run dev
+pa view:clear
+git add .
+git commit -m "Fix error str_slug -- convert to Str::slug"
+git push
+clear
+git add .
+git commit -m "Fix update kategori"
+git push
+clear
+git remote --help
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/grayweb.git
+git remote set-url origin git@github.com:ahanafi/grayweb.git
+git remote -v
+clear
+exit
+cd Code/grayweb
+php artisan down
+php artisan up
+cd ../../Desktop
+git clone git@github.com:suhasrkms/push-notification.git
+cd push-notification && composer install
+ckear
+clear
+mysql -u root -p
+cp .env .env.example
+cp .env.example .env
+vi .env
+code .
+pa migrate
+pa serv
+cd ,,
+cd ..
+rm -rf push-notification
+exit
+git add .
+git commit -m "Fix show category by type"
+git push
+clear
+git add .
+git commit -m "Add onesignal push notification"
+git push
+clear
+git add .
+git commit -m "Force redirect to https"
+git push
+clear
+composer require laravel-notification-channels/onesignal
+clear
+git add .
+git commit -m "Add push notif when posted new article test"
+git push
+pa serve
+clear
+git add .
+git commit -m "Add import data sets from uploaded file"
+git push
+clear
+exit
+heroku login
+heroku
+heroku apps
+heroku apps --help
+heroku apps:open ucic-smart-attendance
+heroku apps:open --help
+clear
+exit
+php artisan migrate --seed
+clear
+pa serve
+clear
+git push
+git add .
+git commit -m "Fix lecturer_competency table's"
+git push
+clear
+pa migrate --seed
+cd Desktop
+git clone git@github.com:nurisakbar/Garuda-CRUD-Generator.git
+rm -rf Garuda-CRUD-Generator
+exit
+git add .
+git commit -m "Added procfile"
+git push
+git push origin main
+cd Code/grayweb
+git push -u origin main
+git push -u origin master
+cd ../../Desktop
+mkdir ibm-test
+cd ibm-test
+composer require tavux/flysystem-ibm-cos
+subl .
+exit
+php -S localhost:3900
+git add .
+git commit -m "Refactor student/lecturer name in model"
+git push
+composer require matthewbdaly/laravel-azure-storage
+composer require matthewbdaly/laravel-azure-storage --with-all-dependency
+composer require matthewbdaly/laravel-azure-storage --with-all-dependencies
+cd Desktop
+git clone git@github.com:dryanwilliams/PHPAzStorageDemo.git
+cd PHPAzStorageDemo
+composer install
+subl .
+php -S localhost:3200
+cd ,,
+cd ..
+rm -rf PHPAzStorageDemo
+clear
+composer create-project --prefer-dist laravel/laravel laravel-azure-blob-test
+cd laravel-azure-blob-test
+clear
+code .
+composer require steffjenl/laravel-azure-blob-storage
+php -S localhost:3200
+pa serve
+composer uninstall steffjenl/laravel-azure-blob-storage
+composer remove steffjenl/laravel-azure-blob-storage
+composer require league/flysystem-azure-blob-storage
+composer require league/flysystem-azure-blob-storage --with-all-dependencies
+pa serve
+composer remove league/flysystem-azure-blob-storage --with-all-dependencies
+composer update
+pa serve
+cd Desktop
+git clone git@github.com:RCRalph/SelfAccounting.git
+composer require tavux/laravel-ibm-cos
+composer install
+exit
+exit
+composer require cloudinary-labs/cloudinary-laravel
+clear
+php artisan vendor:publish --provider="CloudinaryLabs\CloudinaryLaravel\CloudinaryServiceProvider" --tag="cloudinary-laravel-config"
+php artisan cloudinary:fetch
+pa serve
+compsoer i
+composer install
+clear
+pa serve
+clear
+pa key:generate
+clear
+pa serve
+pa key:generate
+pa serve
+cclear
+clear
+pa config:cache
+pa key:generate
+pa serve
+git add .
+git commit -m "Add text to empty favorite"
+git push
+git add .
+git commit -m "Add check internet connection before add review"
+git push
+npm install --save-dev webpack-pwa-manifest
+exit
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+npm run build
+git add .
+git commit -m "Add webpack-pwa-manifest, for automatic added manifest json file"
+git push
+clear
+git add .
+git commit -m "Add criteria per submission"
+git push
+npm install imagemin-webpack-plugin imagemin-mozjpeg --save-dev
+clear
+npm run build
+exit
+pa serve --port=1900
+composer require matthewbdaly/laravel-azure-storage
+adonis serve --dev
+clear
+adonis serve --dev
+clear
+git add .
+git commit -m "Fix chart view in dashboard using mysql"
+git push
+nrun start-dev
+nrun build
+nrun start-dev
+nrun build
+nrun start-dev
+nrun build
+nrun start-dev
+pa serve --port=9820
+composer require masbug/flysystem-google-drive-ext
+clear
+exit
+pa serve --port=9820
+clear
+git add .
+git commit -m "Set default azure blob storage as default cloud storage"
+git push
+clear
+git add .
+git commit -m "Fix apply thesis requirement"
+git push
+exit
+exit
+exit
+git add .
+git commit -m "Add detail dontur"
+git push
+clear
+git add .
+git commit -m "Fix show detail donatur"
+git push
+clear
+git add .
+git commit -m "Fix show jenis penyaluran donasi"
+git push
+exit
+git add .
+git commit -m "Add google analytics script"
+git push origin main
+git push
+pa serve
+exit
+sudo su
+matikan
+git add .
+git commit -m "Prevention of re-submit of thesis submission"
+git push
+git add .
+git commit -m "Add getLabel for showing label
+'s status"
+git push
+clear
+git add .
+git commit -m "Show thesis submission by status"
+git push
+clear
+pa pretty:route
+pa route:pretty
+clear
+git add .
+git commit -m "Fix show thesis submission by status, add download proposal by student"
+git push
+npm install dotenv-webpack --save-dev
+ckear
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Secure config with .env files"
+git push
+nrun start-dev
+clear
+npm remove dotenv-webpack --save-dev
+vlrst
+clear
+git add .
+git commit -m "Revert environtment config variable"
+git push
+git add .
+git commit -m "Fix remove webpack-env plugins"
+git push
+clear
+git add .
+git commit -m "Refactor menu (sidebar), added UCIC logo"
+git push
+clear
+git add .
+git commit -m "Fix error thesis page in student dashboard"
+git push
+exit
+exit
+pa make:component StudentWidgetTiles
+clear
+pa make:migration change_guide_to_supervisor --table=submission_of_assessments
+clear
+pa migrate
+ckear
+clear
+git add .
+git commit -m "Add dashboard content each user type"
+git push
+pa serve
+matikan
+EXIT
+exit
+clear
+sudo su
+xit
+exit
+onedriver
+onedriver -a
+sudo apt remove --purge onedriver
+exot
+exit
+CLEAR
+clear
+git add .
+git commit -m "Change asset to secure_asset"
+git push
+clear
+git add .
+git commit -m "Enable cors to fix CORS issue"
+git push
+clear
+pa config:clear
+pa view:clear
+clear
+git add .
+git commit -m "Fix asset not load in local dev"
+git push
+clear
+pa make:component LeaderStudentTiles
+pa make:component LeaderWidgetTiles
+clear
+git add .
+git commit -m "Add study program leader dashboard page"
+git push
+npm test
+clear
+npm test
+clear
+git add .
+git commit -m "Kutangkap Bugs dengan Jaringan Pengaman"
+git push
+clear
+git add .
+git commit -m "Ketika Pikiranku Berubah"
+git push
+clear
+git add .
+git commit -m "Fix testing has no id to add the favorite resto"
+git push
+clear
+nrun start-dev
+clear
+exit
+cd Code/my-resto-app
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+exut
+exit
+git add .
+git commit -m "Jagalah Kebersihan a.k.a Refactor"
+git push
+clear
+git add .
+git commit -m "Yang Mengikat Kita a.k.a Contract"
+git push
+clear
+git add .
+git commit -m "Aku Bergantung pada Bayangmu"
+git push
+npm install codeceptjs puppeteer --save-dev
+npx codeceptjs init
+clear
+npm i
+npx codeceptjs init
+npm run e2e
+clear
+npx codeceptjs init
+exit
+git add .
+git commit -m "Add codecept and puppeteer + Membekukan waktu"
+git push
+clear
+git add .
+git commit -m "Jangan Sampai Salah Nama"
+git push
+clear
+git add .
+git commit -m "Add unfavorite resto e2e testing"
+git push
+npm i sharp --dev
+rm dist
+rm -r dist
+clear
+nrun build
+nrun build-img
+exit
+npm i
+clear 
+npm run build
+npm run dev
+npm run start
+cd webp-images
+npm install imagemin-webp-webpack-plugin --save-dev
+rm -r dist
+clear
+npm run build
+clear
+cd dist
+ls -l
+cd images
+ls -l
+ls -la
+clear
+exit
+cd webp-images
+npm i
+npm run build
+npm run start
+exit
+cd lazy-loading-images
+npm run build
+npm i
+npm run start
+clear
+npm run build
+npm run start
+npm install webpack-bundle-analyzer --save-dev
+clear
+rm -r dist
+nrun build
+npm uninstall lodas
+npm uninstall lodash
+clear
+npm i lodash.filter
+nrun build
+clear
+exit
+npm i
+nrun build
+nrun start
+clear
+nrun build
+rm -r dist
+nrun build
+rm -r dist
+nrun build
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+npx codecept run --steps
+subl /home/ahanafi/.npm/_logs/2021-07-11T01_57_09_202Z-debug.log
+npm run test
+npx codecept run --steps
+clear
+npx codeceptjs run --steps
+nrun e2e
+clear
+cd dist
+ls
+cd unages
+cd images
+ls
+cd heros
+ls -l
+npm install lazysizes
+clear
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+clear
+rm -r dist
+clear
+nrun build
+nrun start-dev
+npm install webpack-bundle-analyzer --save-dev
+clear
+rm -r dist
+nrun build
+clear
+nrun build
+clear
+git add .
+git commit -m "Apply lazyloading, bundle analyzer, optimize hero image"
+git push
+clear
+git add .
+git commit -m "Delete .env files"
+git push
+npm run build
+cd Code/kang
+nrun start-dev
+exit
+elsint ./src
+eslint ./src
+eslint ./
+clear
+cd ..
+rm -rf Restopedia
+exit
+cd Desktop
+git clone git@github.com:narashliwldn/Restopedia.git
+cd Restopedia
+npm i
+npx ./eslint
+ls
+cat package.json
+clear
+cat package.json
+clear
+npx ./eslint
+npx 
+ls
+cd ..
+ls
+exit
+clear
+npm run build
+rm -r dist
+npm run build
+npm run start-dev
+clear
+npm run start-dev
+clear
+git add .
+git commit -m "Move bundle analyzer to development only"
+git push
+git add .
+git commit -m "Change http to https -- font awesome"
+git push
+clear
+npm install sharp --save-dev
+npm uninstall sharp
+clear
+nrun start-dev
+clear
+npm install sharp --save-dev
+clear
+rm -r dist
+clear
+nrun build
+nrun build-image
+npm uninstall sharp
+clear
+nrun build
+npm install sharp --save-dev
+clear
+rm -r dist
+nrun build
+clear
+node sharp.js
+clear
+npm i sharp-loader --save --dev
+rm -r dist
+nrun build
+clar
+clear
+npm uninstall sharp-loader
+clear
+nrun start-dev
+clear
+nrun build
+node sharp.js
+clear
+nrun start-dev
+clear
+git push
+clear
+git add .
+git commit -m "Applying sharp.js to resize image"
+git push
+clear
+nrun start-dev
+clear
+rm -r build
+rm -r dist
+clear
+nrun build
+clear
+rm -r dist
+clear
+node sharp.js && nrun build
+nrun build && node sharp.js
+clear
+nrun start-dev
+clear
+rm -r dist
+nrun build
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Optimize index.js, add app-bar and footer-bar components"
+git push
+node sharp.js
+nrun build
+clear
+rm -r dist
+node sharp.js
+clear
+node sharp.js
+rm -r dist
+clear
+node sharp.js && nrun build
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Responsive review form"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive hero element"
+git push
+rm -r dist
+node sharp.js
+nrun build
+eslint ./src
+npx eslint ./src
+clear
+nrun test
+clear
+nrun start-dev
+clear
+nrun e2e
+npm run e2e
+clear
+npm run e2e
+clear
+npm run e2e
+exit
+clear
+git add .
+git commit -m "Add review item template + add review e2e testing"
+git push
+npm run e2e
+clear
+npm run e2e
+exit
+cd Code/my-resto-app
+nrun start-dev
+CLEAR
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+exit
+npm install css-minimizer-webpack-plugin --save-dev
+npm install --save-dev optimize-css-assets-webpack-plugin
+npm install cssnano postcss --save-dev
+clear
+rm -r dist
+node sharp.js && nrun build
+exit
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive content"
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix responsive css content v2"
+git push
+clear
+rm -r dist
+node sharp.js
+nrun build
+clear
+nrun start-dev
+clear
+rm -r dist
+clear
+node sharp.js && nrun build
+clear
+node sharp.js && nrun build
+nrun start-dev
+clear
+git add .
+git commit -m "Minify css"
+git push
+npm install --save sweetalert2
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Change default alert to sweetalert2"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Add loading"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Add not intenet connection page"
+git push
+clear
+git add .
+git commit -m "Fix minify css"
+git push
+clear
+git add .
+git commit -m "Fix logic no internet connection"
+git push
+clear
+npx eslint ./src
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix styling reviewer name, fix e2e testing with sweetalert, fix error unit testing"
+git push
+clear
+cd Code/my-resto-app
+clear
+npm start-dev
+nrun start-dev
+npm run e2e
+npx eslint ./src
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+ckear
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+npm run test
+clear
+exit
+cler
+clear
+git add .
+git commit -m "Fix error unit testing caused by templating"
+git push
+clear
+git add .
+git commit -m "Remove comments in testing file"
+git puhs
+git push
+cd Code/my-resto-app
+clear
+nrun start-dev
+clear
+nrun start-dev
+npm run test
+clear
+npm run test
+npm run e2e
+clear
+npx eslint ./src
+npm test
+npm run e2e
+clear
+git add .
+git commit -m "Add test-case.md"
+git push
+cd e2e/outputs
+ls
+rm *
+ls
+cd ..
+npm run e2e
+npx eslit ./src
+npm eslit ./src
+npm eslint ./src
+npx eslint ./src
+matikan
+cd Code/my-resto-app
+nrun start-dev
+pa make:migration create_tags_berita_table
+pa make:model TagBerita -m
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add tag berita + fix error detail berita from list berita in admin"
+git push
+pa serve
+clear
+git add .
+git commit -m "Update disqus plugisn"
+git push
+cd php -S localhost:2000 artikel.php
+cd php -S localhost:2000
+php -S localhost:2000 artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php artikel.php
+clear
+php berita.php
+clear
+php berita.php
+clear
+php artikel.php
+clear
+php berita.php
+php artikel.php
+cd Downloads
+ls
+cd Programs
+ls
+clear
+sudo dpkg -i pgloader_3.6.2-1.pgdg20.04+1_amd64.deb
+sudo apt --fix-install
+sudo apt get --fix-install
+sudo apt update --fix
+sudo apt install --fix
+sudo apt install 
+sudo apt --fix-broken install
+exit
+pgloader --help
+pgloader mysql://root:password@localhost/codepos_app postgres://qgnuqtggjnwuyz:847c46fc7b7379d2dd42100e96f0a2bcf53ea144f7c9a62dab09f9f015858eca@ec2-54-228-99-58.eu-west-1.compute.amazonaws.com:5432/dbdgdhp6vrfejk
+pgloader mysql://root:password@localhost/codepos_app jdbc:postgres://qgnuqtggjnwuyz:847c46fc7b7379d2dd42100e96f0a2bcf53ea144f7c9a62dab09f9f015858eca@ec2-54-228-99-58.eu-west-1.compute.amazonaws.com:5432/dbdgdhp6vrfejk
+clear
+cd Desktop
+clear
+git clone git@github.com:lanyrd/mysql-postgresql-converter.git
+cd mysql-postgresql-converter
+mysqldump --compatible=postgresql --default-character-set=utf8 -r codepos_app.mysql -u root password
+mysqldump
+clear
+/usr/bin/mysqldump --result-file=/home/ahanafi/Desktop/mysql-postgresql-converter/codepos_app.sql --column-statistics=0 codepos_app --user=root --host=127.0.0.1 --port=3306 --compatible=postgresql
+ls
+python db_converter.py codepos.mysql codepos.pgsql
+python3 db_converter.py codepos.mysql codepos.pgsql
+python2 db_converter.py codepos.mysql codepos.pgsql
+python -v
+clear
+pgsql
+psql
+sudo dpkg --add-architecture i386 
+sudo apt install --install-recommends winehq-stable
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+sudo apt install --install-recommends winehq-stable
+wget -nc https://dl.winehq.org/wine-builds/winehq.key
+sudo apt-key add winehq.key
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+sudo apt install --install-recommends winehq-stable
+sudo add-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ focal main'
+sudo apt install --install-recommends winehq-stable
+sudo remove-apt-repository 'deb https://dl.winehq.org/wine-builds/ubuntu/ hirsute main'
+exit
+php -S localhost:9000 public
+php artisan serve
+php artisan serve --port=9000
+cd ~/Code
+ls
+clear
+cd smart-attendance-system
+adonis serve --dev
+exit
+pa serve
+clear
+exit
+cd Desktop
+php test.php
+ext
+exit
+clear
+pa migrate --seed
+cd cODE
+cd Code
+mkdir test-autodeploy
+cd test-autodeploy
+subl .
+git init
+git remote add origin ssh://skrips25@skripsi-ucic.com:64000/home/skrips25/test-autodeploy
+git add .
+git commit -m "Initial commit"
+git push origin master
+matikan
+clear
+git add .
+git commit -m "Test autodeployment to shared hosting"
+git push
+rm -rf dist
+node sharp.js
+npm run build
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Fix bundle optimization in production mode, min height 44px at nav item, etc"
+git push
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Change text color in hero description, change test-case typo"
+git push
+nrun start-dev
+clear
+git add .
+git commit -m "Fix fetching data source with checking internet connection"
+git push
+clear
+rm -rf dist
+npx eslint ./src
+nrun e2e
+clear
+git add .
+git commit -m "Change db engine to InnoDB"
+git push
+clear
+git add .
+git commit -m 
+git commit -m "Add C45 Service for Calculating c4.5 algorithm"
+git push
+CLEAR
+clear
+pa serve
+exit
+git pull
+exit
+clear
+git add .
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+git push
+git commit -m "Fix image confirm donation cutted, change dashboard info"
+pa serve
+clear
+git add .
+git commit -m "Fix icon dashboard"
+git push
+sudo su
+matikan
+clear
+git add .
+git commit -m "Fix C4.5 Algoritm Calculation"
+git push
+exit
+git add .
+git commit -m "Add optimization in C4.5 algorithm calculation"
+git push
+pa serve
+exit

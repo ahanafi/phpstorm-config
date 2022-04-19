@@ -1,0 +1,1 @@
+SELECT proforma_invoice.*, pemesan.nama_pemesan, pemesan.pic, mata_uang.simbol, mata_uang.nama_mata_uang FROM proforma_invoice JOIN pemesan USING (pemesan_id) JOIN mata_uang USING (mata_uang_id) WHERE tanggal_pi BETWEEN '2020-01-01' AND '2021-03-31'

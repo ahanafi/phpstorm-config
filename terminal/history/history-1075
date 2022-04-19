@@ -1,0 +1,1000 @@
+git push
+exit
+clear
+git add .
+clear
+git add .
+git commit -m "Fix error dashboard page when jadwal is empty"
+git push
+clear
+git add .
+git commit -m "Add update and delete mahasiswa"
+git push
+clear
+git add .
+git commit -m "Fix detail BAP in verifikasi"
+git push
+mysql -u root -p
+clear
+exit
+pa migrate --seed
+clear
+exit
+clear
+pa make:model Article -m
+c;ear
+clear
+pa migrate
+clear
+pa make:seeder ArticlesSeeder
+pa make:seeder UsersSeeder
+clear
+pa db:seed
+clear
+pa make:controller ArticleController
+clear
+pa make:controller ArticleController -r
+clear
+pa route:list
+clear
+pa make:migration --table=users add_api_token_to_users_table
+clear
+pa make:migration --table=users add_api_token_to_users_table
+clear
+pa migrate
+clear
+pa make:controller Auth/RegisterController
+composer require laravel/breeze
+clear
+composer require laravel/fortify
+clear
+composer uninstall laravel/fortify
+composer remove laravel/fortify
+composer remove laravel/breeze
+clear
+composer require laravel/ui
+clear
+pa auth
+clear
+pa ui:auth
+clear
+composer test
+CLEAR
+clear
+composer test
+clear
+pa 
+clear
+pa 
+pa make:factory --help
+pa make:factory ArticleFactory
+clear
+pa make:test Feature/RegisterTest
+pa make:test Feature/LogoutTest
+clear
+composer test
+clear
+composer test
+clear
+composer test
+clear
+composer test
+CLEAR
+clear
+composer test
+clcear
+clear
+composer test
+clear
+composer test
+clear
+composer test
+cler
+clear
+pa migrate --seed
+clear
+composer test
+clear
+git init
+git remote add origin git@github.com:ahanafi/laravel-restful-api.git
+git set remote-url git@github.com:ahanafi/laravel-restful-api.git
+git remote-url set git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url git@github.com:ahanafi/laravel-restful-api.git
+clear
+git add .
+git remote set-url git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+git remote set-url origin git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+git remote -set url --push git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url --push git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url --push origin git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+clear
+git push
+git checkout
+clear
+git add .
+git commit -m "Initial commit"
+git push
+git push origin HEAD:main
+rm -rf .git
+clear
+git init
+git add .
+git commit -m "First commit"
+clear
+git branch -M main
+git remote add origin git@github.com:ahanafi/laravel-restful-api.git
+git push -u origin main
+clear
+git add .
+git commit -m "Change readme"
+git push
+exit
+heroku
+heroku apps
+exit
+git add .
+git commit -m "Add procfile"
+git push
+clear
+git push origin main
+pa key:generate
+clea
+clear
+heroku login
+clear
+git add .
+git commit -m "Fix procfile"
+git push
+cd /var/www/html/
+cd teaching-activity-app/
+clear
+git add .
+git commit -m "Change db files"
+git push
+clear
+git add .
+git commit -m "Update readme"
+git push
+git push origin main
+git checkout
+git push origin main
+git push
+cd /var/www/html/teaching-activity-app/
+clear
+git push
+exit
+php 01-max-min-array.php 
+clear
+php 01-max-min-array.php 
+clear
+php 01-max-min-array.php 
+clear
+php 02-unique-item-array.php 
+php 03-fibonacci-number.php 
+clear
+php 03-fibonacci-number.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 05-nds-test.php 
+clear
+php 05-nds-test.php 
+clear
+php 05-nds-test.php 
+php 05-nds-test.php
+clear
+composer install
+php -S localhost:8000
+CLEAR
+clear
+git init
+git add .
+git commit -m "Initial commit"
+clear
+git status
+git checkout
+clear
+git add .
+git commit -m "Initial commit"
+git push
+git remote add origin git@github.com:ahanafi/coding-interview.git
+git push
+git push origin main
+git branch -M main
+git remote add origin git@github.com:ahanafi/coding-interview.git
+git push
+git push --set-upstream origin main
+clear
+git rm -r --cached .idea
+git commit -m "Remove IDE Configuration"
+git push
+clear
+touch readme.md
+clear
+git add .
+git commit -m "Add readme"
+git push
+clear
+exit
+cd Code
+ls
+clear
+cd simpeg/
+php artisan serve
+exit
+clear
+pa serve
+cd /var/www/html
+git clone git@github.com:KhidirDotID/stisla-codeigniter.git
+cd stisla-codeigniter/
+clear
+exit
+clear
+git iit
+clear
+git init
+clear
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin git@github.com:ahanafi/auth-face-recognition.git
+git push -u origin main
+clear
+git add .
+git commit -m "Add register user"
+git push
+clear
+git add .
+git commit -m "Change register to home uri"
+git push
+clear
+git add .
+git commit -m "Add data pendaftar in admin dashboard"
+git push
+clear
+git add .
+git commit -m "Add approve user"
+git push
+exit
+ping 8.8.8..8
+ping 8.8.8.8
+clear
+chmod -R 777 uploads
+chmod -R 777 uploads/
+clear
+git add .
+git commit -m "Add change user picture"
+git push
+clear
+git add .
+git commit -m "Add login pendaftar using face recognition"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Remove button login with username and password"
+git push
+clear
+exi
+exit
+clear
+git add .
+git commit -m "Remove google tag manager"
+git push
+clear
+ping 8.8.8.8.
+ping 8.8.8.8 
+clear
+ping 8.8.8.8 
+cd Desktop
+git clone git@github.com:ParthJT/CapturePhoto.git
+cd C
+cd CapturePhoto/
+clear
+php -S localhost:9000
+subl .
+cd ..
+rm -rf CapturePhoto/
+ls
+clear
+exit
+git add .
+git commit -m "Remove debugging data while update status pendaftar"
+git push
+clear
+git add .
+git commit -m "Fix logout user"
+git push
+clear
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+sudo chmod -R 777 uploads
+cd uploads
+ls
+cd pendaftar/
+rm -rf .
+rm -rf *
+clear
+rm -rf *
+clear
+rm -rf *
+clear
+git add .
+git commit -m "Add take picture from webcam"
+git push
+clear
+git push
+cd ..
+git add .
+git commit -m "Add take picture from webcam"
+git push
+clear
+git add .
+git commit -m "Add test autodeploy"
+git push
+clear
+git add .
+git commit -m "Fix update status penelitian"
+git push
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/simpeg-server.git
+git remote set-url git@github.com:ahanafi/simpeg-server.git --push
+git remote set-url --push git@github.com:ahanafi/simpeg-server.git
+git remote set-url --push origin git@github.com:ahanafi/simpeg-server.git
+git remote set-url --fetch origin git@github.com:ahanafi/simpeg-server.git
+clear
+git remote set-url --add origin git@github.com:ahanafi/simpeg-server.git
+git remove -v
+git remote -v
+git remote set-url --delete origin git@github.com:ahanafi/simpeg-server.git
+git remote -v
+git remote origin
+clear
+git remote remove origin
+git remote add origin git@github.com:ahanafi/simpeg-server.git
+git remote -v
+clear
+git add .
+git push
+git push --set-upstream origin master
+clear
+git add .
+git commit -m "Fix error halaman kasbon (kasbon.export) "
+git push
+clear
+git add .
+git commit -m "Add pengabdian menu in keuangan"
+git push
+clear
+git add .
+git commit -m "Change return back link with js"
+git push
+clear
+exit
+exit
+clear
+git add .
+git commit -m "Add item FOB in PI"
+git push
+git remote -v
+git remote remove origin
+git remote -v
+git remote add origin git@github.com:ahanafi/spk-fajar-rattan.git
+git remote -v
+clear
+git push
+git push --set-upstream origin master
+cd Code
+ls
+cd thesis-management-system/
+clear
+pa serve
+exit
+clear
+pa install
+clear
+composer install
+clear
+pa serve
+exit
+git init
+git add .
+git commit -m "Project init"
+clear
+git branch -M main
+git remote add origin git@github.com:ahanafi/letter-app.git
+git push -u origin main
+cd Code/theme/
+clear
+composer install
+clear
+composer install
+clear
+pa serve
+clear
+cd ..
+mv theme viho
+clear
+git add .
+git commit -m "Remove required attribut some input in form pegawai"
+git push
+clear
+pa serve
+clear
+git add .
+git commit -m "Fix tanggal selesai error -- penelitian disetujui"
+git push
+clear
+git add .
+git commit -m "Fix edit + show detail SPK"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix error cetak per spk"
+git push
+clear
+git add .
+git commit -m "Fix error cetak transaksi SPK"
+git push
+clear
+git add .
+git commit -m "Fix error get detail SPK in form input transaksi SPK'
+"
+git push
+CLEAR
+clear
+git add .
+git commit -m "Fix tanggal transaksi SPK replace by tanggal SPK"
+clear
+git add .
+git commit -m "Fix error insert hutang with out sub kategori"
+git push
+clear
+exit
+cd /html/www
+cd /var/www/html/
+clear
+ls
+cd auth-face-recognition/
+git add .
+git commit -m "Add .sql files"
+git push
+exit
+sudo su
+exut
+exit
+clear
+pa make:migration create_leave_type_table
+pa make:migration create_letter_group_table
+pa make:migration create_letter_nature_table
+pa make:migration create_employee_table
+pa make:migration create_permit_letter_table
+pa make:migration create_leave_types_table
+pa make:migration create_mail_types_table
+pa make:migration create_letter_groups_table
+pa make:migration create_letter_natures_table
+pa make:migration create_employees_table
+pa make:migration create_permit_letters_table
+clear
+exit
+c;ear
+clear
+pa make:migration create_mails_table
+clear
+pa migrate
+clear
+pa migrate:refresh
+clear
+pa migrate:refresh
+clear
+exit
+clear
+git add .
+git commit -m "Add migration tables"
+git push
+exit
+pa route:list
+clear
+composer require larave/breeze
+composer require laravel/breeze
+pa breeze:install
+npm i && npm run dev
+sudo su
+matikan
+pa route:list
+clear
+composer clear
+clear
+composer remove larave/breeze
+clear
+composer require larave/ui
+composer require laravel/ui
+clear
+php artisan ui --auth
+php artisan ui bootstrap --auth
+clear
+pa make: --help
+clear
+pa make:seeder UsersTableSeeder
+clear
+pa db:seed
+clear
+git add .
+git commit -m "Add login user, users table seeder"
+git push
+clear
+pa serve --port=6500
+sudo apt remove --purge skype
+clear
+sudo apt remove --purge skypeforlinux
+sudo apt autoremove
+clear
+exit
+exit
+clear
+git add .
+git commit -m "Change dashboard page, add user in sidebar"
+git push
+exit
+sudo su
+exit
+clear
+git add .
+git commit -m "Remove unused files"
+git push
+clear
+pake make:controller Admin/UserController
+pa make:controller Admin/UserController
+clear
+pa make:controller Admin/EmployeeController -m
+pa make:controller Admin/EmployeeController -r
+pa make:controller Admin/UserController -r
+clear
+pa make:model Employee
+pa make:model LeaveType
+pa make:model PermitLetter
+pa make:model LetterGroup
+pa make:model Mail
+pa make:model MailType
+pa make:model LetterNature
+clear
+git add /
+git add .
+git commit -m "Add models, UserController, and EmployeeController"
+git push
+clear
+pa route:list
+clear
+composer require garygreen/pretty-routes
+clear
+pa make:request UserStoreRequest
+pa make:request StoreUserRequest
+clear
+composer dump-autoload
+clear
+pa make:controller API\UserController
+pa make:controller API/UserController
+CLEAR
+clear
+composer require yajra/laravel-datatables-oracle
+composer require barryvdh/laravel-debugbar --dev
+clear
+git add .
+git commit -m "Add CRDU User"
+git push
+cclea
+clear
+pa make:controller API/EmployeeController
+clear
+pa make:request StoreEmployeeRequest
+clear
+pa migrate:refresh --seed
+clear
+exit
+clear
+git add .
+git commit -m "Add CRUD Employee (Personel)"
+git push
+clear
+pa make:controller Admin/LeaveTypeController -r
+pa make:controller Admin/LetterGroupController -r
+pa make:controller Admin/LetterNatureController -r
+pa make:controller Admin/MailTypeController -r
+clear
+pa migrate:refresh --seed
+clear
+git add .
+git commit -m "Add CRUD Leave Type"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix form edit leave type"
+git push
+ckear
+clear
+ckear
+clear
+git add .
+git commit -m "Add CRUD letter groups (klasifikasi surat)"
+git push
+clear
+git add .
+git commit -m "Add CRUD letter nature (sifat surat)"
+git push 
+clear
+git add .
+git commit -m "Add CRUD Jenis Surat"
+git push
+clear
+git add .
+git commit -m "Remove method show for master data"
+git push
+clear
+touch Procfile
+exit
+clear
+git add .
+git commit -m "Add Procfile for hosted to heroku"
+git push
+pa serve --port=1234
+pa serve --port=6500
+reboot
+clear
+git add .
+git commit -m "Add github workflows for auto deploy to shared hosting"
+git push
+git status
+clear
+cd Code/letter-app/
+git branch --show-current
+ifconfig
+git add .
+git commit -m "Add create new data and back button"
+git push
+clear
+git add .
+git commit -m "Add confirm logout"
+git push
+clear
+exit
+clear
+pa make:controller Admin/IncomingMailController
+pa make:controller Admin/OutgoingMailController
+cd Code/viho/
+pa serve --port=6500
+matikan
+cd Code
+git clone git@github.com:nyancodeid/quotes.git
+code quotes/
+exit
+npm i
+clear
+npm run generate:quotes
+npm run dev
+exit
+pa make:request StoreIncomingMailRequest
+cd Code/
+clear
+cd viho/
+ls
+pa serve --port=6500
+exit
+cd Code/viho/
+php -S public localhost:3000
+php -S localhost:3000 public
+clear
+pa serve --port=6500
+ping google.com
+exit
+git add .
+git commit -m "Add detail of mail"
+git push
+cd Code/viho/
+pa serve --port=9500
+sudo su
+exit
+pa migrate:rollback --step=1
+pa migrate
+cd Code/v
+cd Code/viho/
+clear
+pa serve --port=6500
+exit
+clear
+git add .
+git commit -m "Show delete button in Schedule data at Lecturer dashboard"
+git push
+clear
+git add .
+git commit -m "Add upload digital signature menu in the sidebar"
+git push
+clear
+git add .
+git commit -m "Fix form verifikasi BAP"
+git push
+git add .
+git commit -m "Add upload scan mail"
+git push
+clear
+pa make:model Disposition -mcr
+pa migrate:rollback --step=1
+pa make:model Attachment -m
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add upload file as attachment of mail"
+git push
+pa serve --port=6500
+matikan
+clear
+git add .
+git commit -m "Fix export BAP as PDF"
+git push
+pa make:controller API/AttachmentController
+pa make:controller Admin/AttachmentController
+clear
+git add .
+git commit -m "Refactor attachment of incoming mail"
+git push
+clear
+exit
+clear
+pa storage:link
+git status
+git add .
+git commit -m "Remove some uploaded files"
+git push
+clear
+cd ~/Code/viho/
+pa serve --port=6500
+exit
+clear
+git add .
+git commit -m "Add view incoming mail attachment"
+git push
+celar
+clear
+git add .
+git commit -m "Added delete attachment of incoming mail"
+git push
+clear
+exit
+pa make:seed
+pa make:seed EmployeesTableSeeder
+clear
+pa seed --class=EmployeesTableSeeder
+pa db:seed --class=EmployeesTableSeeder
+clear
+pa db:seed --class=EmployeesTableSeeder
+clear
+pa make:migration change_enum_to_integer_at_level_column
+composer require doctrine/dbal
+clear
+pa migrate
+pa db:seed --class=EmployeesTableSeeder
+clear
+git add .
+git commit -m "Add EmployeesTableSeeder"
+git push
+clear
+git add .
+git commit -m "Add user badge"
+git push
+clear
+pa make:controller Lead/DipositionController
+pa make:controller Leader/DipositionController
+pa make:middleware CheckRoleUser
+clear
+git add .
+git commit -m "Add middleware checkUserLevel"
+git push
+pa make:controller Leader/IncomingMailController
+pa make:controller Leader/OutgoingMailController
+clear
+git add .
+git commit -m "Refactor template layout"
+git push
+clear
+pa make:controller Leader/AttachmentController
+pa view:clear
+pa make:controller Leader/EmployeeController
+exit
+ckear
+clear
+pa make:request StoreDispositionRequest
+clear
+git add .
+git commit
+git commit -m "Add insert and delete disposition from the leader"
+git push
+clear
+git add .
+git commit -m "Add flash message with sweetalert"
+git push
+pa migrate:rollback
+clear
+pa migrate:rollback
+clear
+pa migrate:rollback
+clear
+pa migrate
+clear
+pa migrate:refresh --seed
+pa migrate:rollbacj
+pa migrate:rollback
+pa migrate:refresh --seed
+clear
+pa migrate:refresh --seed
+clear
+pa migrate:refresh --seed
+clear
+git add .
+git commit -m "Fix migration table structure"
+git push
+CLEAR
+clear
+pa migrate:refresh --seed
+clear
+git add .
+git commit -m "Add code in mail type and letter group"
+git push
+clear
+git add .
+git commit -m "Fix error run migration -- key too long"
+git push
+pa make:request StoreOutgoingMailRequest
+clear
+pa view:clear
+pa make:migration set_received_date_to_default_null --table=mails
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+pa migrate:rollback --step=4
+pa migrate
+clear
+git add .
+git commit -m "Add outgoing mail CRUD"
+git push
+git add .
+git commit -m "Add count incoming and outgoing mail i dashboard"
+git push
+clear 
+pa make:controller Admin/GeneralPermission
+pa make:controller Admin/RoadPermitController
+pa make:controller Admin/GeneralPermissionController
+pa make:controller Admin/LeavePermissionController
+clear
+pa make:request StoreRoadPermitRequest
+pa make:request StoreLeavePermissionRequest
+pa make:request StoreGeneralPermissionRequest
+pa migrate:refresh --step=4
+clear
+composer dump-autoload
+clear
+pa make:controller API/PermitLetterController
+clear
+git add .
+git commit -m "Add CRUD road permit"
+git push
+clear
+git add .
+git commit -m "Remove unused element from template"
+git push
+clear
+pa make:migration add_file_to_permit_letters --table=permit_letters
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Add upload and view file at road permit letter"
+git push
+clear
+pa make:request StoreGeneralPermissionRequest
+pa migrate:rollback --step=5
+clear
+pa migrate
+pa migrate:refresh --step=1
+pa migrate
+CLEAR
+clear
+pa migrate
+git add .
+git commit -m "Add CRUD  general permission"
+git push
+clear
+git add .
+git commit -m "Add possible to change dark or light mode"
+git push
+clear
+cleaf
+clear
+git add .
+git commit -m "Add CRUD Leave permission + update edit proccess in General permission"
+git push
+clear
+pa make:model Adress -m
+pa make:model Address -m\
+pa make:model Address -m
+clear
+pa migrate
+pa make:controller Admin/AddressController
+pa make:controller API/AddressController
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Add CRUD Address"
+git push
+pa make:model MailAddress -m
+pa migrate
+pa migrate:refresh --step=3
+pa migrate:refresh --step=2
+clear
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Change sender to address"
+git push
+clear
+git add .
+git commit -m "Fix show code letter group in edit form"
+git push
+clear
+pa migrate:refresh --step=6
+clear
+git add .
+git commit -m "Fix change sender to address in mail"
+git push
+clear
+pa make:migration add_parent_id_to_permit_letters --table=permit_letters
+pa migrate
+pa migrate:refresh --step=1
+pa migrate
+clear
+pa migrate
+pa migrate:refresh --step=1
+clear
+pa migrate
+clear
+pa make:model Setting -mc
+pa migrate
+clear
+pa migrate
+pa make:seeder SettingsTableSeeder
+pa db:seed --class=SettingsTableSeeder
+clear
+git add .
+git commit -m "Add update settings"
+git push
+pa migrate:refresh --step=1
+pa db:seed --class=SettingsTableSeeder
+clear
+git add .
+git commit -m "Add update leave settings"
+git push
+clear
+pa make:rule CheckRemainingLeave
+git add .
+git commit -m "Change mail input mail number in outgoing mail form"
+git push
+clear
+pa make:controller Admin/ReportController
+composer require rap2hpoutre/fast-excel
+exit

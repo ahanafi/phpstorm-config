@@ -1,0 +1,1 @@
+SELECT group_concat(id_dosen) AS id_dosen FROM dosen WHERE id_program_studi = 7;

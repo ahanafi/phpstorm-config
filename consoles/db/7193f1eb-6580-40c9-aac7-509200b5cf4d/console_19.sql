@@ -1,0 +1,1 @@
+SELECT verifikasi_donasi.*, pengguna.nama_lengkap AS verifikator FROM verifikasi_donasi LEFT JOIN pengguna ON verifikasi_donasi.id_verifikator = pengguna.id_pengguna WHERE id_donasi = 'G00-20201223000002'

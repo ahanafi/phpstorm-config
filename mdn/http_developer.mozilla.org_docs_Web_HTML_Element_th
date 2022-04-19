@@ -1,0 +1,1 @@
+The <strong>HTML <code>&lt;th&gt;</code> element</strong> defines a cell as header of a group of table cells. The exact nature of this group is defined by the <code><a href="/en-US/docs/Web/HTML/Element/th#attr-scope">scope</a></code> and <code><a href="/en-US/docs/Web/HTML/Element/th#attr-headers">headers</a></code> attributes.

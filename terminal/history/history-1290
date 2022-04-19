@@ -1,0 +1,1000 @@
+git push
+cler
+clear
+git add .
+git commit -m "Show weight in input assessment result"
+git push
+clear
+git add .
+git commit -m "Fix error while updating assessment component data"
+git push
+clear
+git add .
+git commit -m "Fix error in colloquium result and typo in seminar result"
+git push
+clear
+git add .
+git commit -m "Fix show result of colloquium assessment"
+git push
+cd Downdloads
+cd Downloads
+ls | grep .deb
+sudo dpkg -i wps-office_11.1.0.10702.XA_amd64.deb
+clear
+rm wps-office_11.1.0.10702.XA_amd64.deb
+exi
+exit
+clear
+git add .
+git commit -m "Add test topsis method"
+git push
+sudo apt install obs-studio
+matikan
+cd Code/grayweb/
+php -S localhost:3000
+clear
+pa serve --port=2300
+pa serve
+droidcam
+adb devices
+screencopy
+adb server
+clear
+screencopy
+adb devices
+screencopy
+adb kill-server
+screencopy
+adb devices
+droidcam
+screencopy
+clear
+cd /tmp/
+wget -O droidcam_latest.zip https://files.dev47apps.net/linux/droidcam_1.8.0.zip
+# sha1sum: 3f94d6ec57a191ad146392fcf094b205e375e1ef
+unzip droidcam_latest.zip -d droidcam
+cd droidcam && sudo ./install-client
+clear
+cd ~
+clear
+droidcam
+clear
+lsmod | grep v4l2loopback_dc
+cd /tmp
+wget https://files.dev47apps.net/linux/droidcam_latest.zip
+echo "5ff0e772a76befba4e37e03101b611d7 droidcam_latest.zip" | md5sum -c --
+unzip droidcam_latest.zip -d droidcam && cd droidcam
+clear
+lsmod | grep v4l2loopback_dc
+sudo ./install
+ls
+sudo ./install-client
+sudo ./install-dkms
+sudo ./install-video
+clear
+ls
+sudo ./install-sound
+droidcam
+clear
+droidcam
+exit
+screencopy
+git add .
+git commit -m "Fix unable input colloquium score while submission is not approved"
+git push
+clear
+git add .
+git commit -m "Fix second trial examiner"
+git push
+exit
+clear
+git add .
+git commit -m "Fix label schedule form"
+git push
+clear
+git add .
+git commit -m "Add export guidance card by lecturer"
+git push
+clear
+pa view:clear
+c;ear
+clear
+git add .
+git commit -m "Fix generate trial examiner"
+git push
+clear
+git add .
+git commit -m "Fix topsis calculation"
+git push
+ngrok
+ngrok http 8000
+clear
+exit
+sudo su
+exit
+clear
+git add .
+git commit -m "Fix getFirstExaminer"
+git push
+clear
+git add .
+git commit -m "Fix release command for heroku deployment"
+git push
+clear
+git add .
+git commit -m "Fix hide while submission of assessment is not scheduled"
+git push
+clear
+git add .
+git commit -m "Fix unable other submission of assessment when old assessment has not been finsih"
+git push
+clear
+git add .
+git commit -m "Fix null relation"
+git push
+clear
+git add .
+git commit -m "Fix labeling input assessment score"
+git push
+clear
+git add .
+git commit -m "Change label input file when user choosed file"
+git push
+CLEAR
+clear
+git add .
+git commit -m "Cleaning template header"
+git push
+clear
+pa make:request UpdatePasswordRequest
+clear
+pa make:request UpdatePasswordRequest
+clear
+git add .
+git commit -m "Add change user password"
+git push
+sudo su
+matikan
+clear
+git add .
+git commit -m "Fix assessment score in trial assessment"
+git push
+clear
+pa make:model Score -m
+pa migrate
+pa migrate:rollback --step=1
+pa migrate
+clear
+git add .
+git commit -m "Add insert thesis score"
+git push
+clear
+git add .
+git commit -m "Add topsis calculcation"
+git push
+cd Code
+ls
+cd smart-attendance-system/
+adonis serve --dev
+matikan
+cd Code/smart-attendance-system/
+node server.js
+clear
+pa make:migration remove_guidance_card_from_submission_assessment
+pa make:migration remove_guidance_card_from_submission_assessment --table=submission_of_assessments
+clear
+pa migrate
+clear
+pa make:middleware CheckStudentThesis
+exit
+clear
+git add .
+git commit -m "Remove upload guidance card for submission assessment, check thesis"
+git push
+clear
+exit
+ping 8.8.8.8
+ping 8.8.8.8 
+pa make:notification ChangeSubmissionStatus
+pa make:notification NotifyUpdateSubmissionStatus
+pa vendor:publish --tag=laravel-notification
+pa vendor:publish --tag=laravel-notifications
+sudo su
+exit
+javac --v
+javac -
+javac --version
+java --version
+matikan
+cd IdeaProjects/
+git clone git@github.com:ahanafi/java-simple-travel-app.git
+exit
+killall java -9
+git init
+touch .gitignore
+ls
+clear
+ls | grep .deb
+sudo dpkg -i skypeforlinux-64.deb
+sudo su
+clear
+ls
+cd Downloads
+sudo su
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+cclear
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+cle
+clear
+php second.php
+clear
+php -S localhost:3000
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+CLEAR
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clear
+php second.php
+clea
+clear
+php second.php
+reboot
+ls 
+sudo dpkg -i microsoft-edge-beta_93.0.961.18-1_amd64.deb
+exit
+cd Code/smart-attendance-system/
+adonis serve --dev
+cd Code/smart-attendance-system/
+adonis serve --dev
+matikan
+clear
+git add .
+git commit -m "Remove level checking in login"
+git push
+clear
+git remote set-url origin git@github.com:ahanafi/teaching-activity-app.git
+git push
+clear
+git add .
+git commit -m "Add student operation"
+git push
+clear
+ping 8.8.8.8
+mysql -u root -p
+clear
+cd Desktop
+git clone git@github.com:adimasistiawan/sieguardian.git
+cd sieguardian/
+cp .env.example .env
+vi .env
+clear
+composer install
+php artisan migrate
+php artisan db:seed
+clear
+pa serve
+clear
+pa key:generate
+pa serve
+Code .
+code .
+pa serve
+cd ,,
+cd ..
+rm -rf sieguardian/
+exit
+git add .
+git commit -m "Fix insert BAP with changes structure of tables"
+git push
+clear
+git add .
+git commit -m "Add badge color in showUserLevel method"
+git push
+ls
+clear
+ls -l
+php 01-solution.php
+clear
+php 01-solution.php
+clear
+php 01-solution.php
+clear
+php 01-solution.php
+cd uploads
+ls
+cd paraf-mhs
+ls
+rm -rf .
+sudo rm -rf .
+ls
+sudo rm -rf *
+ls
+exit
+cd uploads/paraf-mhs
+sudo rm *
+ls
+exut
+exit
+clear
+git add .
+git commit -m "Add upload digital signatur at student page"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Prevent student change password"
+git push
+cd uploads/bukti-kegiatan/
+rm -rf *
+ls
+clear
+cd ../..
+clear
+git add .
+git commit -m "Fix checked materialType and daringApps"
+git push
+sudo su
+exit
+ls
+chmodr -R 777 assets
+chmod -R 777 assets
+clear
+ls -l
+exit
+screencopy
+exit
+clear
+php index.php
+clear
+ckear
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+clear
+php index.php
+lear
+clear
+php index.php
+clear
+git add .
+git commit -m "Fix error in BAP edit page"
+git push
+ckear
+clear
+git status
+get checkout
+git checkout
+clear
+exit
+clear
+git add .
+git commit -m "Add export data program studi"
+git push
+clear
+exit
+chmod -R uploads
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+exit
+cd uploads/imports
+ls
+rm *
+sudo rm *
+ls
+clear
+exit
+CLKEAR
+clear
+git add .
+git commit -m "Add import dosen"
+git push
+clear
+git add .
+git commit -m "Add export mahasiswa"
+git push
+clear
+exut
+exit
+clear
+git add .
+git commit -m "Add download sample of import data"
+git push
+clear
+git add .
+git commit -m "Add hover effect in dropdown user menu"
+git push
+ckear
+clear
+exit
+cd uploads/imports
+sudo rm *
+clear
+exit
+cd uploads/bukti-kegiatan/
+sudo rm *
+clear
+exit
+clear
+git add .
+git commit -m "Change schedule multi class"
+git push
+clear
+git add .
+git commit -m "Fix show all jadwal"
+git push
+clear
+git add .
+git commit -m "Fix show berita acara -- query by jadwal model"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add template_helper"
+git push
+clear
+cd uploads/bukti-kegiatan/
+sudo rm *
+clear
+sudo rm *
+clear
+exit
+c;ear
+clear
+git add .
+git commit -m "Fix edit berita acara"
+git push
+clear
+git add .
+git commit -m "Add delete foto bukti kegiatan"
+git push
+clear
+ls
+cd uploads
+cd bukti-kegiatan/
+clear
+ls 
+sudo rm 8d34948115559b4edf3e9b60556b69ea.png 
+clear
+ls
+exit
+clear
+git add .
+git commit -m "Fix export pdf berita acara"
+git push
+clear
+git add .
+git commit -m "Fix overflow content in uraian materi"
+git push
+clear
+git add .
+git commit -m "Fix error at dashboard page"
+git push
+clear
+git add .
+git commit -m "Add verifikasi BAP by Mahasiswa"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix error detail dosen"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add verifikasi by Kaprodi"
+git push
+ckear
+clear
+exit
+clear
+git add .
+git commit -m "Refactor export BAP to excel"
+git push
+clear
+git add .
+git commit -m "Auto select dosen when in jadwal form"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Add total verified and unverified BAP"
+git push
+clear
+git add .
+git commit -m "Fix cetak + detail BAP"
+git push
+clear
+git add .
+git commit -m "Fix filtering in report"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Fix import mata kuliah"
+git push
+exit
+clear
+git add .
+clear
+git add .
+git commit -m "Fix error dashboard page when jadwal is empty"
+git push
+clear
+git add .
+git commit -m "Add update and delete mahasiswa"
+git push
+clear
+git add .
+git commit -m "Fix detail BAP in verifikasi"
+git push
+mysql -u root -p
+clear
+exit
+pa migrate --seed
+clear
+exit
+clear
+pa make:model Article -m
+c;ear
+clear
+pa migrate
+clear
+pa make:seeder ArticlesSeeder
+pa make:seeder UsersSeeder
+clear
+pa db:seed
+clear
+pa make:controller ArticleController
+clear
+pa make:controller ArticleController -r
+clear
+pa route:list
+clear
+pa make:migration --table=users add_api_token_to_users_table
+clear
+pa make:migration --table=users add_api_token_to_users_table
+clear
+pa migrate
+clear
+pa make:controller Auth/RegisterController
+composer require laravel/breeze
+clear
+composer require laravel/fortify
+clear
+composer uninstall laravel/fortify
+composer remove laravel/fortify
+composer remove laravel/breeze
+clear
+composer require laravel/ui
+clear
+pa auth
+clear
+pa ui:auth
+clear
+composer test
+CLEAR
+clear
+composer test
+clear
+pa 
+clear
+pa 
+pa make:factory --help
+pa make:factory ArticleFactory
+clear
+pa make:test Feature/RegisterTest
+pa make:test Feature/LogoutTest
+clear
+composer test
+clear
+composer test
+clear
+composer test
+clear
+composer test
+CLEAR
+clear
+composer test
+clcear
+clear
+composer test
+clear
+composer test
+clear
+composer test
+cler
+clear
+pa migrate --seed
+clear
+composer test
+clear
+git init
+git remote add origin git@github.com:ahanafi/laravel-restful-api.git
+git set remote-url git@github.com:ahanafi/laravel-restful-api.git
+git remote-url set git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url git@github.com:ahanafi/laravel-restful-api.git
+clear
+git add .
+git remote set-url git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+git remote set-url origin git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+git remote -set url --push git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url --push git@github.com:ahanafi/laravel-restful-api.git
+git remote set-url --push origin git@github.com:ahanafi/laravel-restful-api.git
+git remote -v
+clear
+git push
+git checkout
+clear
+git add .
+git commit -m "Initial commit"
+git push
+git push origin HEAD:main
+rm -rf .git
+clear
+git init
+git add .
+git commit -m "First commit"
+clear
+git branch -M main
+git remote add origin git@github.com:ahanafi/laravel-restful-api.git
+git push -u origin main
+clear
+git add .
+git commit -m "Change readme"
+git push
+exit
+heroku
+heroku apps
+exit
+git add .
+git commit -m "Add procfile"
+git push
+clear
+git push origin main
+pa key:generate
+clea
+clear
+heroku login
+clear
+git add .
+git commit -m "Fix procfile"
+git push
+cd /var/www/html/
+cd teaching-activity-app/
+clear
+git add .
+git commit -m "Change db files"
+git push
+clear
+git add .
+git commit -m "Update readme"
+git push
+git push origin main
+git checkout
+git push origin main
+git push
+cd /var/www/html/teaching-activity-app/
+clear
+git push
+exit
+php 01-max-min-array.php 
+clear
+php 01-max-min-array.php 
+clear
+php 01-max-min-array.php 
+clear
+php 02-unique-item-array.php 
+php 03-fibonacci-number.php 
+clear
+php 03-fibonacci-number.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 04-triangle-star.php 
+clear
+php 05-nds-test.php 
+clear
+php 05-nds-test.php 
+clear
+php 05-nds-test.php 
+php 05-nds-test.php
+clear
+composer install
+php -S localhost:8000
+CLEAR
+clear
+git init
+git add .
+git commit -m "Initial commit"
+clear
+git status
+git checkout
+clear
+git add .
+git commit -m "Initial commit"
+git push
+git remote add origin git@github.com:ahanafi/coding-interview.git
+git push
+git push origin main
+git branch -M main
+git remote add origin git@github.com:ahanafi/coding-interview.git
+git push
+git push --set-upstream origin main
+clear
+git rm -r --cached .idea
+git commit -m "Remove IDE Configuration"
+git push
+clear
+touch readme.md
+clear
+git add .
+git commit -m "Add readme"
+git push
+clear
+exit
+cd Code
+ls
+clear
+cd simpeg/
+php artisan serve
+exit
+clear
+pa serve
+cd /var/www/html
+git clone git@github.com:KhidirDotID/stisla-codeigniter.git
+cd stisla-codeigniter/
+clear
+exit
+clear
+git iit
+clear
+git init
+clear
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git remote add origin git@github.com:ahanafi/auth-face-recognition.git
+git push -u origin main
+clear
+git add .
+git commit -m "Add register user"
+git push
+clear
+git add .
+git commit -m "Change register to home uri"
+git push
+clear
+git add .
+git commit -m "Add data pendaftar in admin dashboard"
+git push
+clear
+git add .
+git commit -m "Add approve user"
+git push
+exit
+ping 8.8.8..8
+ping 8.8.8.8
+clear
+chmod -R 777 uploads
+chmod -R 777 uploads/
+clear
+git add .
+git commit -m "Add change user picture"
+git push
+clear
+git add .
+git commit -m "Add login pendaftar using face recognition"
+git push
+clear
+exit
+clear
+git add .
+git commit -m "Remove button login with username and password"
+git push
+clear
+exi
+exit
+clear
+git add .
+git commit -m "Remove google tag manager"
+git push
+clear
+ping 8.8.8.8.
+ping 8.8.8.8 
+clear
+ping 8.8.8.8 
+cd Desktop
+git clone git@github.com:ParthJT/CapturePhoto.git
+cd C
+cd CapturePhoto/
+clear
+php -S localhost:9000
+subl .
+cd ..
+rm -rf CapturePhoto/
+ls
+clear
+exit
+git add .
+git commit -m "Remove debugging data while update status pendaftar"
+git push
+clear
+git add .
+git commit -m "Fix logout user"
+git push
+clear
+chmod -R 777 uploads
+sudo chmod -R 777 uploads
+clear
+sudo chmod -R 777 uploads
+cd uploads
+ls
+cd pendaftar/
+rm -rf .
+rm -rf *
+clear
+rm -rf *
+clear
+rm -rf *
+clear
+git add .
+git commit -m "Add take picture from webcam"
+git push
+clear
+git push
+cd ..
+git add .
+git commit -m "Add take picture from webcam"
+git push
+clear
+git add .
+git commit -m "Add test autodeploy"
+git push
+clear
+git add .
+git commit -m "Fix update status penelitian"
+git push
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/simpeg-server.git
+git remote set-url git@github.com:ahanafi/simpeg-server.git --push
+git remote set-url --push git@github.com:ahanafi/simpeg-server.git
+git remote set-url --push origin git@github.com:ahanafi/simpeg-server.git
+git remote set-url --fetch origin git@github.com:ahanafi/simpeg-server.git
+clear
+git remote set-url --add origin git@github.com:ahanafi/simpeg-server.git
+git remove -v
+git remote -v
+git remote set-url --delete origin git@github.com:ahanafi/simpeg-server.git
+git remote -v
+git remote origin
+clear
+git remote remove origin
+git remote add origin git@github.com:ahanafi/simpeg-server.git
+git remote -v
+clear
+git add .
+git push
+git push --set-upstream origin master
+clear
+git add .
+git commit -m "Fix error halaman kasbon (kasbon.export) "
+git push
+clear
+git add .
+git commit -m "Add pengabdian menu in keuangan"
+git push
+clear
+git add .
+git commit -m "Change return back link with js"
+git push
+clear
+exit

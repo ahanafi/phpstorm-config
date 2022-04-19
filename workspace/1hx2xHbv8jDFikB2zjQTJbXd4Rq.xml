@@ -1,0 +1,681 @@
+<project version="4">
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my-finance-app" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my-finance-app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my-finance-app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kaaawin_spk_fajar: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my-finance-app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kaaawin_spk_fajar: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="detail_proforma_invoice: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="my-finance-app" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="kaaawin_spk_fajar: schema" type="76f4a085:MysqlImplModel$Schema" />
+        <item name="transaksi: table" type="285a2a93:MysqlImplModel$Table" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>NOT COMP</find>
+      <find>vector</find>
+      <find>jvec</find>
+      <find>jenis_spk</find>
+      <find>showD</find>
+      <find>&lt;button type=&quot;button&quot; class=&quot;btn btn-info btn-sm&quot;</find>
+      <find>include '../db-config.php';</find>
+      <find>class=&quot;btn btn-info</find>
+      <find>surat_jalan</find>
+      <find>surat</find>
+      <find>require_once('../library/dompdf/dompdf_config.inc.php');</find>
+      <find>tanggal_indonesia</find>
+      <find>kategori</find>
+      <find>NOT COMPLETE</find>
+      <find>SURAT_JALAN</find>
+      <find>id='datepicker</find>
+      <find>div class=&quot;box-header&quot;</find>
+      <find>NOT CO</find>
+      <find>getJenisB</find>
+      <find>No data found in the server</find>
+      <find>sub_kate</find>
+      <find>kategroi</find>
+      <find>&lt;?php if($_SESSION['user_level'] === 'administrator'): ?&gt;</find>
+      <find>transaks</find>
+      <find>; ?&gt;</find>
+      <find>Hide</find>
+      <find>adalah</find>
+      <find>nomor_po</find>
+      <find>pesanan</find>
+      <find>pesan</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>'italic'</replace>
+      <replace>'</replace>
+      <replace>class=&quot;btn btn-danger&quot;&gt;Hapus&lt;/a&gt;</replace>
+      <replace>tanggal_pi</replace>
+      <replace>&lt;button type=&quot;button&quot; class=&quot;btn btn-primary btn-sm&quot;</replace>
+      <replace>require_once(&quot;../core/init.php&quot;);</replace>
+      <replace>class=&quot;btn btn-primary</replace>
+      <replace>require_once('../vendor/autoload.php');</replace>
+      <replace>tanggalIndonesia</replace>
+      <replace>INCOMPLETE</replace>
+      <replace>pemesan</replace>
+      <replace>div class=&quot;box-header with-border&quot;</replace>
+      <replace>Data tidak ditemukan.</replace>
+      <replace>&lt;?php if($_SESSION['level'] === 'administrator'): ?&gt;</replace>
+      <replace>?&gt;</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$</dir>
+      <dir>$PROJECT_DIR$/assets/pages</dir>
+      <dir>$PROJECT_DIR$/admin</dir>
+    </dirStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/admin/get-detail-hutang.php" />
+        <option value="$PROJECT_DIR$/admin/hutang.php" />
+        <option value="$PROJECT_DIR$/admin/hutang_bayar.php" />
+        <option value="$PROJECT_DIR$/admin/pembayaran_hutang.php" />
+        <option value="$PROJECT_DIR$/admin/fetch-pembayaran-hutang.php" />
+        <option value="$PROJECT_DIR$/admin/fetch-transaksi.php" />
+        <option value="$PROJECT_DIR$/admin/fetch-proforma-invoice.php" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/41658f5a-a8ec-485f-bcdc-2003d5560668/console.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3d1003f1-21df-41ed-bb0f-9032bbea74be/console_28.sql" />
+        <option value="$APPLICATION_CONFIG_DIR$/consoles/db/3d1003f1-21df-41ed-bb0f-9032bbea74be/console_29.sql" />
+        <option value="$PROJECT_DIR$/test.php" />
+        <option value="$PROJECT_DIR$/assets/custom.js" />
+        <option value="$PROJECT_DIR$/admin/user_tambah.php" />
+        <option value="$PROJECT_DIR$/admin/user_edit.php" />
+        <option value="$PROJECT_DIR$/admin/user.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/admin/sidebar.php" />
+        <option value="$PROJECT_DIR$/admin/header.php" />
+        <option value="$PROJECT_DIR$/admin/pengesub.php" />
+        <option value="$PROJECT_DIR$/admin/pemesan.php" />
+        <option value="$PROJECT_DIR$/admin/jenis_spk.php" />
+        <option value="$PROJECT_DIR$/admin/kategori.php" />
+        <option value="$PROJECT_DIR$/admin/sub_kategori.php" />
+        <option value="$PROJECT_DIR$/admin/surat-jalan.php" />
+        <option value="$PROJECT_DIR$/assets/pages/transaksi.js" />
+        <option value="$PROJECT_DIR$/assets/pages/hutang.js" />
+        <option value="$PROJECT_DIR$/assets/pages/pembayaran-hutang.js" />
+        <option value="$PROJECT_DIR$/admin/bank.php" />
+        <option value="$PROJECT_DIR$/admin/barang.php" />
+        <option value="$PROJECT_DIR$/admin/transaksi.php" />
+        <option value="$PROJECT_DIR$/admin/download-template.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/admin/input_pi.php" />
+        <option value="$PROJECT_DIR$/admin/detail_pi.php" />
+        <option value="$PROJECT_DIR$/core/db-function.php" />
+        <option value="$PROJECT_DIR$/admin/get-all-item.php" />
+        <option value="$PROJECT_DIR$/assets/pages/proforma-invoice.js" />
+        <option value="$PROJECT_DIR$/admin/edit_pi.php" />
+        <option value="$PROJECT_DIR$/admin/get-pi-fob-item.php" />
+        <option value="$PROJECT_DIR$/admin/spk-fob-input.php" />
+        <option value="$PROJECT_DIR$/admin/get-detail-pi.php" />
+        <option value="$PROJECT_DIR$/admin/footer.php" />
+        <option value="$PROJECT_DIR$/assets/pages/spk-fob.js" />
+        <option value="$PROJECT_DIR$/admin/spk_fob_detail.php" />
+        <option value="$PROJECT_DIR$/admin/cetak-per-spk.php" />
+        <option value="$PROJECT_DIR$/admin/cetak-transaksi-spk.php" />
+        <option value="$PROJECT_DIR$/admin/spk_input_transaksi.php" />
+        <option value="$PROJECT_DIR$/admin/get-detail-spk.php" />
+        <option value="$PROJECT_DIR$/assets/pages/spk.js" />
+        <option value="$PROJECT_DIR$/admin/spk_detail.php" />
+        <option value="$PROJECT_DIR$/admin/hutang_act.php" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="27" width="1920" height="1053" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="my-finance" type="b2602c69:ProjectViewProjectNode" />
+              <item name="my-finance" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <option name="contentProportion" value="0.13441734" />
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="my-finance-app: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="mySelectedTabIndex" value="-1" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="329742000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18836713" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" weight="0.32977587" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" weight="0.32924107" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.8113839" />
+      <window_info anchor="bottom" id="Problems View" order="4" weight="0.32924107" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="Duplicates" order="6" weight="0.32924107" />
+      <window_info anchor="bottom" id="TODO" order="7" />
+      <window_info anchor="bottom" id="Inspection" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.4760312" />
+      <window_info anchor="bottom" id="Services" order="10" show_stripe_button="false" weight="0.55022323" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="11" />
+      <window_info anchor="bottom" id="TypeScript" order="12" />
+      <window_info anchor="bottom" id="Flow" order="13" />
+      <window_info anchor="bottom" id="Database Changes" order="14" weight="0.32924107" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Database" order="1" weight="0.2561366" />
+      <window_info anchor="right" id="Laravel Tinker" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/admin/sidebar.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="207">
+          <caret line="296" column="12" selection-start-line="296" selection-start-column="12" selection-end-line="296" selection-end-column="69" />
+          <folding>
+            <element signature="n#ul#0;n#li#9;n#ul#0;n#section#0;n#aside#0;n#!!top" />
+            <element signature="n#li#10;n#ul#0;n#section#0;n#aside#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/fetch-proforma-invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="788">
+          <caret line="78" column="5" selection-start-line="78" selection-start-column="5" selection-end-line="78" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barang_hapus.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barang_tambah.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="74" column="84" selection-start-line="74" selection-start-column="84" selection-end-line="74" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pengesub.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="360" lean-forward="true" selection-end-line="412" selection-end-column="30" />
+          <folding>
+            <element signature="e#17235#20310#0#HTML" />
+            <element signature="e#15931#15938#1#HTML" expanded="true" />
+            <element signature="e#16350#16389#0#HTML" expanded="true" />
+            <element signature="e#17477#17495#0#HTML" expanded="true" />
+            <element signature="e#17811#17851#0#HTML" expanded="true" />
+            <element signature="e#18464#18484#0#HTML" expanded="true" />
+            <element signature="e#18800#18840#0#HTML" expanded="true" />
+            <element signature="e#19018#19038#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/pemesan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="403" column="55" selection-end-line="455" selection-end-column="30" />
+          <folding>
+            <element signature="e#20327#23140#0#HTML" />
+            <element signature="e#17100#17107#1#HTML" expanded="true" />
+            <element signature="e#17519#17558#0#HTML" expanded="true" />
+            <element signature="e#18200#18218#0#HTML" expanded="true" />
+            <element signature="e#18534#18573#0#HTML" expanded="true" />
+            <element signature="e#19506#19524#0#HTML" expanded="true" />
+            <element signature="e#19840#19880#0#HTML" expanded="true" />
+            <element signature="e#20473#20493#0#HTML" expanded="true" />
+            <element signature="e#20809#20849#0#HTML" expanded="true" />
+            <element signature="e#21466#21486#0#HTML" expanded="true" />
+            <element signature="e#21729#21769#0#HTML" expanded="true" />
+            <element signature="e#21947#21967#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/jenis_spk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="190" column="63" selection-end-line="261" selection-end-column="30" />
+          <folding>
+            <element signature="e#5715#5722#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/sub_kategori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="802">
+          <caret line="194" column="63" selection-end-line="271" selection-end-column="30" />
+          <folding>
+            <element signature="e#9507#9514#1#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/surat-jalan.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="76" column="48" selection-start-line="76" selection-start-column="48" selection-end-line="76" selection-end-column="100" />
+          <folding>
+            <element signature="e#4191#6750#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/pembayaran-hutang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="47" column="45" lean-forward="true" selection-start-line="47" selection-start-column="45" selection-end-line="47" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/hutang.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="54" column="41" selection-start-line="54" selection-start-column="41" selection-end-line="54" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/transaksi.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="32" column="41" selection-start-line="32" selection-start-column="41" selection-end-line="32" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/bank.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/bank.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="256">
+          <caret line="124" column="66" selection-start-line="124" selection-start-column="66" selection-end-line="124" selection-end-column="66" />
+          <folding>
+            <element signature="e#10170#10177#1#HTML" expanded="true" />
+            <element signature="e#8735#15318#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://3d1003f1-21df-41ed-bb0f-9032bbea74be/schema/kaaawin_spk_fajar/table/barang">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="6212a41c-eb9b-4e53-a994-04418e5b4ab5" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/bower_components/ckeditor/lang/tr.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/laporan-pi-excel.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/kategori.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2418">
+          <caret line="93" column="68" selection-start-line="93" selection-start-column="68" selection-end-line="93" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/kategori_act.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://3d1003f1-21df-41ed-bb0f-9032bbea74be/schema/kaaawin_spk_fajar/table/transaksi">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state presentationMode="TABLE" projectRestartId="6212a41c-eb9b-4e53-a994-04418e5b4ab5" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/bank_act.php">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/barang.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="70" column="45" lean-forward="true" selection-start-line="70" selection-start-column="45" selection-end-line="70" selection-end-column="45" />
+          <folding>
+            <element signature="e#69#110#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/download-template.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="53" selection-start-line="3" selection-start-column="53" selection-end-line="3" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="9" selection-start-line="3" selection-start-column="9" selection-end-line="3" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/db-config.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/transaksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="229" column="53" lean-forward="true" selection-start-line="229" selection-start-column="53" selection-end-line="229" selection-end-column="53" />
+          <folding>
+            <element signature="e#69#1642#0#PHP" />
+            <element signature="e#1644#1684#0#PHP" expanded="true" />
+            <element signature="e#1728#8010#0#PHP" />
+            <element signature="e#9117#9140#0#HTML" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/proforma_invoice.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-858" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/method.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit_pi.bak.php" />
+    <entry file="file://$PROJECT_DIR$/admin/detail_pi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="429">
+          <caret line="26" selection-start-line="26" selection-end-line="32" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/core/db-function.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="78">
+          <caret line="3" column="23" selection-start-line="3" selection-start-column="23" selection-end-line="3" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/input_pi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-3175">
+          <caret line="51" column="28" selection-start-line="51" selection-start-column="28" selection-end-line="51" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="44" column="9" selection-start-line="44" selection-start-column="9" selection-end-line="44" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/get-all-item.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="572">
+          <caret line="28" column="70" selection-start-line="28" selection-start-column="70" selection-end-line="28" selection-end-column="70" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/edit_pi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="208">
+          <caret line="65" selection-start-line="65" selection-end-line="65" />
+          <folding>
+            <element signature="e#0#254#2" />
+            <element signature="e#0#206#2" />
+            <element signature="e#1008#1217#0#PHP" />
+            <element signature="e#7851#19888#0#HTML" />
+            <element signature="e#9228#11051#0#HTML" />
+            <element signature="e#32598#34254#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/proforma-invoice.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="542" column="78" selection-start-line="542" selection-start-column="78" selection-end-line="542" selection-end-column="78" />
+          <folding>
+            <element signature="n#!!block;n#toggleCheck#0" />
+            <element signature="e#1496#1601#0" />
+            <element signature="n#!!block;n#removeLastItem#0" />
+            <element signature="e#2051#2363#0" />
+            <element signature="e#2387#6618#0" />
+            <element signature="n#!!block;n#cekTanggal#0" />
+            <element signature="n#!!block;n#updateDeposit#0" />
+            <element signature="n#!!block;n#validateDeposit#0" />
+            <element signature="n#!!block;n#hitungGrandTotal#0" />
+            <element signature="n#!!block;n#hitungGrandTotalQty#0" />
+            <element signature="n#!!block;n#hitungGrandTotalCBM#0" />
+            <element signature="n#!!block;n#loadSelect2#0" />
+            <element signature="n#!!block;n#updateQty#0" />
+            <element signature="n#!!block;n#updateCbm#0" />
+            <element signature="e#11541#11722#0" />
+            <element signature="n#!!block;n#hitungSubTotal#0" />
+            <element signature="n#!!block;n#hitungSubTotalCBM#0" />
+            <element signature="e#12799#18394#0" />
+            <element signature="e#18425#18820#0" />
+            <element signature="n#!!block;n#getMataUang#0" />
+            <element signature="e#19113#19230#0" />
+            <element signature="n#!!block;n#removeLastFobItem#0" />
+            <element signature="n#!!block;n#hitungSubTotalFobItem#0" />
+            <element signature="n#!!block;n#hitungGrandTotalFobItem#0" />
+            <element signature="n#!!block;n#updateQtyFobItem#0" />
+            <element signature="n#!!block;n#hitungGrandTotalQtyFobItem#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/get-pi-fob-item.php" />
+    <entry file="file://$PROJECT_DIR$/admin/get-detail-pi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="26" column="60" selection-start-line="26" selection-start-column="60" selection-end-line="26" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/spk_fob_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="55">
+          <caret line="153" column="83" selection-start-line="153" selection-start-column="83" selection-end-line="153" selection-end-column="83" />
+          <folding>
+            <element signature="e#3318#4736#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/spk-fob-input.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3796">
+          <caret line="276" column="63" selection-start-line="276" selection-start-column="63" selection-end-line="276" selection-end-column="63" />
+          <folding>
+            <element signature="e#9869#11388#0#HTML" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="777">
+          <caret line="400" column="28" selection-start-line="400" selection-start-column="28" selection-end-line="400" selection-end-column="28" />
+          <folding>
+            <element signature="e#244#1379#0#HTML" />
+            <element signature="e#4542#10353#0#HTML" />
+            <element signature="e#10591#13279#0#HTML" />
+            <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#13339#14387#0#HTML" />
+            <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#select#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/spk-fob.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="32" column="42" selection-start-line="32" selection-start-column="42" selection-end-line="32" selection-end-column="42" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="e#2218#2759#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/cetak-per-spk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="49">
+          <caret line="206" column="44" lean-forward="true" selection-start-line="206" selection-start-column="44" selection-end-line="206" selection-end-column="44" />
+          <folding>
+            <element signature="n#style#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/cetak-transaksi-spk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="725">
+          <caret line="56" column="38" lean-forward="true" selection-start-line="56" selection-start-column="38" selection-end-line="56" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/surat-jalan.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="9" selection-start-column="9" selection-end-column="9" />
+          <folding>
+            <element signature="n#style#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/get-detail-spk.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="137" column="5" selection-start-line="137" selection-start-column="5" selection-end-line="137" selection-end-column="5" />
+          <folding>
+            <element signature="e#300#4944#0#PHP" />
+            <element signature="e#1118#1620#0#PHP" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/pages/spk.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="77">
+          <caret line="196" column="29" selection-start-line="196" selection-start-column="29" selection-end-line="196" selection-end-column="29" />
+          <folding>
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#input#0;n#td#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/spk_input_transaksi.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="215" column="66" lean-forward="true" selection-start-line="215" selection-start-column="66" selection-end-line="215" selection-end-column="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/spk_detail.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="296" column="84" selection-start-line="296" selection-start-column="84" selection-end-line="296" selection-end-column="84" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/admin/hutang_act.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="413">
+          <caret line="25" selection-start-line="25" selection-end-line="25" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

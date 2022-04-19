@@ -1,0 +1,1 @@
+DELETE FROM users WHERE level != 'ACADEMIC_STAFF';

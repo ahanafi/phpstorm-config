@@ -1,0 +1,1000 @@
+git commit -m "Add package.json"
+git push origin master
+clear
+git lfs uninstall
+git lfs uninit
+clear
+git add .
+git commit -m "Removed files uploaded by LFS"
+git push origin master
+clear
+git add .
+git commit -m "Remove git lfs"
+git push origin master
+aclear
+clear
+git add .
+git commit -m "Fix typo package.json"
+git push origin master
+clear
+npm start
+clear
+npm i pg
+npm i pg --save
+clear
+exit
+clear
+adonis migration:run
+clear
+adonis migration:run
+clear
+adonis migration:run
+clear
+adonis migration:run
+adonis migration:runclear
+clear
+adonis migration:run
+clear
+adonis migration:run
+clear
+adonis 
+adonis seed
+clear
+adonis seed
+clear
+adonis serve --dev
+clear
+git add .
+git commit -m "Test connection using postgresql"
+git push origin master
+pa make:controller Leader/Determination/SupervisorController
+pa make:controller Leader/Determination/TrialExaminerController
+pa make:controller Leader/Determination/SeminarExaminerController
+clear
+pa routes:pretty
+pa route:pretty
+pa route:pretty --group=name
+pa route:pretty --group=path
+clear
+pa route:pretty --group=path
+clear
+composer require barryvdh/laravel-debugbar --dev
+clear
+git add .
+git commit -m "Add determination supervisor of thesis page"
+git push origin main
+clear
+git add .
+git commit -m "Add import science fields"
+git push origin main
+clear
+exit
+clear
+exit
+clear
+sudo apt-get install postgresql
+clear
+sudo apt-get install postgresql
+sudo -i -u postgres
+apt install pgsql
+sudo apt install pgsql
+apt install pgadmin4
+sudo apt install pgadmin4
+clear
+sudo apt install pgadmin
+apt install postgresql-contrib pgadmin
+apt install postgresql-contrib
+apt install postgresql-contrib pgadmin3
+sudo su
+exit
+cd Code/
+cd smart-attendance-systme
+cd smart-attendance-system
+adonis serve --dev
+exit
+pa make:controller AcademicStaff/LecturerCompetencyController
+clear
+exit
+git add .
+git commit -m "Add relation lecturer-competency (science field)"
+git push origin main
+clear
+pa make:controller Lecturer/ProfileController
+pa make:controller Lecturer/CompetencyController
+clear
+pa make:migration update_lecturer_competencies_table --table=lecturer_competencies
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+clear
+git add .
+git commit -m "Add profile page in lecturer and fix relation lecturer-science fields"
+git push origin main
+clear
+sudo su
+exit
+cd Downloads
+ls
+ls | grep deb
+clear
+ls | grep deb
+sudo dpkg -i vivaldi-stable_4.0.2312.27-1_amd64.deb
+clear
+cd ../Code/grayweb
+pa serve
+exit
+clear
+npm run start-dev
+clear
+npm run start-dev --port=9000
+clear
+npm run start-dev
+clear
+terminal
+clear
+npm run start-dev
+exit
+pa serve
+sudo su
+exit
+pa make:seeder AssessmentComponentSeeder
+pa db:seed --class=AssessmentComponentSeeder
+pa make:seeder ThesisRequirementSeeder
+pa db:seed --class=ThesisRequirmentSeeder
+pa db:seed --class=ThesisRequirementSeeder
+exot
+exit
+clear
+git add .
+git commit -m "Fix import data student and lecturer, added thesis requirement seeder, assessment comp. seeder"
+git push origin main
+exit
+lspci
+exit
+ls
+cd Code
+ls
+cd WebstormProjects
+ls
+cd ../WebstormProjects
+ls
+cd go-quotes
+ls
+npm run dev
+clear
+cat package.json
+npm run start-dev
+clear
+cd ../../Desktop
+git clone https://github.com/labsan/dicoding-resthunter-app.git
+cd dicoding-resthunter-app
+npm i
+ls
+clear
+cat package.json
+npm run start-dev
+subl package.json
+npm run start-dev
+cd ..
+subl .
+cd dicoding-resthunter-app
+subl 
+subl .
+exit
+npm start-dev
+npm run start-dev
+clear
+npm i
+npm run start-dev
+clear
+npm run start-dev
+clear
+npm i file-loader
+npm uninstall file-loader
+npm i file-loader --dev
+clear
+npm run start-dev
+clear
+npm run start-dev
+screencopy
+pa make --help
+clear
+pa make:rule CaptchaRule
+clear
+git add .
+git commit -m "Add google recaptha validation in login form"
+git push origin main
+sudo su
+cd Desktop
+clear
+mkdir test-swal && cd test-swal
+touch index.php home.php
+subl .
+php -S localhost:3200
+cd ..
+clear
+ls
+rm -rf test-swal
+ls
+exit
+screencopy
+exit
+adb
+clear
+fastboot
+sudo su
+fastboot devices
+exit
+clear
+npm run start-dev
+npm i html-loader
+clear
+ping 8.8.8.8
+clear
+npm i html-loader
+clear
+npm install html-loader
+npm install lodas
+npm remove lodas
+clear
+npm run start-dev
+fastboot devices
+fastboot flash recovery twrp.img
+fastboot boot twrp.img
+reboot
+npm run start-dev
+sudo su
+exit
+cd Code
+ls
+cd ../Desktop
+ls
+cd Example
+mkdir Example
+cd Example
+git clone https://github.com/deanufriana/sistem_skripsi.git
+cd sistem_skripsi
+php -S localhost:9000
+ls
+cd application
+ls
+cd config
+ls
+subl database.php
+cd ../../
+php -S localhost:9000
+exit
+npm run start-dev
+clear
+npm run start-dev
+cd Code
+mkdir movie-catalogue.
+ls -l
+mv movie-catalogue movie-catalogue
+mv movie-catalogue. movie-catalogue
+code movie-catalogue
+exit
+npm init
+clear
+npm i
+clear
+npm i
+clear
+npx eslint --init
+cledar
+clear
+touch webpack.common.js webpack.dev.js webpack.prod.js
+clear
+npm run start-dev
+exit
+cd COde
+cd Code
+cd smart-attendance-system
+adonis --help
+adonis serve --dev
+code .
+adonis serve --dev
+clear
+adonis serve --dev
+exit
+ngrok --help
+ngrok http 3333
+exit
+psql
+pgsql
+psql
+matikan
+clear
+git add .
+git commit -m "Change config db for testing"
+git push origin main
+git push origin master
+clear
+git add .
+git commit -m "Change base url"
+git push origin master
+clear
+git add .
+git commit -m "Change session path to db"
+git push origin master
+clear
+composer require dompdf/dompdf
+clear
+git add .
+git commit -m "Upgrade library dompdf and change dynamic base_url"
+git push origin master
+clear
+git add .
+git commit -m "Dynamic db config and base url"
+git push origin master
+clear
+git add .
+git commit -m "Check base url"
+git push origin master
+git add .
+git commit -m "Check server variabel"
+git push origin master
+clear
+git add .
+git commit -m "Fix dynamic base url"
+git push origin master
+clear
+git add .
+git commit -m "Fix route login user"
+git push origin master
+cd Code/kang
+npm run start-dev
+exit
+npm run start-dev
+npm i
+celar
+clear
+npm run start
+npm run start-dev
+npm install serviceworker-webpack-plugin
+npm install html-webpack-plugin copy-webpack-plugin
+npm install html-webpack-plugin copy-webpack-plugin --dv
+npm install html-webpack-plugin copy-webpack-plugin --dev
+clear
+npm i
+npm run start-dev
+clear
+npm run start-dev
+npm i idb
+pa make:model Berita -mcr
+clear
+pa make:migration add_jenis_kategori_to_kategori --table=kategori
+ce;ar
+clear
+pa migrate
+clear
+pa migrate
+exit
+clear
+git add .
+git commit -m "Split artikel dan berita"
+git push origin master
+pa make:controller Front/BeritaController
+clear
+pa make:migration add_thumbnail_to_berita --table=berita
+pa migrate
+clear
+git add .
+git commit -m "Fix split berita - artikel && add thumbnail to berita"
+git push origin master
+npm run start-dev
+clear
+npm run start-dev
+npm run dev
+npm run build
+clear
+cd Desktop
+ls
+cd dicoding-resthunter-app
+npm run start-dev
+clear
+exit
+pa serve
+clear
+exit
+cd Code
+git clone https://github.com/neoighodaro/laravel-pusher-web-notifications.git
+cd laravel-pusher-web-notifications
+composer update
+clear
+mv .env.example .env
+cat .env
+clear
+code .
+cd ../
+git clone https://github.com/SinghDigamber/laravel_web_push_notification.git
+exot
+exit
+celar
+clear
+git add .
+git commit -m "update 25 jun 2021"
+git push origin master
+exit
+npm install eslint --save-dev
+npx eslint --init
+exit
+npm install serviceworker-webpack-plugin
+clear
+npm i
+npm run lint
+exit
+npm i idb
+exit
+npm run lint
+npx eslint --init
+clear
+npm run lint
+clear
+npm run start-dev
+clear
+npm run start-dev
+cd Code
+ls
+cd movie-catalogue
+npm run start-dev
+cd ../kang
+npm run start-dev
+subl .
+matikan
+npm run start-dev
+cd ../Code/kang
+cd Code/kang
+npm run start-dev
+cd ../movie-catalogue
+npm run start-dev
+adonis serve --dev
+clear
+adonis migration run
+adonis --help
+adonis 
+adonis seed
+adonis key:generate
+adonis serve --dev
+clar
+clear
+adonis --help
+adonis migration:refresh
+adonis migration:run
+clear
+adonis migration:run
+adonis db:seed
+adonis seed
+clera
+clear
+git add .
+git commit -m "Change db connection to mysql"
+git push origin master
+clear
+adonis serve --dev
+clear
+pa make:migration add_button_link_to_slider --table=slider
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add link and button text to slider"
+git push origin master
+clear
+ssh-keygen -t rsa -b 4096 -C "Contaminated007@gmail.com"
+ls
+ls -a
+cat ahanafi.pub
+ls
+clear
+ls
+cat .env
+clear
+matikan
+cd Code/grayweb
+pa serve
+clear
+pa serve
+ping 8.8.8.8
+heroku login
+npm run start-dev
+cd Code/kang
+subl ~/.bashrc
+source ~/.bashrc
+clear
+nrun start-dev
+cd ../../Desktop
+git clone git@github.com:gunalirezqimauludi/dicoding-submission-mfwde.git
+git clone https://github.com/gunalirezqimauludi/dicoding-submission-mfwde.git
+cd dicoding-submission-mfwde
+nrun start-dev
+ni
+nrun start-dev
+subl .
+nrun start-dev
+exit
+git ini
+git init
+git add .
+git commit -m "First commit"
+git remote add origin git@github.com:ahanafi/eaten-it.git
+git push -u origin main
+git push
+git push --set-upstream origin master
+touch readme.md
+git add .
+git commit -m "Added readme"
+git push
+#add 'node_modules' to .gitignore file
+git rm -r --cached node_modules
+git commit -m 'Remove the now ignored directory node_modules'
+git push
+ls -al ~/.ssh
+ssh-keygen -t rsa -b 4096 -C ahanafi.id@gmail.com
+eval "$(ssh-agent -s)"
+ssh-add ~/.ssh/id_rsa
+cat ~/.ssh/id_rsa.pub # Linux
+ssh -T git@github.com
+exit
+exit
+mysql -u root -p
+exit
+clear
+git add .
+git commit -m "Fix thesis req and thesis submission"
+git push 
+git push --set-upstream origin main
+clear
+pa migrate
+ckear
+clear
+pa migrate
+pa migrate --refresh
+pa migrate:refresh
+clear
+pa migrate
+clear
+pa migrate
+clear
+pa db:seed
+clear
+exit
+clear
+git add .
+git commit -m "Fix re-structure relation tables"
+git push origin main
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/thesis-management-system.git
+git remote set-url origin git@github.com:ahanafi/thesis-management-system.git
+git remote -v
+clear
+exit
+git add .
+git commit -m "Fix update student && lecturer in gender"
+git push origin main
+clear
+pa migrate:refresh
+pa db:seed
+clear
+git add .
+git commit -m "Fix thesis req. and guidance table relation"
+git push origin main
+clear
+git add .
+git commit -m "Add status for submission of thesis requirements"
+git push
+clear
+pa make:component StudentInfo
+exit
+nrun start-dev
+clear
+nrun start-dev
+clear
+nrun start-dev
+clear
+git add .
+git commit -m "Convert jumbotron to custom element (hero element"
+git push
+exit
+nrun start-dev
+clear
+nrun start-dev
+c;ear
+clear
+nrun build
+nrun start-dev
+screencopy
+pa make:component StudentInfo
+screencopy
+cd Code/movie-catalogue
+nrun start-dev
+cd ../kang
+nrun start-dev
+clear
+git add .
+git commit -m "Add customer reviews"
+git push
+nrun start-dev
+cear
+clear
+git add .
+git commit -m "Add responsive in detail resto"
+git push
+cd Code/kang
+nrun start-dev
+matikan
+ssh -p22 fajarrat@202.52.146.45
+exit
+exit
+cd COde
+cd Code
+git clone git@github.com:aRhez0903/Laravel-8-Livewire-CoreUI-Datatables.git
+cd Laravel-8-Livewire-CoreUI-Datatables
+composer install
+ni
+npm run dev
+clear
+cp .env.example .env
+php artisan key:generate
+vi .env
+clear
+pa migrate:fresh --seed
+pa serve --port=9800
+cd ..
+rm -rf Laravel-8-Livewire-CoreUI-Datatables
+clear
+git add .
+git commit -m "Change laravel file manager config"
+git push
+php -S localhost:7000
+exit
+composer require guzzlehttp/guzzle
+git add .
+git commit -m "Fix instagram feed"
+git push
+cd Desktop
+mkdir instagram-test
+cd instagram-test
+subl .
+php -S localhost:8080
+php -S localhost:7000
+clear
+composer require raiym/instagram-php-scraper
+php -S localhost:7000
+eix
+cd ..
+rm -rf instagram-test
+exit
+git add .
+git commit -m "Fix instagram feed detail at kontak"
+git push
+clear
+composer require spatie/laravel-analytics
+php artisan --version
+composer update
+clear
+composer update
+clear
+git add .
+git commit -m "Upgrade laravel version 5.8 to 6.x, fix short link url"
+git push
+clear
+composer require spatie/laravel-analytics
+php artisan vendor:publish --provider="Spatie\Analytics\AnalyticsServiceProvider"
+clear
+exit
+pa serve
+exit
+pa serve --port=6800
+cd Desktop
+composer create-project laravel/laravel analytic-test
+cd analytic-test
+clear
+composer require spatie/laravel-analytics
+composer require spatie/laravel-analytics --with-all-dependencies
+php artisan vendor:publish --provider="Spatie\Analytics\AnalyticsServiceProvider"
+code .
+clear
+cd ..
+ls
+git clone git@github.com:Edgar2031/denta-admin.git
+cd denta-admin
+mysql -u root -p
+clear
+cp .env.example .env
+subl
+code .
+php artisan migrate --seed
+composer install
+php artisan migrate --seed
+php artisan migrate:refresh --seed
+pa serve
+pa key:generate
+pa serve
+cd ..
+rm -rf denta-admin
+cd storage
+ls
+cd ap
+cd pp
+cd app
+ls
+chmod -R 777 analytics
+exit
+exit
+composer require anhskohbo/no-captcha
+php artisan vendor:publish --provider="Anhskohbo\NoCaptcha\NoCaptchaServiceProvider"
+clear
+composer --help
+clear
+composer
+composer remove biscolab/laravel-recaptcha
+clear
+git add .
+git commit -m "Change recaptcha package"
+git push
+clear
+git add .
+git commit -m "Refactor routing (split by user role), add download proposal of thesis"
+git push
+ph migrate:rollback --step=4
+pa migrate:rollback --step=4
+pa migrate:rollback --step=1
+pa migrate
+clear
+git add .
+git commit -m "Fix submit response of thesis submission and fix thesis table's structure"
+git push
+clear
+git add .
+git commit -m "Refactor theses to thesis at model and controller, add detail thesis"
+git push
+git init
+touch .gitignore
+npm i
+clear
+git add .
+git commit -m "First commit"
+git branch -M main
+git remote add origin git@github.com:ahanafi/dicoding-movie-fe-expert-testing.git
+git push -u origin main
+touch readme.md
+clear
+git add .
+git commit -m "Add readme"
+git push
+git commit -m "Add first table of content"
+git add 
+git add .
+git commit -m "Add first table of content"
+git push
+npm run start-dev
+clear
+npm run test
+exit
+git add .
+git commit -m "Kutangkap Bugs Dengan Jaringan Pengaman"
+git push
+git add .
+git commit -m "Ketika Pikiranku Berubah"
+git push
+clear
+git add ,
+git commit -m "Fix failed testing -- add movie to favorite when it has no id"
+git add .
+git commit -m "Fix failed testing -- add movie to favorite when it has no id"
+git push
+clear
+git add .
+git commit -m "Jagalah kebersihan a.k.a Refactor"
+git push
+clear
+git add .
+git commit -m "Yang Mengikat Kita"
+git push
+git add .
+git commit -m "Berkolaborasi dengan Benar"
+git push
+git add .
+git commit -m "Membangun Fitur Menggunakan TDD"
+git push
+clear
+git add .
+git commit -m "Jangan Bertele-tele"
+git push
+cd Code/movie-catalogue-testing
+npm run test
+clear
+npm run test
+exit
+nrun start-dev
+clear
+nrun start-dev
+exit
+exit
+npx eslint ./src
+clear
+npx eslint ./src
+nrun start-dev
+exit
+nrun start-dev
+[A
+nrun start-dev
+clear
+npx eslint ./src
+npm run build
+nrun start-dev
+clear
+git add .
+git commit -m "Update kriteria yang belum terpenuhi"
+git push
+pa make:controller Lecturer/DataSetController
+clear
+pa pretty:route
+pa route:pretty
+clear
+pa make:model DataSet -m
+pa migrate
+clear
+npm run dev
+pa view:clear
+git add .
+git commit -m "Fix error str_slug -- convert to Str::slug"
+git push
+clear
+git add .
+git commit -m "Fix update kategori"
+git push
+clear
+git remote --help
+clear
+git remote -v
+git remote set-url git@github.com:ahanafi/grayweb.git
+git remote set-url origin git@github.com:ahanafi/grayweb.git
+git remote -v
+clear
+exit
+cd Code/grayweb
+php artisan down
+php artisan up
+cd ../../Desktop
+git clone git@github.com:suhasrkms/push-notification.git
+cd push-notification && composer install
+ckear
+clear
+mysql -u root -p
+cp .env .env.example
+cp .env.example .env
+vi .env
+code .
+pa migrate
+pa serv
+cd ,,
+cd ..
+rm -rf push-notification
+exit
+git add .
+git commit -m "Fix show category by type"
+git push
+clear
+git add .
+git commit -m "Add onesignal push notification"
+git push
+clear
+git add .
+git commit -m "Force redirect to https"
+git push
+clear
+composer require laravel-notification-channels/onesignal
+clear
+git add .
+git commit -m "Add push notif when posted new article test"
+git push
+pa serve
+clear
+git add .
+git commit -m "Add import data sets from uploaded file"
+git push
+clear
+exit
+heroku login
+heroku
+heroku apps
+heroku apps --help
+heroku apps:open ucic-smart-attendance
+heroku apps:open --help
+clear
+exit
+php artisan migrate --seed
+clear
+pa serve
+clear
+git push
+git add .
+git commit -m "Fix lecturer_competency table's"
+git push
+clear
+pa migrate --seed
+cd Desktop
+git clone git@github.com:nurisakbar/Garuda-CRUD-Generator.git
+rm -rf Garuda-CRUD-Generator
+exit
+git add .
+git commit -m "Added procfile"
+git push
+git push origin main
+cd Code/grayweb
+git push -u origin main
+git push -u origin master
+cd ../../Desktop
+mkdir ibm-test
+cd ibm-test
+composer require tavux/flysystem-ibm-cos
+subl .
+exit
+php -S localhost:3900
+git add .
+git commit -m "Refactor student/lecturer name in model"
+git push
+composer require matthewbdaly/laravel-azure-storage
+composer require matthewbdaly/laravel-azure-storage --with-all-dependency
+composer require matthewbdaly/laravel-azure-storage --with-all-dependencies
+cd Desktop
+git clone git@github.com:dryanwilliams/PHPAzStorageDemo.git
+cd PHPAzStorageDemo
+composer install
+subl .
+php -S localhost:3200
+cd ,,
+cd ..
+rm -rf PHPAzStorageDemo
+clear
+composer create-project --prefer-dist laravel/laravel laravel-azure-blob-test
+cd laravel-azure-blob-test
+clear
+code .
+composer require steffjenl/laravel-azure-blob-storage
+php -S localhost:3200
+pa serve
+composer uninstall steffjenl/laravel-azure-blob-storage
+composer remove steffjenl/laravel-azure-blob-storage
+composer require league/flysystem-azure-blob-storage
+composer require league/flysystem-azure-blob-storage --with-all-dependencies
+pa serve
+composer remove league/flysystem-azure-blob-storage --with-all-dependencies
+composer update
+pa serve
+cd Desktop
+git clone git@github.com:RCRalph/SelfAccounting.git
+composer require tavux/laravel-ibm-cos
+composer install
+exit
+exit
+composer require cloudinary-labs/cloudinary-laravel
+clear
+php artisan vendor:publish --provider="CloudinaryLabs\CloudinaryLaravel\CloudinaryServiceProvider" --tag="cloudinary-laravel-config"
+php artisan cloudinary:fetch
+pa serve
+compsoer i
+composer install
+clear
+pa serve
+clear
+pa key:generate
+clear
+pa serve
+pa key:generate
+pa serve
+cclear
+clear
+pa config:cache
+pa key:generate
+pa serve

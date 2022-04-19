@@ -1,0 +1,1000 @@
+clear
+git add .
+git commit -m "Remove method show for master data"
+git push
+clear
+touch Procfile
+exit
+clear
+git add .
+git commit -m "Add Procfile for hosted to heroku"
+git push
+pa serve --port=1234
+pa serve --port=6500
+reboot
+clear
+git add .
+git commit -m "Add github workflows for auto deploy to shared hosting"
+git push
+git status
+clear
+cd Code/letter-app/
+git branch --show-current
+ifconfig
+git add .
+git commit -m "Add create new data and back button"
+git push
+clear
+git add .
+git commit -m "Add confirm logout"
+git push
+clear
+exit
+clear
+pa make:controller Admin/IncomingMailController
+pa make:controller Admin/OutgoingMailController
+cd Code/viho/
+pa serve --port=6500
+matikan
+cd Code
+git clone git@github.com:nyancodeid/quotes.git
+code quotes/
+exit
+npm i
+clear
+npm run generate:quotes
+npm run dev
+exit
+pa make:request StoreIncomingMailRequest
+cd Code/
+clear
+cd viho/
+ls
+pa serve --port=6500
+exit
+cd Code/viho/
+php -S public localhost:3000
+php -S localhost:3000 public
+clear
+pa serve --port=6500
+ping google.com
+exit
+git add .
+git commit -m "Add detail of mail"
+git push
+cd Code/viho/
+pa serve --port=9500
+sudo su
+exit
+pa migrate:rollback --step=1
+pa migrate
+cd Code/v
+cd Code/viho/
+clear
+pa serve --port=6500
+exit
+clear
+git add .
+git commit -m "Show delete button in Schedule data at Lecturer dashboard"
+git push
+clear
+git add .
+git commit -m "Add upload digital signature menu in the sidebar"
+git push
+clear
+git add .
+git commit -m "Fix form verifikasi BAP"
+git push
+git add .
+git commit -m "Add upload scan mail"
+git push
+clear
+pa make:model Disposition -mcr
+pa migrate:rollback --step=1
+pa make:model Attachment -m
+clear
+pa migrate
+clear
+git add .
+git commit -m "Add upload file as attachment of mail"
+git push
+pa serve --port=6500
+matikan
+clear
+git add .
+git commit -m "Fix export BAP as PDF"
+git push
+pa make:controller API/AttachmentController
+pa make:controller Admin/AttachmentController
+clear
+git add .
+git commit -m "Refactor attachment of incoming mail"
+git push
+clear
+exit
+clear
+pa storage:link
+git status
+git add .
+git commit -m "Remove some uploaded files"
+git push
+clear
+cd ~/Code/viho/
+pa serve --port=6500
+exit
+clear
+git add .
+git commit -m "Add view incoming mail attachment"
+git push
+celar
+clear
+git add .
+git commit -m "Added delete attachment of incoming mail"
+git push
+clear
+exit
+pa make:seed
+pa make:seed EmployeesTableSeeder
+clear
+pa seed --class=EmployeesTableSeeder
+pa db:seed --class=EmployeesTableSeeder
+clear
+pa db:seed --class=EmployeesTableSeeder
+clear
+pa make:migration change_enum_to_integer_at_level_column
+composer require doctrine/dbal
+clear
+pa migrate
+pa db:seed --class=EmployeesTableSeeder
+clear
+git add .
+git commit -m "Add EmployeesTableSeeder"
+git push
+clear
+git add .
+git commit -m "Add user badge"
+git push
+clear
+pa make:controller Lead/DipositionController
+pa make:controller Leader/DipositionController
+pa make:middleware CheckRoleUser
+clear
+git add .
+git commit -m "Add middleware checkUserLevel"
+git push
+pa make:controller Leader/IncomingMailController
+pa make:controller Leader/OutgoingMailController
+clear
+git add .
+git commit -m "Refactor template layout"
+git push
+clear
+pa make:controller Leader/AttachmentController
+pa view:clear
+pa make:controller Leader/EmployeeController
+exit
+screencopy
+exit
+cd Code/viho/
+pa serve --port=6500
+clear
+exit
+ckear
+clear
+pa make:request StoreDispositionRequest
+clear
+git add .
+git commit
+git commit -m "Add insert and delete disposition from the leader"
+git push
+clear
+git add .
+git commit -m "Add flash message with sweetalert"
+git push
+pa migrate:rollback
+clear
+pa migrate:rollback
+clear
+pa migrate:rollback
+clear
+pa migrate
+clear
+pa migrate:refresh --seed
+pa migrate:rollbacj
+pa migrate:rollback
+pa migrate:refresh --seed
+clear
+pa migrate:refresh --seed
+clear
+pa migrate:refresh --seed
+clear
+git add .
+git commit -m "Fix migration table structure"
+git push
+CLEAR
+clear
+pa migrate:refresh --seed
+clear
+git add .
+git commit -m "Add code in mail type and letter group"
+git push
+sudo systemctl status bluetooth
+clear
+cd Code/viho/
+pa serve --port=6500
+exit
+clear
+git add .
+git commit -m "Fix error run migration -- key too long"
+git push
+pa make:request StoreOutgoingMailRequest
+clear
+pa view:clear
+pa make:migration set_received_date_to_default_null --table=mails
+pa migrate
+cd Code/viho/
+pa seve --port=6500
+pa serve --port=6500
+matikan
+ls
+./Telegram
+cd ..
+rm -rf tsetup.*
+clear
+ls | grep tsetup
+exit
+sudo su
+exit
+eixt
+exit
+pa migrate:rollback --step=1
+pa migrate
+pa migrate:rollback --step=4
+pa migrate
+clear
+git add .
+git commit -m "Add outgoing mail CRUD"
+git push
+git add .
+git commit -m "Add count incoming and outgoing mail i dashboard"
+git push
+clear 
+pa make:controller Admin/GeneralPermission
+pa make:controller Admin/RoadPermitController
+pa make:controller Admin/GeneralPermissionController
+pa make:controller Admin/LeavePermissionController
+clear
+pa make:request StoreRoadPermitRequest
+pa make:request StoreLeavePermissionRequest
+pa make:request StoreGeneralPermissionRequest
+cd Code/viho/
+pa serve --port=6500
+matikan
+exit
+clear
+pa make:migration add_file_to_permit_letters --table=permit_letters
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Add upload and view file at road permit letter"
+git push
+clear
+pa make:request StoreGeneralPermissionRequest
+pa migrate:rollback --step=5
+clear
+pa migrate
+pa migrate:refresh --step=1
+pa migrate
+CLEAR
+clear
+pa migrate
+git add .
+git commit -m "Add CRUD  general permission"
+git push
+clear
+git add .
+git commit -m "Add possible to change dark or light mode"
+git push
+cd Code/viho
+pa serve --port=6500
+clear
+exit
+clear
+cleaf
+clear
+git add .
+git commit -m "Add CRUD Leave permission + update edit proccess in General permission"
+git push
+clear
+pa make:model Adress -m
+pa make:model Address -m\
+pa make:model Address -m
+clear
+pa migrate
+cd Code/viho/
+php artisan serve --port=6500
+pa make:controller Admin/AddressController
+pa make:controller API/AddressController
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Add CRUD Address"
+git push
+ping google.com -t
+ping google.com
+cd Code/viho/
+pa serve --port=6500
+pa make:model MailAddress -m
+pa migrate
+pa migrate:refresh --step=3
+pa migrate:refresh --step=2
+clear
+pa migrate:refresh --step=1
+clear
+git add .
+git commit -m "Change sender to address"
+git push
+clear
+git add .
+git commit -m "Fix show code letter group in edit form"
+git push
+cd Code/viho/
+clear
+pa serve --port=6500
+matikan
+clear
+pa migrate:refresh --step=6
+clear
+git add .
+git commit -m "Fix change sender to address in mail"
+git push
+clear
+pa make:migration add_parent_id_to_permit_letters --table=permit_letters
+pa migrate
+pa migrate:refresh --step=1
+pa migrate
+clear
+pa migrate
+pa migrate:refresh --step=1
+clear
+pa migrate
+clear
+pa make:model Setting -mc
+pa migrate
+clear
+pa migrate
+pa make:seeder SettingsTableSeeder
+pa db:seed --class=SettingsTableSeeder
+clear
+git add .
+git commit -m "Add update settings"
+git push
+cd Code/viho/
+pa serve --port=6500
+clear
+exit
+pa migrate:refresh --step=1
+pa db:seed --class=SettingsTableSeeder
+clear
+git add .
+git commit -m "Add update leave settings"
+git push
+clear
+pa make:rule CheckRemainingLeave
+exit
+git add .
+git commit -m "Change mail input mail number in outgoing mail form"
+git push
+clear
+pa make:controller Admin/ReportController
+composer require rap2hpoutre/fast-excel
+exit
+clear
+php -m | grep zip
+composer require maatwebsite/excel
+composer remove rap2hpoutre/fast-excel
+clear
+composer dump-autoload
+clear
+php artisan make:export UsersExport --model=User
+php artisan make:export MailsExport --model=Mail
+clear
+git add .
+git commit -m "Add report to excel"
+git push
+clear
+pa view:clear
+pa storage:celar
+pa storage:clear
+pa cache:clear
+clear
+exit
+git remote -v
+clear
+git add .
+git commit -m "Remove dist from template, add custom helper"
+git push
+git push --set-upstream origin master
+git remote -v
+git remote set-url origin git@github.com:ahanafi/codeigniter-attendance-system.git
+git remote -v
+clear
+git push
+git push --set-upstream origin master
+clear
+git add .
+git commit -m "Remove card footer, set card type to primary colors"
+git push
+git add .
+git commit -m "Add confirm logout"
+git push
+clear
+chmod -R 777 uploads
+cd uploads
+ls
+rm 315de13b0f4f84aff12018d0e094a866
+rm 315de13b0f4f84aff12018d0e094a866.png
+clear
+ls
+clear
+exit
+cd Code/viho/
+pa serve
+exit
+clear
+git add .
+git commit -m "Add company profile"
+git push
+clear
+git add .
+git commit -m "Add company location (maps)"
+git push
+clear
+git add .
+git commit -m "Add late tolerance and distance for presence, update footer"
+git push
+clear
+git add .
+git commit -m "Add showbreadcrumb, remove bootstrap class - table responsive
+"
+git push
+clear
+git add .
+git commit -m "Change report header"
+git push
+clear
+git add .
+git commit -m "Fix datatables responsive in attendance list"
+git push
+clear
+git add .
+git commit -m "Add responsive presence page"
+git push
+clear
+pa routes
+pa route:list
+clear
+composer require garygreen/pretty-routes
+clear
+pa serve
+exit
+ckear
+clear
+git add .
+git commit -m "Add show company name and show logo in login form"
+git push
+clear
+git add .
+git commit -m "Add alert distance"
+git push
+CLEAR
+clear
+git add .
+git commit -m "Add total user, employee, and attendance today in dashboard"
+git push
+clear
+cd uploads/
+ls
+clear
+ll
+rm 761b1cf90ef6c6b82c0277f4541b18f4.jpg cf28d14427de1f592e3e9fbf0fafe9ba.jpg 
+clear
+ls
+rm a27f089e3f3878be821ed8380e308d90.jpg 
+clear
+git add .
+git commit -m "Add user profile, change password user"
+git push
+git push 
+git add .
+git commit -m "Add profile page, change password"
+git push 
+git add .
+git commit -m "Add profile page, change password"
+git restore --staged .
+clear
+git status
+clear
+git restore .
+clear
+git status
+clear
+git add .
+git status
+clear
+git commit -m "Update"
+git push
+celar
+ls -la
+cd ..
+clear
+ls
+git add .
+git commit -m "Add logout"
+git push
+clear
+git add .
+git commit -m "Load attendance today after check user location"
+git push
+clear
+git add .
+git commit -m "Fix responsive on mobile phone"
+git push
+cd Code/viho/
+pa serve --port 6500
+exit
+clear
+git add .
+git commit -m "Change table class name"
+git push
+reboot
+pa serve
+clear
+pa make:controller Admin/OutgoingMailAttachmentController
+clear
+git add .
+git commit -m "Add upload attachment at outgoing mails"
+git push
+clear
+pa make:migration change_numbers_in_permit_letters --table=permit_letters
+clear
+git add .
+git commit -m "Change input number letter in road permit form, fix edit road permit link"
+git push
+clear
+git add .
+git commit -m "Add - delete attachment when deleting permit letter"
+git push
+clear
+pa make:rule CheckUnifishedApplicationLetter
+pa make:migration add_status_to_permit_letters_and_mails --table=permit_letters
+pa migrate
+git push
+git add .
+git commit -m "Add parent_id to letter, auto create permit road letter when user create leave permission letter"
+git push
+clear
+git add .
+git commit -m "Add validation to prevent apply permission when there are active application letter"
+git push
+ceolar
+clear
+git add .
+git commit -m "Update link in leader dashboard page"
+git push
+cd Code/viho/
+pa serve --port=6500
+matikan
+exit
+clear
+git add .
+git commit -m "Add permission letter in leader dashboarad page"
+git push
+clear
+git add .
+git commit -m "Add manager dashboard page"
+git push origin main
+clear
+git add .
+git commit -m "Add staff dashboard page"
+git push
+cd Code/viho/
+pa serve --port=6500
+cd Code/viho/
+clear
+pa serve --port=6500
+clear
+git add .
+git commit -m "Fix responsive on mobile phone"
+git push
+exit
+clear
+git add .
+git commit -m "Add report permission letters"
+git push
+clear
+git add .
+git commit -m "Add ID translation"
+git push
+clear
+git add .
+git commit -m "Make breadcrubm dinamically"
+git push
+clear
+pa make:controller ProfileController
+clear
+git add .
+git commit -m "Add profile user"
+git push
+cd Code/viho/
+pa serve --port=6500
+clear
+git add .
+git commit -m "Fix base url function"
+git push origin master
+git remote -v
+git set 
+git remote --set-url git@github.com:ahanafi/go-bengkel.git
+git remote set-url git@github.com:ahanafi/go-bengkel.git
+git remote set-url --push git@github.com:ahanafi/go-bengkel.git
+git remote set-url --push origin git@github.com:ahanafi/go-bengkel.git
+clear
+git remote -v
+git remote set-url --fetch origin git@github.com:ahanafi/go-bengkel.git
+git push origin master
+exit
+clear
+git add .
+git commit -m "Add detail presence"
+git push origin master
+clear
+git add .
+git commit -m "Add delete presence"
+git push
+clear
+git add .
+git commit -m "Add attendance chart in dashboard page"
+git push
+ngrok http 80
+exit
+clear
+git add .
+git commit -m "Fix date selection in apply leave"
+git push
+clear
+pa make:model WorkUnit -m
+pa migrate:rollback
+pa migrate:reset
+clear
+pa make:model Rank -m
+pa make:model Position -m
+clear
+pa migrate
+clear
+pa migrate
+clear
+pa migrate:rollback
+pa migrate
+pa migrate:rollback
+clear
+pa migrate
+pa migrate:rollback
+lear
+clcea
+clear
+pa migrate
+pa migrate:rollback
+clear
+pa migrate
+clear
+pa migrate:rollback
+clear
+pa make:model Level -m
+pa make:model AccessRights -m
+pa make:model LevelAccessRight -m
+clear
+pa migrate
+clear
+pa migrate
+ckear
+clear
+pa migrate:refresh
+clear
+pa migrate:refresh
+clear
+ckear
+clear
+pa db:seed --class=UsersTableSeeder
+clear
+git add .
+git commit -m "Re-structrue tables"
+git push origin master
+git push origin main
+clear
+pa make:controller Admin/RankController -r
+pa make:controller Admin/PositionController -r
+pa make:controller Admin/WorkUnitController -r
+clear
+pa make:controller API/MasterDataController
+clear
+git status
+git add .
+git commit -m "Add work unit, rank and position CRUD"
+git push
+exit
+clear
+git add .
+git commit -m "Move positions, ranks and work unit to separate tables"
+git push origin main
+pa migrate --refresh
+pa migrate:refresh
+clear
+pa make:seed WorkUnitTableSeeder
+pa make:seed RanksTableSeeder
+pa make:seed WorkUnitsTableSeeder
+pa make:seed PositionsTableSeeder
+clear
+pa db:seed --class=PositionsTableSeeder
+clear
+pa db:seed
+clear
+pa db:seed
+~clear
+clear
+pa db:seed
+clear
+pa db:seed
+pa db:seed --class=WorkUnitsSeederTable
+pa db:seed --class=WorkUnitsTableSeeder
+lcear
+clear
+pa db:seed
+CLEAR
+clear
+pa db:seed
+clear
+git add .
+git commit -m "Remove default language en for input date"
+git push
+pa db:seed
+celar
+composer dump-autoload
+elcear
+clear
+ckear
+clear
+git add .
+git commit -m "Fix too much revision"
+git push origin main
+clear
+pa make:rule ValidateOldPassword
+git add .
+git commit -m "Add change password user"
+git push
+clear
+git add .
+git commit -m "Fix update leave permission"
+git push
+exit
+cd Code/viho/
+clear
+pa serve --port=6500
+clear
+git add .
+git commit -m "Fix leave form"
+git push origin main
+cd Code/viho/
+pa serve --port=6500
+clear
+git add .
+git commit -m "Refactor invalid link in profile"
+git push
+clear
+git branch refactor-version
+git branch
+git switch refactor-version
+git pull
+git pull origin refactor-version
+clear
+git push origin refactor-version
+git branch
+clear
+php artisan view:clear
+php artisan config:clear
+php artisan cache:clear
+clear
+git status
+clear
+git add .
+git commit -m "Refactor: All user level except lv 4 to be single controller"
+git push origin refactor-version
+clear
+git add .
+git commit -m "Fix missing route name"
+git push origin refactor-version
+git add .
+git commit -m "Change error templates"
+git push origin main 
+git push origin refactor-version 
+celar
+clear
+git lo
+git log
+git checkout main 
+git branch
+clear
+git cherry-pick 8e936949359eb5ede7e9cdfd9d5db6b13fb8fee5
+git status
+git push origin main
+clear
+git branch
+git switch refactor-version 
+git pull
+git pull origin refactor-version 
+clear
+git branch
+git status
+clear
+git add .
+git commit -m "Fix invalid route name in API/Controllers"
+git push origin refactor-version 
+celar
+clear
+git checkout main 
+git pull
+clear
+git checkout refactor-version 
+celar
+clear
+git add .
+git commit -m "Fix disposition in incoming mail"
+git push origin refactor-version 
+pa serve --port=7500
+clear
+matikan
+git branch
+git switch main 
+clear
+git branch backup
+git switch backup
+git branch
+git push origin backup
+git switch refactor-version 
+clear
+git switch main
+git pull
+clear
+clear
+git add .
+git commit -m "Report for spreadhseet"
+git push
+clear
+git status
+git add .
+git commit -m "reset db connection"
+git status
+git push
+boot-repair
+sudo apt install boot-repair
+sudo add-apt-repository ppa:yannubuntu/boot-repair
+sudo apt-get install -y boot-repair && boot-repair
+reboot
+cleaf
+clear
+git add .
+git commit -m "Add export presence report to spreadsheet"
+git push
+clear
+ls
+cp .env.example .env
+npm run dev
+clear
+pa key:generate
+pa migrate
+pa storage:link
+clear
+pa serve
+clear
+cd ..
+exit
+git init
+git add .
+git commit -m "Initial project"
+git status
+git reset --hard HEAD
+git status
+clear
+git reset HEAD~1
+git status
+clear
+git add .
+git commit -m "Initial project"
+git branch -M main
+git remote add origin git@github.com:ahanafi/blanjain.git
+git remote -v
+clear
+git init
+git add .
+git branch -M main
+git remote add origin git@github.com:ahanafi/blanjain.git
+git remote -v
+git remote --set-url origin git@github.com:ahanafi/blanjain.git
+git remote set-url --fetch git@github.com:ahanafi/blanjain.git
+git remote set-url --push git@github.com:ahanafi/blanjain.git
+git remote set-url --push origin git@github.com:ahanafi/blanjain.git
+git remote set-url --add origin git@github.com:ahanafi/blanjain.git
+git remote set-url --delete origin git@github.com:ahanafi/blanjain.git
+clear
+git remote -v
+git remote --help
+git remote remove git@github.com:nyancodeid/laravel-8-stisla-jetstream.git
+git remote --help
+clear
+cd .git
+ls
+cat config 
+vi config 
+clear
+cd ..
+git remote -v
+clear
+git status
+git push origin main
+cd .git
+ls
+cd info
+ls
+cd ..
+clear
+ls
+cd ..
+rm .git
+rm -rf .git
+exit
+cd Code/
+git clone git@github.com:nyancodeid/laravel-8-stisla-jetstream.git blanja-in
+cd blanja-in/
+composer install
+composer update
+npm install
+clear
+cd ..
+mv blanja-in blanjain
+clear
+mv blanjain belanjain
+exit
+git init
+git add .
+git commit -m "Initial project"
+git branch -M main
+git remote add origin git@github.com:ahanafi/belanjain.git
+git push -u origin main
+clear
+pa make:model Transaction -mcr
+pa make:model Customer -mcr
+pa make:model Order -mcr
+pa make:model OrderDetail -m
+pa make:model Item -mcr
+git remote -v
+clear
+pa make:model OrderItem -mc
+pa migrate
+git add .
+git status
+git commit -m "Add database migration and models"
+git push origin main
+pa make:seed UsersTableSeeder
+pa db:seed
+clear
+git add .
+git commit -m "Add users table seeder"
+git push origin main
+pa routes
+pa routes:list
+pa route:list
+clear
+composer require garygreen/pretty-routes
+composer require barryvdh/laravel-debugbar --dev
+clear
+exit
+pa storage:link

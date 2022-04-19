@@ -1,0 +1,1 @@
+select * from `data_sets` where `study_program_name` = 'Teknik Informatika' and (`first_trial_examiner` LIKE '%Reza%' OR `second_trial_examiner` LIKE '%Reza%')

@@ -1,0 +1,1 @@
+SELECT kunjungan_tamu.*, donatur.nama AS donatur FROM kunjungan_tamu JOIN donatur USING (id_donatur)  JOIN pengguna USING (id_pengguna)

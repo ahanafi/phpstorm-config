@@ -1,0 +1,1000 @@
+git init .
+git add .
+git commit -m "Reset all files"
+git remote add origin https://github.com/ahanafi/sistem-penilaian-guru.git
+git push origin master
+ls
+ls -l
+clear
+cd ..
+cp skp-system skp-system-backup
+cp skp-system skp-system-backup -r
+ls
+cd skp-system
+git pull
+ls
+clear
+git add .
+git commit -m "Refresh all files"
+git push origin master
+git push origin master --force
+mysql -u root -p
+exit
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+exit
+clear
+php artisan make:migration add_instansi_besaran_donasi_tanggal_donasi_columns --table=donatur
+clear
+php artisan migrate
+clear
+add .
+clear
+git add .
+git commit -m "Change navigation menu, program page content, and etc"
+git push origin master
+clear
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate:rollback --step=1
+php artisan migrate
+clear
+git add .
+git commit -m "Fix registrasi donatur"
+git push origin master
+clear
+ssh root@156.67.220.8
+cd Desktop
+clear
+cd GRAY
+LS
+cls
+clear
+ls
+cat vps-gray
+cat vps-gray.txt
+ssh root@156.67.220.8
+php artisan serve
+clear
+exit
+exit
+clear
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+clear
+matikan
+cd Desktop
+cd ls
+ls
+cd laradmin
+mysql -u root -p
+exit
+cd Desktop
+git clone https://github.com/ahanafi/laradmin.git
+clear
+cd laradmin
+composer update
+clear
+ls -l
+ls -a
+cp .env.example .env
+vi .env
+clear
+php artisan serve
+clear
+php artisan key:generate
+php artisan serve
+php artisan migrate
+php artisan serve
+matikan
+sudo nautilus /usr/share/themes
+clera
+clear
+exit
+php artisan serve
+cd Dekstop
+ls
+clear
+cd Desktop
+ls
+CD LARADMIN
+cd laradmin
+php artisan serve --port=9300
+cd Code
+ls
+cd ../Desktop
+ls
+cd AdminLTE-2.4.18
+ls
+php -S localhost:8900
+clear
+cd ..
+ls
+clear
+laravel new
+clear
+composer create-project --prefer-dist laravel/laravel laravel-adminlte
+cd laravel-adminlte
+clear
+composer require jeroennoten/laravel-adminlte
+php artisan adminlte:install
+clear
+php artisan serve --port=5000
+subl .env
+clear
+php artisan migrate
+clear
+composer require laravel/ui
+php artisan ui vue --auth
+npm install && npm run dev
+npm --version
+node -v
+sudo apt update
+clear
+apt list --upgradable
+clear
+sudo apt upgrade node
+clear
+nvm install --lts
+clear
+sudo apt upgrade nodejs
+clear
+npm --v
+node -v
+clear
+npm run dev
+clear
+php artisan adminlte:install --only=auth_views
+clear
+php artisan serve
+clear
+cd ..
+clear
+kls
+cls
+clear
+ls 
+rm -rf laradmin laravel-adminlte
+clear
+ls
+rm -rf skkni-ggan
+rm -rf skkni-gagan
+clear
+ls 
+rm -rf startbootstrap-sb-admin-2-gh-pages
+clear'
+'
+clear
+exit
+php artisan route:list
+clear
+git add .
+git commit -m "Apply AdminLTE templates"
+git push origin master
+git add .
+git commit -m "Fix article menu templates"
+git push origin master
+clear
+git add .
+git commit -m "Fix kategori and tags view"
+git push origin master
+exit
+clear
+exit
+exit
+cd /var/www/html
+cd codeigniter-smart-attendance
+ls
+codeigniter-attendance-system
+cd codeigniter-attendance-system
+clear
+ls
+php -S localhost:3000
+clear
+cd ~/Desktop/
+ls
+cd GRAY
+ls
+cat vps-gray.txt
+sshd root@156.67.220.8
+ssh root@156.67.220.8
+exit
+cd COde
+cd Code
+ls
+cd smart-attendances-system
+cd smart-attendance-system
+clear
+adonis serve
+clear
+adonis serve --dev
+clear
+adonis --help
+adonis install
+clear
+adonis serve
+exit
+git add .
+git commit -m "Fix kantor cabang templates with lat long"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Fix form update sosial media links"
+git push origin master
+clear
+exit
+php artisan serve
+clear
+git add .
+git commit -m "Fix update template
+ slider"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Fix update view in profile page"
+git push origin master
+clear
+exit
+cd Code/grayweb
+php artisan route:list
+clear
+php artisan route:list
+clear
+php artisan route:list
+git add .
+git commit -m "Fix nomor rekening view"
+git push origin master
+clear
+git add .
+git commit -m "Fix update donasi view"
+gut push origin master
+git push origin master
+clear
+exit
+cd Code/grayweb
+php artisan route:list
+clear
+php artisan route:list
+celar
+clear
+celar
+clear
+php artisan route:list
+clear
+exit
+php artisan make:migration change_programs_to_program_campaign_table
+clear
+php artisan migrate
+clear
+git add .
+git commit -m "Fix update view program campaign and jenis program"
+git push origin master
+clear
+php artisan make:controller Back/Account
+php artisan make:controller Back/AccountController
+php artisan serve
+exit
+clear
+cd Desktop/GRAY
+ls
+clear
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+php artisan make:rule MatchOldPassword
+git add .
+git commit -m "Update profile account page, profile page, and change password"
+clear
+git push origin master
+git add .
+git commit -m "Fix article view with pagination"
+git push origin master
+clear
+php artisan make:controller Back/TentangKamiController --r
+php artisan make:controller Back/TentangKamiController -r
+clear
+git add .
+git commit -m "Add tentang kami form update"
+git push origin master
+clear
+exit
+clear
+git add .
+git commi -m "Fix meta tags for SEO - share article to fb and others"
+git commit -m "Fix meta tags for SEO - share article to fb and others"
+git push origin master
+cd ~/Desktop/GRAY
+cat vps-gray.txt
+ssh root@156.67.220.8
+clear
+exit
+php artisan serve
+clear
+git add .
+git commit -m "Fix templates for kurban"
+git push origin master
+php artisan make:model JemputZakat -m
+php artisan make:controller Back/JemputZakatController
+clear
+php artisan make:model Program -m
+clear
+php artisan migrate
+clear
+php artisan migrate:rollback --step=2
+clear
+php artisan make:migration create_new_programs_table
+php artisan migrate:rollback --step=2
+cler
+clear
+php artisan migrate:rollback --step=2
+clear
+php artisan migrate
+clear
+git add .
+git commit -m "Fix rename programs table, add jemput zakat and info kurban"
+git push origin master
+clear
+php artisn serve
+php artisan serve
+clear
+php artisan serve
+php -v
+clear
+exit
+clear
+git add .
+git commit -m "Update kantor cabang and anak asuh views"
+git push origin master
+c;ear
+clear
+git add .
+git commit -m "Update maps"
+git push origin master
+clear
+php artisan make:controller Back/ProgramController -r
+exit
+php artisan migrate:rollback --step=1
+php artisan migrate
+php artisan migrate:rollback --step=1
+clear
+php artisan migrate
+clear
+git add .
+git commit -m "Update menu program | program campaign and templates"
+git push origin master
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+ssh root@156.67.220.8
+matikan
+clear
+exit
+exit
+ping 8.8.8.8
+clear
+exit
+php artisan make:migration add_text_whatsapp_to_kontak --table=kontak
+clear
+php artisan migrate
+clear
+git add .
+git commit -m "Add jenis donasi, fix donatu regis., multi rekening ewallets, etc"
+git push origin master
+clear
+exit
+php artisan serve
+clear
+php artisan serve --port=9800
+clear
+exit
+php artisan serve
+clear
+git add .
+git commit -m "Fix login page title"
+git push origin master
+cd Desktop/GRAY
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+git add .
+git commit -m "Update rekening ewallets view in public page"
+git push origin master
+ls
+cd ..
+clear
+cd Code/grayweb
+php artisan serve
+clear
+cd ../../Desktop/GRAY
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+git add .
+git commit -m "Fix updating account"
+git push origin master
+php artisan serve
+clear
+eixt
+exit
+git add ,
+git add .
+git commit -m "Remove PO feature"
+git push origin master
+clear
+git add .
+git commit -m "Change delete button bg color"
+git push origin master
+clear
+git add .
+git commit -m "Update input transaksi SPK"
+git push origin master
+c;ear
+clear
+exit
+git add .
+git commit -m "Add bayar hutang + edit config"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Fix filtering view in PI "
+git push origin master
+clear
+cd /etc/logs
+cd /
+ls
+cd var/logs
+cd var
+ls
+cd ..
+ls
+cd clear
+clear
+ls -l
+cd var
+ls
+cd log
+ls
+clear
+ls
+cd apache2
+ls
+clear
+ls -l
+subl error.log
+clear
+ls -l
+subl error.log
+subl error.log.1
+subl error.log
+subl error.log.1
+subl access.log
+subl error.log
+clear
+ls
+ls -l
+exit
+git add .
+git commit -m "Refactor project config"
+git push origin master
+cd Desktop/GRAY
+ls
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+cat vps-gray.txt
+cd Desktop/GRAY
+cat vps-gray.txt
+ssh root@156.67.220.8
+exit
+git add .
+git commit -m "Change hutang data to ajax datatable and etc"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add detail hutang modal"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Fix form edit jenis donasi"
+git push origin master
+clear
+composer require yajra/laravel-datatables-oracle:"~9.0"
+clear
+php artisan vendor:publish --provider="Yajra\DataTables\DataTablesServiceProvider"
+clear
+php artisan datatables:make AnakAsuh
+cler
+clear
+git add .
+git commit -m "Applying datatbale style at anak asuh"
+git push origin master
+clear
+git add .
+git commit -m "Fix kantor cabang view"
+git push origin master
+clear
+exit
+exit
+git add .
+git commit -m "Fix 3 column data in article + etc"
+git push origin master
+cd ../../Desktop/GRAY
+cat vps-gray.txt
+clear
+cat vps-gray.txt
+ssh root@156.67.220.8
+exot
+exit
+php artisan serve
+clear
+exit
+git add .
+git commit -m "Add edit hutang"
+git push origin master
+sudo su
+ping 8.8.8.8 
+git add .
+git commit -m "Fix update surat jalan"
+git push origin master
+clear
+ssh kaaawin@103.39.50.106
+matikan
+sudo su
+exit
+cd Code
+ls
+clear
+ls
+composer create-project laravel/laravel thesis-app
+cd thesis-app
+clear
+git ini
+git init
+git add .
+git commit -m "Fresh installation"
+clear
+git branch -M main
+git remote add origin https://github.com/ahanafi/thesis-app.git
+git push -u origin main
+clear
+php artisan serve
+clear
+exit
+git add .
+git commit -m "Update transaction data, sync proccessing, etc"
+git push origin master
+git push origin main
+git add .
+git commit -m "Fix base url"
+git push origin main
+reboot
+git add .
+git commit -m "Fix sinkronisasi data sikeu
+"
+git push origin main
+clear
+git add .
+git commit -m "Fix export laporan"
+git push origin main
+clear
+exit
+cd Desktop
+mkdir test
+subl test
+cd test
+php -S localhost:3000
+cd ..
+rm -rf test
+exit
+git add .
+git commit -m "Add information text in modal sync"
+git push origin main
+clear
+composer require dompdf/dompdf:0.8.3
+composer require phpoffice/phpspreadsheet
+clear
+git add .
+git commit -m "Fix report"
+git push origin main
+clear
+git add .
+git commit -m "Remove library directory"
+git push origin master
+clear
+git ad .
+git add .
+git commit -m "Fix laporan kas + add laporan kas excel"
+git push origin master
+c;ear
+clear
+exit
+git add .
+git commit -m "Fix laporan kas pdf and excel"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add export laporan pi -- pdf, excel, print"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add laporan spk"
+git push origin master
+exit
+git add .
+git commit -m "Add laporan hutang"
+git push origin master
+clear
+exit
+composer create-project --prefer-dist laravel/laravel /
+composer create-project --prefer-dist laravel/laravel .
+clear
+ls -a
+cd ..
+composer create-project --prefer-dist laravel/laravel laravel-inertia
+exit
+cd Code/
+ls
+ls laravel-inertia
+ls
+cd laravel-inertia
+ls
+ls -a
+rm .idea
+rm .idea -rf
+clear
+cd ../
+composer create-project --prefer-dist laravel/laravel laravel-inertia
+exit
+composer require laravel/ui
+npm install && npm run dev
+clear
+sudo su
+exit
+ls -a
+clear
+sudo su
+npm --version
+clear
+exit
+npm -v
+node -v
+clear
+npm run dev
+npm --version
+node --version
+sudo nautilus .
+sudo apt upgrade nodejs
+sudo apt upgrade node
+sudo apt upgrade nodejs
+node -v
+c;ear
+clear
+exit
+npm install && npm run dev
+clear
+composer require inertia/inertia-laravel
+composer require inertiajs/inertia-laravel
+clear
+exit
+nvm -v
+sudo apt install nvm
+clear
+sudo apt install node
+sudo apt install nodejs
+sudo apt upgrade nodejs
+which node
+cd /Downloads
+cd Downloads
+ls
+clear
+ls -d
+ls
+ls | grep node
+clear
+ls | grep node
+ls -l | grep node
+cd node-v14.16.1-linux-x64
+ls
+cd bin
+ls
+which node
+clear
+sudo npm cache clean -f
+sudo npm install -g n
+sudo n latest
+node -v
+npm -v
+node --versio
+node --version
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+clear
+npm run watch
+clear
+php artisan make:model Contact -mcr
+clear
+mysql -u root -p
+exit
+php artisan route:list
+clear
+npm run dev
+php artisan migrate
+clear
+php artisan serve
+cd Code
+git clone https://github.com/polaweb/laravel8-inertiajs-vue3-boilerplate.git
+cd laravel8-inertiajs-vue3-boilerplate
+npm install
+npm run dev
+php artisan serve --port=1111
+subl .
+php artisan serve --port=1111
+matikan
+git add .
+git commit -m "Add laporan hutang - pdf "
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add laporan hutang - excel"
+git push origin master
+clear
+exit
+cd Code
+ls
+rm -rf laravel8-inertiajs-vue3-boilerplate laravel-inertia
+composer create-project --prefer-dist laravel/laravel laravel-inertia
+cd laravel-inertia
+clear
+composer require laravel/jetstream
+clear
+php artisan jetstream:install inertia
+npm install
+ckear
+clear
+npm cache clean --force
+npm install
+npm run dev
+clear
+php artisan migrate
+clear
+mysql -u root -p
+clear
+vi .env
+clear
+php artisan migrate
+clear
+php artisan make:model Contact -mcr
+exit
+cd Code/laravel-inertia
+npm run watch
+clear
+php artisan route:list
+exit
+composer update
+npm update
+c;ear
+clear
+npm run watch
+clear
+php artisan serve
+php artisan migrate
+clear
+php artisan migrate
+php artisan serve
+composer global require laravel/installer
+cd Desktop
+laravel nerw
+laravel new
+clear
+source
+source --v
+cd ..
+sudo subl .bashrc
+sudo subl .bash_profile
+sudo subl .zshrc
+terminal
+exit
+laravel new
+source ~/.bashrc
+laravel
+laravel new
+exit
+echo $PATH
+sudo subl .bashrc
+exit
+laravel
+exit
+mysql -u root -p
+clear
+composer require inertiajs/inertia-laravel
+clear
+npm install inertiajs/inertia-vue --save
+clear
+npm install inertiajs/inertia-vue --save
+clear
+exit
+cd Code
+composer create-project laravel/laravel inertia-test
+code .
+code inertia-test
+cd inetia-test
+cd inertia-test
+npm install inertiajs/inertia-vue --save
+cd ..
+rm -rf inertia-test
+clear
+exit
+cd Code
+git clone https://github.com/inertiajs/pingcrm.git
+cd pingcrm
+composer install
+clear
+npm ci
+clear
+npm run dev
+clear
+cp .env.example .nev
+mv .nev .env
+subl .
+cd ..
+composer create-project laravel/laravel laravel-inertia
+ls
+rm -rf laravel-inertia
+composer create-project laravel/laravel laravel-inertia
+cat .env
+cd laravel-inertia
+cat .env
+cd ../pingcrm
+clear
+php artisan key:generate
+clear
+php artisan db:seed
+clear
+pgp artisan migrate
+php artisan migrate
+php artisan db:seed
+clear
+php artisan serve
+clear
+exit
+npm run watch
+clear
+npm run dev
+npm run watch
+clear
+composer require inertiajs/inertia-laravel
+clear
+php artisan inertia:middleware
+clear
+php artisan make:controller PagesController
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install
+clear
+npm install vue
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm install vue-template-compiler --save-dev --production=false
+npm install resolve-url-loader --save-dev --production=false
+clear
+npm run dev
+npm run watch
+clear
+php artisan serve
+clear
+php artisan make:controller UserController
+exit
+php artisan migrate
+php artisan make:seed UsersTableSeeder
+php artisan db:seed
+clear
+php artisan make:controller UserController -r
+php artisan serve
+clear
+matikan
+cd Code
+clear
+laravel new
+clear
+composer create-project laravel/laravel laravel-inertia-crud
+clear
+composer require inertiajs/inertia-laravel
+code .
+code laravel-inertia-crud
+exot
+exit
+php artisan migrate
+php artisan inertia:middleware
+clear
+<html>
+clerar
+clear
+composer require inertiajs/inertia-laravel
+clear
+php artisan inertia:middleware
+clear
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install
+clear
+npm run dev
+clear
+npm install bootstrap@next
+clear
+npm run watch
+clear
+npm run watch
+npm uninstall bootstrap@next
+clear
+php artisan serve
+exit
+exit
+php artisan serve
+clear
+git init
+git add .
+git commit -m "Initial commit"
+ckear
+clear
+git branch -M main
+git remote add origin https://github.com/ahanafi/laravel-inertia-crud.git
+git push -u origin main
+clear
+npm run watch
+npm install @inertiajs/inertia @inertiajs/inertia-vue
+npm install vue
+clear
+php artisan make:controller PagesController
+npm run watch
+clear
+npm run watch
+clear
+npm run watch
+clear
+npm run dev
+clear
+exit
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+npm run dev
+clear
+exit
+npm run watch
+clear
+exit
+php artisan serve
+exit
+git add .
+git commit -m "Applying inertiajs response"
+git push origin main
+clear
+composer require laravel/ui
+php artisan ui vue --auth
+npm install && npm run dev
+php artisan migrate
+clear
+composer require tightenco/ziggy
+clear
+php artisan route:list
+exit

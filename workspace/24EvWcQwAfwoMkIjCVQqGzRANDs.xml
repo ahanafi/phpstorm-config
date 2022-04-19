@@ -1,0 +1,200 @@
+<project version="4">
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/function.php" />
+        <option value="$PROJECT_DIR$/User.php" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/phpunit.xml" />
+        <option value="$PROJECT_DIR$/tests/FunctionTest.php" />
+        <option value="$PROJECT_DIR$/src/Queue.php" />
+        <option value="$PROJECT_DIR$/src/QueueException.inc" />
+        <option value="$PROJECT_DIR$/tests/QueueTest.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/src/Mailer.inc" />
+        <option value="$PROJECT_DIR$/tests/MockTest.php" />
+        <option value="$PROJECT_DIR$/src/User.php" />
+        <option value="$PROJECT_DIR$/tests/ExampleTest.php" />
+        <option value="$PROJECT_DIR$/src/TemperatureService.php" />
+        <option value="$PROJECT_DIR$/src/WeatherMonitor.php" />
+        <option value="$PROJECT_DIR$/tests/WeatherMonitorTest.php" />
+        <option value="$PROJECT_DIR$/src/Order.php" />
+        <option value="$PROJECT_DIR$/tests/OrderTest.php" />
+        <option value="$PROJECT_DIR$/src/ItemChild.php" />
+        <option value="$PROJECT_DIR$/src/Item.php" />
+        <option value="$PROJECT_DIR$/tests/ItemTest.php" />
+        <option value="$PROJECT_DIR$/tests/ProductTest.php" />
+        <option value="$PROJECT_DIR$/src/Product.php" />
+        <option value="$PROJECT_DIR$/src/AbstractPerson.php" />
+        <option value="$PROJECT_DIR$/src/Doctor.php" />
+        <option value="$PROJECT_DIR$/tests/AbstractPersonTest.php" />
+        <option value="$PROJECT_DIR$/src/Mailer.php" />
+        <option value="$PROJECT_DIR$/tests/UserTest.php" />
+        <option value="$PROJECT_DIR$/tests/MailerTest.php" />
+        <option value="$PROJECT_DIR$/readme.md" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" x="0" y="27" width="1920" height="1053" extendedState="6" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="php-unit-course" type="b2602c69:ProjectViewProjectNode" />
+              <item name="php-unit-course" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local (2)" currentWorkingDirectory="$PROJECT_DIR$" commandHistoryFileName="history-978" />
+    </option>
+  </component>
+  <component name="TestHistory">
+    <history-entry file="ExampleTest_testAddingTwoPlusTwoResultsInFour - 2022.01.26 at 21h 53m 25s.xml">
+      <configuration name="ExampleTest.testAddingTwoPlusTwoResultsInFour" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FunctionTest_testAddReturnsTheCorrectSum - 2022.01.26 at 22h 03m 01s.xml">
+      <configuration name="FunctionTest.testAddReturnsTheCorrectSum" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="FunctionTest_testAddReturnsTheCorrectSum - 2022.01.26 at 22h 04m 37s.xml">
+      <configuration name="FunctionTest.testAddReturnsTheCorrectSum" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+    <history-entry file="QueueTest - 2022.01.27 at 06h 15m 43s.xml">
+      <configuration name="QueueTest" configurationId="PHPUnitRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="23295000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.27427962" />
+      <window_info id="Structure" order="1" side_tool="true" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info id="Commit" order="3" />
+      <window_info id="Pull Requests" order="4" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.47309417" />
+      <window_info anchor="bottom" id="Event Log" order="1" side_tool="true" />
+      <window_info anchor="bottom" id="Find" order="2" />
+      <window_info anchor="bottom" id="Run" order="3" weight="0.4013378" />
+      <window_info anchor="bottom" id="Problems View" order="4" />
+      <window_info anchor="bottom" id="Debug" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Inspection" order="7" weight="0.4" />
+      <window_info anchor="bottom" id="Terminal" order="8" visible="true" weight="0.43161434" />
+      <window_info anchor="bottom" id="Services" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Internal Method Tracing" order="10" />
+      <window_info anchor="bottom" id="TypeScript" order="11" />
+      <window_info anchor="bottom" id="Flow" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
+      <window_info anchor="right" id="Key Promoter X" order="0" />
+      <window_info anchor="right" id="Database" order="1" />
+      <window_info anchor="right" id="Laravel Tinker" order="2" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/phpunit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="52">
+          <caret line="2" column="18" selection-start-line="2" selection-start-column="18" selection-end-line="2" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="13" column="21" selection-start-line="13" selection-start-column="21" selection-end-line="13" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Queue.php" />
+    <entry file="file://$PROJECT_DIR$/src/QueueException.php" />
+    <entry file="file://$PROJECT_DIR$/tests/QueueTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/MockTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/FunctionTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/User.php" />
+    <entry file="file://$PROJECT_DIR$/src/function.php" />
+    <entry file="file://$PROJECT_DIR$/tests/ExampleTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="1" selection-start-line="9" selection-start-column="1" selection-end-line="9" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/TemperatureService.php" />
+    <entry file="file://$PROJECT_DIR$/src/WeatherMonitor.php" />
+    <entry file="file://$PROJECT_DIR$/tests/WeatherMonitorTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/OrderTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="291">
+          <caret line="14" column="38" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Order.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="356">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ItemChild.php" />
+    <entry file="file://$PROJECT_DIR$/src/Item.php" />
+    <entry file="file://$PROJECT_DIR$/tests/ItemTest.php" />
+    <entry file="file://$PROJECT_DIR$/tests/ProductTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/Product.php" />
+    <entry file="file://$PROJECT_DIR$/src/AbstractPerson.php" />
+    <entry file="file://$PROJECT_DIR$/src/Doctor.php" />
+    <entry file="file://$PROJECT_DIR$/tests/AbstractPersonTest.php" />
+    <entry file="file://$PROJECT_DIR$/src/Mailer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="624">
+          <caret line="27" column="43" lean-forward="true" selection-start-line="27" selection-start-column="43" selection-end-line="27" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/UserTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="104">
+          <caret line="51" column="39" selection-start-line="51" selection-start-column="39" selection-end-line="51" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tests/MailerTest.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="14" column="29" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="52">
+            <caret line="2" column="58" selection-start-line="2" selection-start-column="58" selection-end-line="2" selection-end-column="58" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

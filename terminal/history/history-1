@@ -1,0 +1,1000 @@
+clear
+adonis 
+adoni migration:run
+adonis migration:run
+clear
+adonis make:migration add_recognize_type_to_settings --type=table
+adonis make:migration add_recognize_type_to_settings
+clear
+adonis migration:run
+clear
+adonis serve --dev
+clear
+git add .
+git commit -m "Added company profile table"
+git push origin master
+cd Code
+cd modern-*
+ls
+php -S localhost:9000
+php -S localhost:9500
+clear
+matikan
+exit
+start_app
+matikan
+git add .
+git commit -m "Add change company profile logo"
+git push origin master
+clear
+start_app
+clear
+matikan
+start_app
+clear
+adonis make --help
+adonis make
+adonis
+adonis make:middleware
+adonis make:middleware CompanyProfile
+clear
+adonis serve --dev
+clear
+matikan
+start_app
+clear
+git add .
+git commit -m "Change some view with company profile"
+git push origin master
+matikan
+start_app
+clear
+git add .
+git commit -m "Add recognize type in setting"
+git push origin master
+clear
+exit
+git add .
+git commit -m "Add detail in pembayaran piutang data and edit page"
+git push origin master
+start_app
+exit
+git add .
+git commit -m "Add update pembayaran piutang data"
+git push origin master
+exit
+git add .
+git commit -m "Add detail pembayaran hutang and fix pembayaran piutang"
+git push origin masater
+git push origin master
+clear
+git add .
+git commit -m "Fix edit page pembayaran hutang"
+git push origin master
+git add .
+git commit -m "Fix update proccess in pembayaran hutang"
+git push origin master
+git add .
+git commit -m "Updated revision.md"
+git push origin master
+git add .
+git commit -m "Update SQL files"
+git push origin master
+cd /var/www/html
+git clone https://github.com/alfonso0087/ESKomputer.git
+cd ESKomputer
+sublime .
+subl .
+exit
+sudo su
+exit
+ls
+sudo dpkg -i ubuntu13.04-heimdall-frontend_1.4.0-0_amd64.deb
+sudo dpkg -i ubuntu13.04-heimdall-frontend_1.4.0-0_amd64.deb --install
+sudo dpkg -i ubuntu13.04-heimdall-frontend_1.4.0-0_amd64.deb
+exit
+celar
+clear
+cd object-oriented
+ls
+clear
+ls
+dart 01-class.dart
+clear
+dart 01-class.dart
+dart 02-optional-parameter.dart
+clear
+dart 03-lingkaran.dart
+dart 04-cascade-notation.dart
+clear
+dart 04-cascade-notation.dart
+exit
+cd object-oriented
+dart 05-collection.dart
+dart 05-collections.dart
+clear
+ls
+ls -l
+clear
+ls -a
+ls
+clear
+ls
+dart 01-class.dart
+dart 02-optional-parameter.dart
+dart 03-lingkaran.dart
+dart 04-cascade-notation.dart
+dart 05-collections.dart
+sudo su
+exit
+exit
+git add .
+git commit -m "Update some features and fix some errors"
+git push origin master
+matikan
+git add .
+git commit -m "Fix some error logic, add jenis spk, and many changes"
+git push origin master
+exit
+cd ..
+git add .
+git commit -m "Fix update PI and dynamic count subtotal"
+git push origin master
+exit
+git add .
+git commit -m "Fix error cetak nota penjualan and piutang pelanggan"
+git push origin master
+git add .
+git commit -m "Fix potong and status lunas in retur penjualan and supplier"
+git push origin master
+git add .
+git commit -m "Fix show detail hutang lama, lain-lain in hutang supplier"
+git push origin master
+git add .
+git commit -m "Change format to rupiah in biaya"
+git pull origin master
+git push origin master
+git add .
+git commit -m "Fix hitung sisa in pembayaran hutang-piutang"
+git push origin master
+cd ..
+git clone https://gitlab.com/ihamdan991/pos.git
+cd codepos-app
+clear
+cd Desktop
+cd /var/www/html
+subl pos
+matikan
+git add .
+git commit -m "Formating text and add empty db files"
+git push origin master
+screencopy
+matikan
+git add .
+git commit -m "Fix some styling and formating"
+git push origin master
+clear
+git add .
+git commit -m "Fix rumus sisa pembayaran hutang-piutang"
+git push origin master
+git add .
+git commit -m "Fix sidebar subtitle and some changes"
+git push origin master
+git add .
+git commit -m "Fix filtering in cetak"
+git push origin master
+git add .
+git commit -m "Change date format to ID date format d-m-Y"
+git push origin master
+cd /var/www/html/compelete-seluar
+cd /var/www/html/complete-seluar
+php spark serve
+cd ~/Code
+ls
+cd gray-finance-app
+clear
+ls
+rm -rf .
+rm -rf *
+ls
+ls -a
+git add .
+git commit -m "Removed all files"
+git push origin master
+git push origin main
+exit
+sudo su
+sudo apt-get install libbsapi policykit-1-fingerprint-gui fingerprint-gui
+sudo add-apt-repository ppa:fingerprint/fingerprint-gui
+git add .
+git commit -m "Update 4 nov
+"
+git push origin master
+ahanafi
+git push origin master
+cd Code
+ls
+rm -rf gray-finance-app
+cd /var/www/html
+ls
+git clone https://github.com/ahanafi/gray-finance-app.git
+rm -rf gray-finance-app
+git clone https://github.com/ahanafi/gray-finance-app.git
+cd gray-finance-app
+git add .
+composer create-project codeigniter/framework .
+composer create-project codeigniter/framework
+ks
+ls
+clear
+ls
+cd framework
+ls
+mv * ../
+ls
+mv .editorconfig .gitignore ../
+ls
+ls -a
+cd ..
+clear
+ls
+git add .
+git commit -m "Codeigniter 3.11 fresh installation"
+git push origin main
+clear
+rm .env.example .styleci.yml user_guide -rf
+ls
+ls -a
+git add .
+git commit -m "Removed user guide and laravel config sample"
+git push origin main
+clear
+exit
+cd Desktop
+git clone https://github.com/BootstrapDash/Stellar.git
+cd Stelalr
+cd Stellar
+ls
+clear
+ls
+npm i
+chrome
+clear
+google-chrome index.html
+ls
+nautilus .
+npm run test
+exit
+git add .
+git commit -m "Add asset's template and change some codeigniter config"
+git push origin master
+git push origin main
+exit
+which php.ini
+where php.ini
+sudo su
+systemctl apache2 restart
+systemctl restart apache2
+exit
+git add .
+git commit -m "Apply template - Stellar admin"
+git push origin main
+git add ,
+git add .
+git commit -m "Setup database connection"
+git push origin main
+clear
+git add .
+git commit -m "Add models"
+git push origin main
+clear
+git add ,
+git add .
+git commit -m "Add insert jabatan action to db"
+git push origin main
+exit
+sudo su
+exit
+cd Desktop
+mkdir Stellar-CLI
+cd Stellar-CLI
+wget https://www.bootstrapdash.com/demo/stellar-admin/jquery/template/demo_1/index.html
+wget https://www.bootstrapdash.com/demo/stellar-admin/jquery/template/demo_1/
+git add .
+git commit -m "Added datatables, sweetalert, view jabatan"
+git push origin main
+git add .
+git commit -m "Add update and delete jabatan data"
+git push origin main
+git add .
+git commit -m "Add CRUD kantor cabang data and some helper"
+git push origin main
+git add .
+git commit -m "Add manage user operation (CRUD)"
+git push origin main
+git add .
+git commit -m "Add user authentication (login - logout)"
+git push origin master
+git push origin main
+cd /
+;s
+ls
+cd var
+ls
+cd log
+ls
+cd apache2
+ls
+clear
+ls
+cat error.log
+clear
+exit
+git add .
+git commit -m "Add CRUD Operation in data akun penerimaan"
+git push origin main
+exit
+git add .
+git commit -m "Add CRUD operation Donatur"
+git push origin main
+git add .
+git commit -m "Dynamic form donasi"
+git push origin mai
+git push origin main
+git add .
+git commit -m "Add insert donasi operation"
+git push origin main
+ls
+ls -a
+cat bash.rc
+cat .bashrc
+clear
+connect_ssh_gray
+chmod -R 775 assets 
+git add .
+git commit -m "Change template to AdminLTEv3"
+git push origin main
+connect_ssh_gray
+exit
+clear
+git add .
+git commit -m "Use adminlte templating"
+git push origin main
+git add .
+git commit -m "Update .gitignore"
+git push origin main
+git add .
+git commit -m "Add new features and change some bussines logic"
+git push origin master
+git add .
+git commit -m "Add Sales and add uppercases to text"
+git push origin master
+exit
+sudo su
+matikan
+git add .
+git commit -m "Add short app name in sidebar"
+git push origin master
+clear
+cd //
+cd ls
+cd /
+ls
+cd var
+ls
+cd log
+cd apache2
+ls
+clear
+cat error.log
+ls
+cat error.log
+cat error.log.1
+cd ../
+ls
+exit
+cd /log
+cd /var/log/apache2
+ls
+cat access.log
+clear
+cat error.log
+clear
+ssh test.kaaa.win
+ssh testapp@test.kaaa.win
+ssh testapp@kaaa.win
+exit
+cat .bashrc
+connect_ssh_simpeg
+ssh root@103.39.48.202
+ssh root@103.39.48.203
+exit
+exit
+git add .
+git commit -m "Update 12-11-2020, Add sub kategori and etc."
+git push origin master
+clear
+git global --config
+git config --global user.name
+start_app
+exot
+clear
+exit
+git add .
+git commit -m "Add input multi PI in SPK and fix input transaksi"
+git push origin master
+cd uploads
+ls
+mkdir nota-penjualan
+ls
+ls -l
+chmod -R 777 nota-penjualan
+ls -l
+exit
+ls -l uploads
+ls
+sudo dpkg -iurserver-3.8.0.2451.deb
+sudo dpkg -i urserver-3.8.0.2451.deb
+sudo subl /etc/systemd/system/dbus-org.bluez.service
+clear
+sudo systemctl daemon-reload
+sudo systemctl restart bluetooth
+sudo chmod 777 /var/run/sdp
+matikan
+cd uploads/nota-penjualan
+ls
+clear
+ls -l
+rm 20201113-094922.pdf
+kas
+ls
+clear
+ls -l
+rm 20201113-095029.pdf 20201113-095041.pdf
+clear
+ls -l
+exit
+git add .
+git commit -m "Added upload nota penjualan and change supplier to sales"
+git push origin master
+ckear
+clear
+exit
+git add .
+git commit -m "Add pop up show file nota pdf, add total bayar and grand total"
+git push origin master
+cd uploads
+ls
+cp -rf nota-penjualan nota-supplier
+ls -l
+chmod -R 777 nota-supplier
+ls
+cd nota-supplier
+ls
+rm *
+ls
+clea
+clear
+exit
+git add .
+git commit -m "Add upload and total bayar, total hpp, grand total nota supplier"
+git push origin master
+exit
+cd uploads
+ls
+mkdir retur-penjualan retur-supplier
+chmod -R 777 retur-penjualan retur-supplier
+ls -l
+exit
+git add .
+git commit -m "Add upload file in retur penjualan and retur supplier"
+git push origin master
+git add .
+git commit -m "Updated database (sql) files"
+git push origin master
+git ad .
+git add .
+git commit -m "Add total in retur penjualan and retur supplier"
+git push origin master
+mATIKAN
+matikan
+sudo su
+exit
+cd uploads/bukti
+ks
+ls
+clear
+rm *
+ls
+ls -l
+exit
+git add .
+git commit -m "Add `kode_transaksi` and `oleh` column in biaya" 
+git push origin master
+ping 8.9.8.2
+exit
+git add .
+git commit -m "Fix input multiple PI Item in multiple SPK"
+git push origin master
+exit
+git add .
+git commit -m "Add edit SPK and edit transaksi SPK"
+git push origin master
+exit
+cd Desktop
+git clone https://github.com/kangyahya/e-questionnaire.git
+cd e-questionnaire
+ls
+celar
+clear
+ls
+php -S localhost:9000
+subl .
+php -S localhost:9000
+cd ..
+rm -rf e-questionnaire
+exit
+git add ,
+git add .
+git commit -m "Fix input and update input spk, input transaksi spk, transaksi KAS"
+git push origin master
+composer require nasution/terbilang
+git add .
+git commit -m "Add cetak biaya"
+git push origin master
+clear
+exit
+sudo su
+exit
+git add .
+git commit -m "Fix input dan edit SPK"
+git push origin master
+clear
+git add .
+git commit -m "Fix input SPK, edit SPK, add detail transaksi per bank, etc"
+git push origin master
+git add ./
+git add .
+git commit -m "Add rekening koran"
+git push origin master
+exit
+git add .
+git commit -m "Add OOP Test"
+git push origin master
+git push origin main
+clear
+cd middle-test
+clear
+ls
+dart 01-time-conversion.dart
+clear
+dart 01-time-conversion.dart
+clear
+dart 01-time-conversion.dart
+clear
+dart 01-time-conversion.dart
+clear
+ls
+dart 02-simple-calc.dart
+clear
+dart 02-simple-calc.dart
+clear
+dart 02-simple-calc.dart
+clear
+exit
+ls
+cd middle-test
+ls
+dart 03-loops.dart
+clear
+exit
+cd middle-test
+dart 03-loops.dart
+cd ..
+clear
+git add .
+git commit -m "Add middle test exam"
+git push origin main
+git add .
+git commit -m "Fix nomor rekening relation to bank"
+git push origin master
+exit
+sudo su
+change_php_version
+php -v
+cd /var/www/html
+ls
+cd siakad
+exit
+sudo su
+exit
+cd /etc/
+ls
+cd php
+ls
+clear
+ls
+cd 7.4
+ls
+cd apache2
+ls
+sudo subl php.ini
+systemctl apache2 restart
+systemctl restart apache2
+cd ../
+cd ../7.3
+cd apache
+cd apache2
+ls
+subl php.ini
+systemctl restart apache2
+subl php.ini
+systemctl restart apache2
+exit
+ping 8.8.8.8 -t
+ping 8.8.8.8
+matikan
+php -v
+sudo .bashrc
+sudo subl .bashrc
+sudo a2dismod php7.4
+sudo a2enmod php5.6
+sudo service apache2 restart
+systemctl status apache2.service
+sudo update-alternatives --set php /usr/bin/php5.6
+sudo update-alternatives --set phar /usr/bin/phar5.6
+sudo update-alternatives --set phar.phar /usr/bin/phar.phar5.6 
+sudo update-alternatives --set phpize /usr/bin/phpize5.6
+sudo update-alternatives --set php-config /usr/bin/php-config5.6
+systemctl status apache2.service
+sudo service apache2 restart
+clear
+php -v
+sudo a2dismod php5.6
+sudo a2enmod php7.3
+systemctl apache2 start
+sudo a2dismod php7.3
+sudo a2enmod php5.6
+systemctl apache2 restart
+systemctl restart apache2
+sudo a2dismod php5.6
+sudo a2enmod php7.3
+systemctl restart apache2
+exit
+git add .
+git commit -m "Fix input, edit SPK + transaksi, filtering transaksi kas, etc"
+git push origin master
+exit
+matikan
+gksudo gedit /etc/rc.local.shutdown
+sudo gedit /etc/rc.local.shutdown
+exit
+sudo subl /etc/default/grub
+sudo update-grub
+matikan
+sudo subl /etc/default/grub
+sudo update-grub
+reboot
+cd Desktop
+mkdir TechTalk
+cd TeckTalk
+cd TechTalk
+clear
+mkdir NgobarJeh
+cd NgobarJeh
+clear
+composer create-project codeigniter4/appstarter todo-backend
+php -v
+change_php_version
+clear
+composer create-project codeigniter4/appstarter todo-backend
+clear
+ls
+todo-frontend
+mkdir todo-frontend
+cd todo-frontend
+npm install -g @vue/cli
+npm install vue@next
+ls
+clear
+ls
+cd ../todo-backend
+clear
+ls
+php spark serve
+subl .
+php spark serve
+exit
+clear
+ph -ef | grep phpstorm
+ps -ef | grep phpstorm
+kill -9 8227
+kill -9 8558
+kill -9 8645
+kill -9 8983
+clear
+reboot
+sudo su
+exit
+ls
+subl java_error_in_PHPSTORM_11982.log
+ls -a
+clear
+ls
+ls -a
+subl java_error_in_PHPSTORM_11982.log
+clear
+cat java_error_in_PHPSTORM_11982.log
+clear
+ls
+ls -a
+cd .PhpStorm2019.3
+ls
+ls config
+celar
+clear
+ps -ef | grep phpstorm
+kill -9 3334
+kill -9 11723
+kill -9 12439
+kill -9 12834
+kill -9 13903
+ps -ef | grep phpstorm
+clear
+ps -ef | grep phpstorm
+ls
+cd ..
+which phpstorm
+which phpstorm.sh
+where phpstorm.sh
+clear
+cd .config/JetBrains
+ls
+cd PhpStorm2020.2
+ls
+clear
+ls
+cd ..
+ls
+mv ~/.config/JetBrains/PhpStorm2020.2 ~/.config/JetBrains/PhpStorm2020.2-backup
+ls
+exit
+reboot
+ps -a | grep phpstorm
+kill -9 3860
+ps -a | grep phpstorm
+kill -9 4677
+exit
+ps -a | grep phpstorm
+kill -9 5605
+ps -a | grep phpstorm
+ps -ef | grep phpstorm
+reboot
+find
+clear
+find phpstorm
+find PhpStorm
+which phpstorm
+clear
+ls
+ls -a
+clear
+ls
+ls -a
+rm -rf .PhpStorm2019.3
+cd .config
+ls
+celar
+clear
+ls
+cd JetBrains
+ls
+rm -rf PhpWebstorm2020.*
+ls
+rm -rf PhpStorm2020.*
+ls
+clear
+cd /opt
+ls
+rm -rf android-studio
+sudo rm -rf android-studio
+clear
+ls -la
+exit
+./phpstorm
+./phpstorm.sh
+matikan
+sudo su
+clear
+ls
+clear
+cd .config
+ls
+cd JetBrains
+ls
+clear
+rm -rf PhpStorm2020.*
+ls
+cd ../
+cd ../.cache
+ls
+cd JetBrains
+clear
+ls
+rm -rf PhpStorm2020.*
+ls
+clear
+find PhpStorm
+cd ~/Desktop
+ls
+exit
+clear
+cd /opt
+ls
+exit
+clear
+cd /usr/local
+ls
+cd bin
+ls
+pstorm
+./pstorm
+clear
+cd ~/
+ls
+cd .java
+ls
+clear
+cd ..
+sudo find / -name *PhpStorm*
+clear
+ls
+ls -a
+cd /usr/share
+c;ear
+clear
+ls
+cd apport
+ls
+clear
+ls
+./apport
+exit
+java --version
+jvm --version
+javac --version
+exot
+exi
+exit
+reboot
+php -v
+clear
+git add .
+git commit -m "Add status bank"
+git push origin master
+git add .
+git commit -m "Change currency format separator and remove 'Rp' "
+git push origin master
+clear
+php -v
+clear
+sudo a2dismod php7.3
+sudo a2enmod php7.4
+systemctl restart apache2
+php -v
+change_php_version
+clear
+sudo su
+reboot
+sudo subl .bashrc
+exit
+sudo subl .bashrc
+exit
+sudo subl .bashrc
+exit
+clear
+use_php5
+a2dismod php7.4
+sudo a2dismod php7.4
+sytemctl restart apache2
+systemctl restart apache2
+a2enmod php5.6
+sudo a2enmod php5.6
+systemctl restart apache2
+php -v
+change_php_version
+clear
+sudo a2dismod php5.6
+sudo a2dismod php7.3
+sudo a2dismod php7.4
+sudo a2enmod php7.3
+systemctl restart apache2
+clear
+change_php_version
+reboot
+git add .
+git commit -m "Add cetak data PO, PI, Detail PO"
+git push origin master
+clear
+sudo a2dismod php7.4
+sudo a2dismod php7.3
+sudo a2endmod php5.6
+sudo a2enmod php5.6
+systemctl restart apache2
+change_php_version
+clear
+php -v
+clear
+use_php7.3
+use_php73
+subl .bashrc
+use_php7
+clear
+php -v
+change_php_version
+clear
+sudo a2enmod php7.3
+systemctl restart apache2
+use_php7
+subl .bash
+subl .bashrc
+clear
+subl .bashrc
+exit
+use_php5
+php -v
+clear
+sudo su
+exit
+cd Desktp[
+cd Desktop
+cd Programs
+cd ../Downloads/Programs
+clear
+ls
+ls -l
+;s
+ls
+clear
+ls -
+ls -l
+sudo dpkg -i komorebi-2.1-64-bit.deb
+exit
+sudo mv /home/ahanafi/new_wallpaper /System/Resources/Komorebi
+sudo nautilus 
+clear
+sudo su
+matikan
+ls
+nautilus .
+sudo mv /home/ahanafi/xx /System/Resources/Komorebi
+cd /System/Resources/Komorebi
+sudo nautilus .
+exot
+exit
+php -v
+use_php7
+sudo a2enmod php7.3
+res_apache
+rest_apache
+exit
+cat .bashrc
+clear
+ssh root@103.39.50.106
+ssh root@103.39.50.106:774
+ssh root@103.39.48.202
+exit
+start_app
+exit
+start_app
+exit
+ping 8.8.8.8 
+git add .
+git commit -m "Fix currency format for ordering column"
+git push origin master
+git add .
+git commit -m "Fix lain-lain in piutang pelanggan"
+git push origin master
+clear
+python
+exit

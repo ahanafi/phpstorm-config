@@ -1,0 +1,1 @@
+SELECT donasi.*, akun_penerimaan.nama_akun AS akun, donatur.nama AS donatur FROM donasi JOIN akun_penerimaan USING (id_akun_penerimaan)  JOIN donatur USING (id_donatur)  JOIN pengguna USING (id_pengguna)  WHERE id_donasi = 'G00-20201223000001'
